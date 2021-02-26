@@ -1,0 +1,20 @@
+- #[[Community Notes]] [[Community Notes]] {{word-count}}
+    - #Announcements
+    - #Chat ((A place to propose objects of discussion))
+    - #[[GTD Zone]]
+        - **Active Epic(s):**
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+        - **Active Sprint(s):**
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
+        - **Queries:**
+            - **TODO Query:** (created today)
+                - {{[[query]]: {and: [[February 24th, 2021]] [[TODO]] {not: [[query]]}}}}
+            - **TODO Query:** (scheduled for this week)
+                - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]] {not: [[query]]}}}}
+            - **Help Wanted Query:**
+                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+    - #[[Change Log]]
+        - #min-title {{[[query]]: {and: [[February 24th, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+- ---
+- [[Betting Table]]
+    - Test

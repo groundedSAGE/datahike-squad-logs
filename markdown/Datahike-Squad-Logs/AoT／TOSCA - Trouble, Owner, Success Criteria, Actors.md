@@ -1,0 +1,2 @@
+- Algorithm for Framing Problems
+- [TOSCA an Algorithm for Framing Problems (zsolt.blog)](https://www.zsolt.blog/2020/12/tosca-pattern-for-framing-problems.html)

@@ -1,0 +1,18 @@
+- 
+- Status:: #status/active
+- Estimate:: 8 
+- Assigned to:: [[Wade Dominic]]
+    - [[???]] is this needed. The objective is that stories are worked on in squads. 
+- As a [PERSONA] I [want to], [so that] ... 
+    - [[???]] is this needed
+- [[Acceptance Criteria]]
+    - Given I download the branch [[206-cljs-support]] on [[library/datahike]] when I run the ClojureScript tests then they should all pass without any commented out.
+- [[Tasks and subtasks]]
+    - {{[[TODO]]}} `datahike.test.core-test`
+    - {{[[TODO]]}} `datahike.test.entity-test`
+    - {{[[TODO]]}} `datahike.test.transact-test`
+    - {{[[TODO]]}} `datahike.test.lookup-refs-test`
+    - {{[[TODO]]}} `datahike.test.query-test`
+- [[Definition of Done]]
+    - {{[[TODO]]}} Unit tests passed
+    - {{[[TODO]]}} Code reviewed

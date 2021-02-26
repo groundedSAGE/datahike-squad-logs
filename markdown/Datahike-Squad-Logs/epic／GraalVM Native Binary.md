@@ -1,0 +1,13 @@
+- Tags:: #Epics
+    - Status:: #not-populated 
+    - Date Created:: #not-populated
+    - Date Range:: #not-populated
+    - Owner:: #not-populated
+    - Description:: 
+    - Resources::
+        - [List of clojure libraries](https://github.com/BrunoBonacci/graalvm-clojure) that compile to [[GraalVM]]
+        - [Datalevin source](https://github.com/juji-io/datalevin/tree/master/native) compiling to [[GraalVM]]
+    - Related::
+    - ---
+    - ## Hill chart
+    - {{[[TODO]]}} Add once we have the scripts to create them

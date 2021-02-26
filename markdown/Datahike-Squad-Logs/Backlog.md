@@ -1,0 +1,19 @@
+- [[epic/Make Datahike Development Transparent]]
+    - {{[[TODO]]}} [[sprint/1 - Setting up the graph]]
+        - {{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]
+        - {{[[TODO]]}} [[story/Add Epics related to Datahike]]
+        - {{[[TODO]]}} [[story/Create Contributor Onboarding Workflow]]
+        - {{[[TODO]]}} [[story/Create Templates for Daily Notes and Squad Logs]]
+        - {{[[TODO]]}} [[story/This is an example]]
+    - {{[[TODO]]}} [[sprint/2]]
+        - {{[[TODO]]}} [[story/Update GitHub Projects Board]]
+- [[epic/ClojureScript Support]]
+    - {{[[TODO]]}} [[sprint/1 - Setting up the graph]]
+        - {{[[TODO]]}} [[story/ClojureScript tests passing on [[library/datahike]]]]
+- 
+- ---
+- To be ranked {{Find stories missing from the Backlog:42SmartBlock:Backlog Update:42RemoveButton=false}}                  
+    - {{[[TODO]]}} [[story/Provide a polyfill for databases API [[library/konserve]]]]    
+    - {{[[TODO]]}} [[story/Update ClojureScript support in [[library/konserve]]]]
+- ---
+- ### Canceled items

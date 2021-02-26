@@ -1,0 +1,2 @@
+- https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for_8.html#EBS
+    - This is an extremely simple yet very difficult attention-directing exercise. Objective is to develop an accurate and constructive map of the other point of view. It is not about trying to find the weakness in the opponent's argument, but about exploratory examination. What really is the other point of view - not just as it is expressed in an argument form? You are examining the other point of view with a constructive purpose maintaining neutrality and objectivity.

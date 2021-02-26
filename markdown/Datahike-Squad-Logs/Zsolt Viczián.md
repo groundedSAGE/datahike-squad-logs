@@ -1,0 +1,4 @@
+- Information added by [[Wade Dominic]] on [[February 12th, 2021]]
+    - Tags:: #People
+        - Twitter:: [@zsviczian](https://twitter.com/zsviczian)
+        - Website:: [zsolt.blog](https://www.zsolt.blog/)

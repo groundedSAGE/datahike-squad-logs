@@ -1,0 +1,3 @@
+- Graph Link: https://roamresearch.com/#/app/Datahike-Research
+- 
+- [[Datahike-Research]] is an open research project. To coordinate the intentional study of academic and industry literature regarding Databases and Distributed Systems. The goal of this research is to come up with an optimal design for the [[Datahike]] database. It is the architectural work whilst this graph is the engineering work.

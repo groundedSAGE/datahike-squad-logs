@@ -1,0 +1,2 @@
+- URL:: https://github.com/replikativ/datahike
+- Release Version:: [Release 0.3.3](https://github.com/replikativ/datahike/releases/tag/v0.3.3)

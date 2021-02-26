@@ -1,0 +1,33 @@
+- Tags:: #Sprints
+    - Status:: #status/active
+- Status:: #status/active
+- {{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}          
+    - :hiccup [:div {:class "scroller dont-focus-block"}  [:table [:tbody [:tr [:td {:class "head"} "Status"][:td {:class "head"} "Total"]][:tr {:class "odd"}[:td {:class "val"}"To Do"][:td {:class "val"}"16"]][:tr {:class "even"}[:td {:class "val"}"Doing"][:td {:class "val"}"0"]][:tr {:class "odd"}[:td {:class "val"}"Done"][:td {:class "val"}"0"]]]]]
+- ### Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}        
+    - {{[[kanban]]}}
+        - To Do
+            - [[story/Create Contributor Onboarding Workflow]]
+            - [[story/Create Templates for Daily Notes and Squad Logs]]
+            - [[story/This is an example]]
+        - Doing
+            - [[story/Add Epics related to Datahike]]
+            - [[story/Add Stories Specific to Datahike and Underlying Libraries]]
+        - Done
+- ### Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}    
+    - {{line}}
+        - To Do
+            - 0, 0
+            - 1, 3
+            - 2, 16
+        - Done
+            - 0, 0
+            - 1, 0
+            - 2, 0
+- ### Sprint Demo
+- ### Retrospective
+    - {{[[kanban]]}}
+        - Went well
+        - Could have gone better
+        - Questions / Interesting / Puzzles us
+        - Will try next sprint
+- {{Close Sprint:42SmartBlock:Close Sprint}}

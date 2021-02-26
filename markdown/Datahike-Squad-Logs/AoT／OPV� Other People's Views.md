@@ -1,0 +1,23 @@
+- https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for.html#OPV
+    - OPV is pronounced with each letter separate: 'O', 'P', 'V'. It is another attention-directing algorithm designed to increase the breadth of perception. The two key questions in OPV are: __Who is affected by this thinking?__ and __What are the views of those affected?__
+    - OPV is always concerned with **what other people actually think** at this moment – not with what they __should__ think. Also an OPV is about the specific views of other people. You must put yourself in the shoes of those people, to think and feel as they do. OPV is not just a matter of alternative views on the subject. It is about views held by specific people.
+    - The first step in doing an OPV is always to list the people or groups affected. The second step is to imagine the views and thinking of each of these people. In some cases the list of people could be very long. You have to be reasonable about this, don't list those who are only slightly affected.
+    - **Example**
+        - #OPV
+            - **Situation:** Meeting for New-Year's celebrations as an extended family with COVID-19 still out there. 
+            - **Who are affected and what are their views?**
+                - {{table}}
+                    - **People or groups affected**
+                        - **What views are they holding?**
+                    - My Parents 
+                        - - Would like to celebrate with the kids as always
+- - Would like to celebrate with the kids as always - Are concerned about COVID-19 - Are ok to self-quarantine themselves 10 days in advance - Would prefer to visit us to save the hassle of preparations 
+- Are ok to self-quarantine themselves 10 days in advance
+- Would prefer to visit us to save the hassle of preparations
+                    - My Children
+                        - - Would rather celebrate with their friends
+- Want to be out and about during the winter break, and not stay at home in self-quarantine
+                    - My Wife 
+                        - - Will need to do much of the preparations
+- Would want her parents to visit as well
+- Is ok with the idea of self-quarantine

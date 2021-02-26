@@ -1,0 +1,135 @@
+- Squad Log - Meeting
+    - #[[Squad Logs]] [[Lead [[Your Name]]]] {{word-count}} {{or:🟢 In Session | 🏁 Finished}}
+        - #[[Meetings & Discussions]]
+            - Attendees::
+                1. 
+                2. 
+            - #Agenda
+                - 
+            - #[[Daily Log]]
+- Squad Log - Engineering
+    - #[[Squad Logs]] [[Lead [[Your Name]]]] {{word-count}} {{or:🟢 In Session | 🏁 Finished}}
+        - #[[Engineering & Building]]
+            - Attendees::
+                1. 
+                2. 
+            - #Agenda
+                - 
+            - #[[Daily Log]]
+                - 
+- Personal Page
+    - Tags:: #People #Members
+        - About me::
+            - Twitter:: #not-populated
+            - Website:: #not-populated
+            - Location:: #not-populated
+            - Time Zone:: #not-populated
+            - How to contact me:: #not-populated
+        - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+- Getting Started
+    - #[[My Daily Notes]] [[Your Name]] {{word-count}}
+        - **Welcome to Datahike Squad Logs!** 😃
+            - Enter your name above. It must be unique! Once you create your personal page using the [Personal Page Template](((8FcRP6avm))), customize your pre-made Daily Notes Template
+        - **Tips:**
+            - Write some thoughts under your **scratchpad** block
+            - Comment on something in the graph under your **conversation** block
+            - Capture some initial feedback in your **feedback** block
+        - #Scratchpad ((Use this as scrap paper. A place to jot down your ideas)) #not-populated
+            - __write here__
+        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+            - __comment/reply here__
+                - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+        - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated
+    - ---
+- Epic
+    - Tags:: #Epics
+        - Status:: #not-populated 
+        - Date Created:: #not-populated
+        - Date Range:: #not-populated
+        - Owner:: #not-populated
+        - Description:: #not-populated
+        - Resources::
+        - Related::
+        - ---
+        - ## Hill chart
+        - {{[[TODO]]}} Add once we have the scripts to create them
+- Community Notes
+    - #[[Community Notes]] [[Community Notes]] {{word-count}}
+        - #Announcements
+        - #Chat ((A place to propose objects of discussion))
+        - #[[GTD Zone]]
+            - **Active Epic(s):**
+                - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+            - **Active Sprint(s):**
+                - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
+            - **Queries:**
+                - **TODO Query:** (created today)
+                    - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}
+                - **TODO Query:** (scheduled for this week)
+                    - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]]}}}
+                - **Help Wanted Query:**
+                    - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+        - #[[Change Log]]
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+    - ---
+    - 
+- ---
+- [[User Story]]
+    - 
+    - Status:: #status/draft
+    - Estimate:: 1
+    - Assigned to::
+    - As a [PERSONA] I [want to], [so that] ...
+    - [[Acceptance Criteria]]
+        - Given CONTEXT when SOME ACTION IS CARRIED OUT then A SET OF OBSERVABLE OUTCOMES SHOULD OCCUR
+    - [[Tasks and subtasks]]
+        - {{[[TODO]]}} ...
+    - [[Comments]]
+        - 
+    - [[Test Results]]
+        - __insert screenshots, sample data, or other evidence here__
+    - [[Definition of Done]]
+        - {{[[TODO]]}} Unit test passed
+        - {{[[TODO]]}} Code reviewied
+        - {{[[TODO]]}} Acceptance criteria met
+        - {{[[TODO]]}} Functional Tests passed
+        - {{[[TODO]]}} Non-Functional requirements met
+        - {{[[TODO]]}} Product Owner accepts the User Story
+- [[Sprint]]
+    - 
+    - Status:: #status/draft {{Start Sprint:42SmartBlock:Start Sprint}}
+    - {{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}
+    - ### Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}
+        - {{[[kanban]]}}
+            - To Do
+            - Doing
+            - Done
+    - ### Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}
+        - {{line}}
+            - To Do
+            - Done
+    - ### Sprint Demo
+    - ### Retrospective
+        - {{[[kanban]]}}
+            - Went well
+            - Could have gone better
+            - Questions / Interesting / Puzzles us
+            - Will try next sprint
+    - {{Close Sprint:42SmartBlock:Close Sprint}}
+- [[AoT/Choice]]
+    - #choice 
+        - Constraints::
+        - Options::
+        - Decision::
+- [[Persona]]
+    - ### Goals
+        -  
+    - ### Behaviors
+        -  
+    - ### Pain points & Frustrations
+        -  
+    - ### Skills
+        -  
+    - ### Demographics
+        -  
+- [[Roam Agile Template]]

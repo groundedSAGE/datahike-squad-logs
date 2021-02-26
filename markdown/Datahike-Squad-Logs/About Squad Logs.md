@@ -1,0 +1,17 @@
+- Created by:: [[Wade Dominic]] on [[February 12th, 2021]]
+- Related:: [[Welcome 😃]]
+- Description::
+    - This is an attempt to construct a unified environment for tracking and organising the entire development of [Datahike](https://github.com/replikativ/datahike) following an approach inspired by [Remote Mob Programming](https://www.remotemobprogramming.org/). It is a sister project of [[Datahike-Research]].
+    - This will include:
+        - Project Management
+            - Following the process created by [[Zsolt Viczián]] 
+                - [Agile Product Management in Roam - Part 1](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
+                - [Agile Product Management in Roam - Part 2](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
+        - Logs of live recorded development work and member discussions about implementations
+            - Using conventions created by [[Brandon Toner]] and other participants of [Roam-Collective](https://roamresearch.com/#/app/Roam-Collective/page/MorTyZR-2) 
+- Table of Contents::
+    - [[Welcome 😃]]
+    - [[FAQ]]
+    - [[Libraries]]
+    - [[Team Directory]]
+    - [[Epics in Progress]]

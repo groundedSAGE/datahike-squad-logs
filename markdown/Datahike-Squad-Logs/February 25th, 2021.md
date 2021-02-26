@@ -1,0 +1,101 @@
+- #[[Community Notes]] [[Community Notes]] {{word-count}}
+    - #Announcements
+        - [[Betting Table]]
+            - story 1
+    - #Chat ((A place to propose objects of discussion))
+    - #[[GTD Zone]]
+        - **Active Epic(s):**
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+        - **Active Sprint(s):**
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
+        - **Queries:**
+            - **TODO Query:** (created today)
+                - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}
+            - **TODO Query:** (scheduled for this week)
+                - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]]}}}
+            - **Help Wanted Query:**
+                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+    - #[[Change Log]]
+        - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
+    - #[[Daily Log]]
+        - 12:35
+            - added horizontal rule and a new line under my personal template and also for [[Community Notes]]
+        - 12:40
+            - working on setting up automatic backups [*](((HEmkhQAPQ)))
+                - initially set up with the backup strategy outlined [here](https://www.roamstack.com/automatic-backups/)
+                    - I then read after doing this that it was known to fail to backup properly. It also didn't support EDN. Which I already knew. But I figured that it was the best option since it was from the reputable RoamStack domain.
+                    - I found a more maintained automatic backup setup which also supports EDN [here](https://eriknewhard.com/blog/backup-roam-in-github) ([Github link](https://github.com/everruler12/roam2github)).
+        - 13:36
+            - had issues with ticking off that I completed the backups. Turns out it was because I was on a different user to the one that created the TODO. Since I have myself twice in here for testing purposes and running them in different browsers.
+        - 15:08
+            - Writing in "#Scratchpad" thinking about how we structure the project management here.
+            - Also made some changes to the Epics template.  
+        - 21:20 - 23:20
+            - call with [[Christian Wheilbach]] - **messy notes**
+                - each epic could be a blog post and be shared with the community
+                - dependency structure through stories
+                    - eg Story A needs to get done before Story B
+                - scheduling mechanism that makes suggestions on how to coordinate work on the stories/dependencies?
+                    - this would help with finding the most optimal path to getting the stories done. But without forcing the stories being done through automation.
+                    - type systems for tasks?
+                - uncertainties over how much time it takes
+                    - application of probabilities over confidence of story point/time estimates
+                - quantify the value of getting story done
+                    - crowd funding
+                    - lambdaforge value
+                    - OS developer value
+                        - major contributors would like to work on
+                            - they want to learn the thing
+                        - what this story can add to community __eg dev tooling or open source project using datahike__
+                            - quantify by Impact
+                - voting on how the open collective funds are spent??
+                - labour time, money value, democratic synchronisation
+                - pre and post conditions of a story?
+                    - input type, output type
+                        - could rule out invalid story descriptions
+                - betting with small amount of money about predictions of what will get done. Prediction markets are somewhat successful in predictions. Could also make it fun. 
+                - [[Wade Dominic]] 
+                    - Gamify predictions on work? 
+                        - [[Christian Wheilbach]] 
+                            - point is not to gamify the work
+                            - prediction markets for work 6 weeks out could help improve estimates of work that can get done
+                            - types of best
+                                - which story is most likely to fail
+                                - 90% of stories will be done by a certain date
+                            - instead of paying out individuals it gets pooled into an account where they can decide where those resources are spent
+                                - I like this idea ([[Wade Dominic]]) because it is similar to my idea around food cooperatives.
+            - wrote in [[epic/Transaction Monitoring]]
+        - 23:32
+            - writing reflections on days work
+    - #[[GTD Zone]]
+        - {{[[DONE]]}} Set up automatic backups so that this is not a manual process
+        - {{[[TODO]]}} Learn how we can adapt this graph ourselves with custom written code
+    - #Scratchpad
+        - Thoughts on [[project management]]
+            - Thinking about terminologies used here. [[Chris Smothers]] and I already discussed the removal of __Sprint__ and opting to replace it with __Iteration__. Words carry meaning and it makes sense to choose optimal words for that meaning to carry into our workflow. Another big one I would like to tackle is __Backlog__. To be honest just like with sprint this word just gives me anxiety. I don't want to deal with a backlog forever. 
+                - Basecamp has 6 week long __Sprints__ and they take on a different process rather than a __Backlog__ for how they handle what needs to get done. Some of it can be read [here](https://basecamp.com/shapeup/2.1-chapter-07). I personally haven't taken the time to read this book which I would like to make some time for in the very near future. 
+                    - The TL'DR is they have Bets, people pitch what they think needs to be worked on at what they call the __Betting Table__. Critical Bugs obviously get a priority but everything else is tracked and maintained independently by people. Conversations at the betting table are always fresh and **important ideas come back**.
+            - I think there is the possibility to shape a different kind of process with Roam. 
+                - There is an [[rBook]] about **Atomic Project Management** coming at some point which would be worthwhile looking into
+                    - https://twitter.com/Roamfu/status/1364206956051787779?s=20
+                - But in the meantime we need to keep moving forward and iterating on this process. I quite like the idea of individually tracked pitches for said __Betting Table__. Even though what we are doing here is a little different because it is less of a general user facing product I think we can benefit from following a similar process. Stories and Pitches can swirl around in conversations and percolate to the top through voting with something like sliders. This voting would allow us to find what devs find the most meaninful stories to work on during that iteration. By finding what has the most meaning to devs to work on, we would have stronger motivation for the developers to get it done, the work would become almost effortless. 
+                    - I'm thinking we adopt the terminology of Betting Table. It makes sense for how I would run things here. We are going to have a wide array of stakeholders with people funding us on Open Collective, directly through contractual arrangements to LambdaForge for accelerating work that they would like prioritized, and also any major contributors to the codebase.
+                        - #Q What does this mean for the [[Backlog]] page?
+                            - It is currently a list for work todo, work done, and a place to fetch lingering stories. 
+                                - The Betting Table probably needs to have some asynchronicity to it. Roam is very good with asynchronous communication because it is both ephemeral and persistant. This would free up the synchronous time to doing actual work. 
+                                    - So we would want the Betting Table to have a duration of time in which bets are placed.
+                                        - #Q When is the Betting Table activated?
+                                            1. At the start of every iteration for what stories will be added to that iteration
+                                            2. During the decision process of which Epic is to be worked on next after completion of an Epic 
+                                    - We probably want to have a query for shaped and unshaped pitches somewhere as well.  [[???]]
+                - Ideally work is being done on a single branch which is a big part of how momentum is created in the [[mob programming]] methodology. Unless that work is very experimental or a major change like the ClojureScript support. All features need to be worked on in a conflict free way for the most optimum workflow. There could be a story which shows up in two different epics. These epics might have two independent branches which might otherwise have zero conflicts. It would make sense for these stories to get a higher priority and be worked on in a branch that can easily be rebased against by the two independent branches.
+            - **We need to optimize for asynchronous communication since stakeholders and contributors are global**
+    - #Reflection
+        - For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Wheilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them.
+- ---
+- experiments
+    - [[Betting Table]]
+        - [[epic/ClojureScript Support]]
+            - [[sprint/2]]

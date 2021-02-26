@@ -1,0 +1,20 @@
+- 
+- Status:: #status/active
+- Estimate:: 2
+- Assigned to::
+- As an Open Collective or GitHub sponsors supporter I [want to], [so that] ...
+- [[Acceptance Criteria]]
+    - Given CONTEXT when SOME ACTION IS CARRIED OUT then A SET OF OBSERVABLE OUTCOMES SHOULD OCCUR
+- [[Tasks and subtasks]]
+    - {{[[TODO]]}} ...
+- [[Comments]]
+    - 
+- [[Test Results]]
+    - __insert screenshots, sample data, or other evidence here__
+- [[Definition of Done]]
+    - {{[[TODO]]}} Unit test passed
+    - {{[[TODO]]}} Code reviewied
+    - {{[[TODO]]}} Acceptance criteria met
+    - {{[[TODO]]}} Functional Tests passed
+    - {{[[TODO]]}} Non-Functional requirements met
+    - {{[[TODO]]}} Product Owner accepts the User Story

@@ -1,0 +1,5 @@
+- Owner:: #not-populated
+- Description:: Improve query performance with a query planner and a way to optimise frequent/heavy queries
+- ---
+- ## Hill chart
+- {{[[TODO]]}} Add once we have the scripts to create them

@@ -1,0 +1,33 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@groundedSAGE](https://twitter.com/groundedSAGE)
+        - Website:: [groundedsage.dev](https://www.groundedsage.dev/)
+        - Location:: [[Berlin]], [[Germany]]
+        - Time Zone:: [[Central European Standard Time]] ([[UTC]] +1:00)
+        - How to contact me::
+            - Send me a DM on Twitter
+            - DM or @ me on [[Datahike Discord Server]]
+    -  {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}
+- ---
+- I like to call Datahike a:
+    - Worldly Database
+- ## Personal Templates
+    - WDominic - Daily Checkin #roam/templates
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+            - #[[Daily Log]]
+                - /Current Time
+            - #[[GTD Zone]]
+            - #Scratchpad
+            - #Reflection
+        - ---
+        - 
+- ## Squad Lead Template
+    - #[[Squad Logs]] [[Lead [[Your Name]]]] {{word-count}} {{or:🟢 In Session | 🏁 Finished}}
+        - #[[Engineering & Building]]
+            - Attendees::
+                - 
+                - 
+            - #Agenda
+                - 
+            - #[[Daily Log]]
+                - 

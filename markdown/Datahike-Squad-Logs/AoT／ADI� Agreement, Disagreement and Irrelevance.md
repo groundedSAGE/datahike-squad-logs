@@ -1,0 +1,1 @@
+- https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for_8.html#ADI

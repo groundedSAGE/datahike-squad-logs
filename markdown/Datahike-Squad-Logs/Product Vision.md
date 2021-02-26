@@ -1,0 +1,10 @@
+- Created by:: [[Wade Dominic]] on [[February 18th, 2021]]
+- Related:: [[Product Roadmap]]
+- Description::
+    - We are building a graph database designed to allow the global persistence, composition, and querying of data. Since data is everywhere; we want this database to fit as many use cases as possible. Thus the desire is for it to be general purpose enough for usage in: computer resource management, logistics, social networks, sensor data, financial transactions, and any other sources of data. 
+        - [[Datahike]] follows the design of [[Datomic]]. Which has a wide array of [success stories](https://clojure.org/community/success_stories) as well as a long [list of companies](https://clojure.org/community/companies) using it. Datomic is the primary database used at and [now](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank) owned by [[Nubank]] - the largest fintech company in Latin America.
+    - Some may call Datahike a ""Worldly Database"". As it strives to connect all information and knowledge with a unified way to write and query data. Regardless of the domain. 
+- ---
+- [[Archived Content]]
+    - From Agile Template
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FKOktbKi5oT.jpg?alt=media&token=e9fbae77-3bc2-42b5-a04f-9093f9e34bab)

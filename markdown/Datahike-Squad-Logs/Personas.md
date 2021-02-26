@@ -1,0 +1,3 @@
+- [5 essentials for your user persona template (with examples) | Inside Design Blog (invisionapp.com)](https://www.invisionapp.com/inside-design/user-persona-template/)
+- Try `jjOPV`
+- 

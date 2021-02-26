@@ -1,0 +1,8 @@
+- [Zsolt.Blog: TOSCA - Algorithm for Framing Problems](https://www.zsolt.blog/2020/12/tosca-pattern-for-framing-problems.html)
+- #42SmartBlock [[AoT/TOSCA - Trouble, Owner, Success Criteria, Actors]]
+    - #TOSCA
+        - **Trouble:** <%INPUT:What are the symptoms that make this problem real and present? Be specific; Avoid interpretation or solution ideas; Ask "Why now?"%>
+        - **Owner:** <%INPUT:Whose problem is this?%>
+        - **Success Criteria:**<%INPUT:What will success look like, and by when? Include a quantified target if possible.%>
+        - **Actors:** <%INPUT:Which other stakeholders have a say, and what do they want?%>
+        - **Core Question:** <%CURSOR%>

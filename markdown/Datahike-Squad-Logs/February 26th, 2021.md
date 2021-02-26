@@ -1,0 +1,12 @@
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #[[Daily Log]]
+        - 10:56 - 11:10
+            - working on fixing the automatic backups
+            - changed blocks to not be immutable so anyone with access can update existing blocks in the graph
+        - 16:00 - 16:13
+            - "working on fixing the automatic backups"
+    - #[[GTD Zone]]
+    - #Scratchpad
+    - #Reflection
+- ---
+- 

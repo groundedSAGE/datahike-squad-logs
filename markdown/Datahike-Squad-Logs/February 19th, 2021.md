@@ -1,0 +1,94 @@
+- #[[Squad Logs]] [[Lead [[Wade Dominic]]]] {{word-count}} {{or:🏁 Finished | 🟢 In Session}}
+    - #[[Meetings & Discussions]]
+        - Attendees::
+            1. [[Wade Dominic]]
+            2. [[Chris Smothers]]
+        - #[[Daily Log]]
+            - 17:25 - 18:19
+                - [[Chris Smothers]]
+                    - Scribed:: by [[Wade Dominic]]
+                    - likes sprints weekly. It is a good iteration cadence
+                        - if it is something more complicated like hardware then the sprints could be longer
+                        - ideally cycle of learning is one week. Tighter feedback the loop is the more you can learn
+                        - Sign of a good story is it takes no longer than a day. If it takes longer perhaps it could be broken down.
+                    - from his experience you want to cut down on the number of tools for collaboration
+                    - Would be good to auto-generate the roadmap and have it posted into Slack, Discord etc [*](((2WklXsn2F)))
+                    - Answering Questions from [[Wade Dominic]] 
+                        - "#Q Do we put a start date for the sprints?" 
+                            - #Ans Should have a start and end date
+                        - "#Q What do we do when stories aren't finished in a spring?"
+                            - #Ans  Each sprint is a fresh start. If a story is not finished you bring it along to the next sprint if it is decided to keep it. Perhaps you decide to remove it.
+                        - "#Q I wonder what the value is in the Burn Chart?"
+                            - #Ans Not really a Burn Down chart fan
+                                - It's more how do I improve my learning?
+                                - Instead of trying to track and quantify productivity 
+                                    - You want to try and track your ability to estimate work
+                        - "#Q Should we consider using [[Hill Charts]]? [*](((Hvif-nMU0)))"
+                            - #Ans  Hill Charts are more meaningful but better at the Epic level rather than a story level because they are only meant to be a day worth of work
+                        - "#Q Do we keep Retrospectives in the Sprints?"
+                            - #Ans Basecamp does 6 week sprints. So for them they could do a retro.
+                            - #Ans  How [[Chris Smothers]] likes to do Retrospectives and general thoughts on them
+                                - Best to do retrospectives once a month
+                                - After a big release or a big bug
+                                - They are typically an hour or an hour and a half so it's best to try and reduce that time investment
+                - [[Wade Dominic]]
+                    - Questions for [[Chris Smothers]] brought up in the session
+                        - #Q Do we put a start date for the sprints?
+                        - #Q What do we do when stories aren't finished in a spring?
+                        - #Q I wonder what the value is in the Burn Chart?
+                        - #Q Should we consider using [[Hill Charts]]? [*](((Hvif-nMU0)))
+                        - #Q Do we keep Retrospectives in the Sprints?
+                    - I mentioned the roadmap and AoT, mermaid diagrams etc. How the flexibility of Roam allows us to more easily mold this environment to suit our specific needs
+                    - Details we need in the Epics
+                        - Description
+                        - Hill Charts
+                        - Owners - Tech leads etc
+                    - #Obs 
+                        - Perhaps we consider using [[Hill Charts]] instead
+                            - "You want to try and track your ability to estimate work" 
+                - Work through Epics
+                    - Merge ClojureScript related Epics
+                    - {{[[TODO]]}} Need to have descriptions for Epics
+                - Discussion on Sprints
+                    - [[Chris Smothers]] and [[Wade Dominic]]
+                        - Both of us agree to change it from **Sprint** to **Iteration** in the naming
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #[[Daily Log]]
+        - 16:12
+            - Added template for Daily Notes - individual Daily Checkin [*](((2WApOiPrA)))
+                - Related to 
+                    - [[story/Create Contributor Onboarding Workflow]]
+                    - [[story/Create Templates for Daily Notes and Squad Logs]]
+                    - [[epic/Make Datahike Development Transparent]]
+        - 16:31 - 17:05
+            - Adding conventions from [[Roam Collective]]
+                - "Block-level Tags"
+                - "Top-Section Tags"
+                - "Notifications & Mentions"
+                - "Page-type Tags"
+                - "User Interface"
+            - New conventions for this graph
+                - "Squad Modules"
+            - Re-arranging the order of blocks in [[roam/css]] to align more with ordering in [[Roam Collective]] so it is easier to do a visual diff between this graph and that one.
+        - 17:23
+            - Squad Log #roam/templates
+                - #[[Squad Logs]] [[Your Name]]
+                    - #[[Meetings & Discussions]]
+        - 18:35
+            - Created templates for squad sessions [*](((e4cppezXE)))
+                - "Squad Log - Meeting"
+                - "Squad Log - Engineering" 
+        - 19:10
+            - Writing "#Reflection" and catching other tasks identified from the [session](((pDz7IiJv6))) in "#[[GTD Zone]]". I won't do these ones today.[*](((50xIwLftL))) [*](((LzXAu_RH1))) [*](((tum_eQ3Im)))
+        - 19:25
+            - finished for the day
+    - #[[GTD Zone]]
+        - {{[[DONE]]}} Add a template for individual Daily Checkin
+        - {{[[DONE]]}} Add a template for squads sessions and meetings
+        - "{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn)))
+        - {{[[TODO]]}} Update [[Product Roadmap]]
+        - {{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]
+    - #Reflection
+        - Was a good [session](((pDz7IiJv6))) with [[Chris Smothers]] today. Learnt a lot about Product/Project Management. So many nuances of how different people manage projects and different perspectives about what is the best way to manage them. There is no wrong or right answer here. As such I think we are on the right path. This is a new medium for managing projects and we are fortunate that [[Datahike]] is open source so we can do this all publicly.
+        - #[[My Wins]] People I am working with are happy with what I have done here. It's nice to get this kind of feedback. Because at first I thought I was just being too RoamCult-y trying to manage all of this in [[Roam Research]]
