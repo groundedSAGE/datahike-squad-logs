@@ -1,0 +1,10 @@
+- Page Templates
+    - .rcEPC — Epics Template #42SmartBlock #[[roam/templates]]
+        - Tags:: #Epics
+            - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+            - Created by:: #not-populated
+            - Date Range:: #not-populated
+            - Description:: #not-populated
+            - Status:: #not-populated
+            - Resources:: #not-populated
+            - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

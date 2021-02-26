@@ -4,7 +4,9 @@
             - working on fixing the automatic backups
             - changed blocks to not be immutable so anyone with access can update existing blocks in the graph
         - 16:00 - 16:13
-            - "working on fixing the automatic backups"
+            - got automated backups working properly [*](((xdv4hjYLx)))
+                - located at my [[Github]] account [here](https://github.com/groundedSAGE/datahike-squad-logs)
+                    - {{[[TODO]]}} migrate the backups to the [[Replikativ]] account
     - #[[GTD Zone]]
     - #Scratchpad
     - #Reflection

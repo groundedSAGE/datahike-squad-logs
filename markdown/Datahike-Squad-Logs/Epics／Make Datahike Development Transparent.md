@@ -1,0 +1,14 @@
+- Tags:: #Epics
+    - Date Created::
+    - Date Range::
+    - Owner:: [[Wade Dominic]]
+    - Status:: [[Status/Active]]
+    - Iterations::
+        - [[Iterations/1 - Set up the graph]]
+    - Resources::
+        - https://roamresearch.com/#/app/Roam-Collective
+    - Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools. The flexibility for extension is also limited. 
+- ---
+- ## Hill chart
+    - {{[[TODO]]}}  Add once we have the scripts to create them
+- ---

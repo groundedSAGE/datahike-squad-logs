@@ -61,7 +61,7 @@
             - Sent a message to [[Austin Birch]] asking for him to share the script he created for [[Hill Charts]] in Roam [*](((OgP8UUAq1))) 
                 - https://twitter.com/austinbirch/status/1330613743886225411
             - Added "Epic" template
-            - Added details for [[epic/Make Datahike Development Transparent]] 
+            - Added details for [[Epics/Make Datahike Development Transparent]] 
             - Added details for [[epic/ClojureScript Support]]
             - Added details for [[epic/Distributed Connection Management]]
         - 22:10
@@ -100,7 +100,7 @@
         9. Added "Shortcuts::" on [[roam/css]] page 
         10. Added details to some of the Epics 
             - [[epic/ClojureScript Support]]
-            - [[epic/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) 
+            - [[Epics/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) 
             - [[epic/Query Planner and Optimizer]]
             - [[epic/Distributed Connection Management]]
         11. "Added template for "Community Notes""

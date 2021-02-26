@@ -1496,6 +1496,184 @@
         }
       },
       {
+        "string": "Iteration",
+        "create-time": 1614355495586,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "edit-time": 1614355514844,
+            "children": [
+              {
+                "edit-time": 1614355524621,
+                "children": [
+                  {
+                    "string": "Epic::",
+                    "create-time": 1614355524611,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Mufenc7v8"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Mufenc7v8"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "40r9n4dRS",
+                    "edit-time": 1614355531030,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "MX5qS4P-H"
+                  }
+                ],
+                "uid": "X7s54FwQS",
+                ":block/refs": [
+                  {
+                    ":block/uid": "MX5qS4P-H"
+                  }
+                ],
+                "string": "Related::",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614355514834,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Date Created::",
+                "create-time": 1614355533380,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rWKvAbNYj"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rWKvAbNYj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "4PblHiIYO",
+                "edit-time": 1614355537582,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Date Range::",
+                "create-time": 1614355538258,
+                ":block/refs": [
+                  {
+                    ":block/uid": "p1DocpQH9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "p1DocpQH9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "5WOIKacAX",
+                "edit-time": 1614355541931,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Description::",
+                "create-time": 1614355541923,
+                ":block/refs": [
+                  {
+                    ":block/uid": "yqVgWC8Iu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yqVgWC8Iu"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "0AuvAkZnh",
+                "edit-time": 1614355545779,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Status:: ",
+                "create-time": 1614355545770,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rHPiTkAN2"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rHPiTkAN2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "Z-vHzmmdu",
+                "edit-time": 1614355550998,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8hylEFKzO"
+              },
+              {
+                "uid": "diiVTCbO2"
+              }
+            ],
+            "uid": "_v4_fKnIv",
+            ":block/refs": [
+              {
+                ":block/uid": "8hylEFKzO"
+              },
+              {
+                ":block/uid": "diiVTCbO2"
+              }
+            ],
+            "string": "Tags:: #Iterations",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614355502474,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "GsFmeYOxQ",
+        "edit-time": 1614355502335,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
         "string": "---",
         "create-time": 1613170513989,
         "uid": "RoeAmh90V",
@@ -2575,8 +2753,36 @@
     },
     "children": [
       {
-        "edit-time": 1613680718383,
+        "edit-time": 1614355379043,
         "children": [
+          {
+            "string": "{{[[TODO]]}} [[iteration/1]]",
+            "create-time": 1614354502943,
+            ":block/refs": [
+              {
+                ":block/uid": "9v12Vcgoh"
+              },
+              {
+                ":block/uid": "yQj4su1Id"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9v12Vcgoh"
+              },
+              {
+                "uid": "yQj4su1Id"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "_q83NX_c9",
+            "edit-time": 1614354568539,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
           {
             "edit-time": 1614117440209,
             "children": [
@@ -2637,11 +2843,11 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} [[story/Create Contributor Onboarding Workflow]]",
+                "string": "{{[[DONE]]}} [[story/Create Contributor Onboarding Workflow]]",
                 "create-time": 1613679882286,
                 ":block/refs": [
                   {
-                    ":block/uid": "9v12Vcgoh"
+                    ":block/uid": "Nn5xwMWzL"
                   },
                   {
                     ":block/uid": "EiR4gOYn0"
@@ -2649,7 +2855,7 @@
                 ],
                 "refs": [
                   {
-                    "uid": "9v12Vcgoh"
+                    "uid": "Nn5xwMWzL"
                   },
                   {
                     "uid": "EiR4gOYn0"
@@ -2659,17 +2865,17 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "vuaqSr4A7",
-                "edit-time": 1613679931638,
+                "edit-time": 1614354267756,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
               },
               {
-                "string": "{{[[TODO]]}} [[story/Create Templates for Daily Notes and Squad Logs]]",
+                "string": "{{[[DONE]]}} [[story/Create Templates for Daily Notes and Squad Logs]]",
                 "create-time": 1613672766688,
                 ":block/refs": [
                   {
-                    ":block/uid": "9v12Vcgoh"
+                    ":block/uid": "Nn5xwMWzL"
                   },
                   {
                     ":block/uid": "KzeX3w87M"
@@ -2677,7 +2883,7 @@
                 ],
                 "refs": [
                   {
-                    "uid": "9v12Vcgoh"
+                    "uid": "Nn5xwMWzL"
                   },
                   {
                     "uid": "KzeX3w87M"
@@ -2687,7 +2893,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "dWJ_wm8Kz",
-                "edit-time": 1613672878889,
+                "edit-time": 1614354312306,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -2817,7 +3023,7 @@
             ":block/uid": "qISYmdjst"
           }
         ],
-        "string": "[[epic/Make Datahike Development Transparent]]",
+        "string": "[[Epics/Make Datahike Development Transparent]]",
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
@@ -2829,6 +3035,18 @@
       {
         "edit-time": 1613752120361,
         "children": [
+          {
+            "string": "sprint/1",
+            "create-time": 1614354514957,
+            "uid": "xpDRjxmxa",
+            "edit-time": 1614354553902,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
           {
             "edit-time": 1614117440209,
             "children": [
@@ -15238,7 +15456,7 @@
         },
         "children": [
           {
-            "string": "[[epic/Make Datahike Development Transparent]]",
+            "string": "[[Epics/Make Datahike Development Transparent]]",
             "create-time": 1613655190750,
             ":block/refs": [
               {
@@ -15254,7 +15472,7 @@
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
             "uid": "IKsu-eBi7",
-            "edit-time": 1613655253428,
+            "edit-time": 1614355379043,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
@@ -21908,7 +22126,7 @@
   },
   {
     "create-time": 1613655224743,
-    "title": "epic/Make Datahike Development Transparent",
+    "title": "Epics/Make Datahike Development Transparent",
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
@@ -21916,6 +22134,50 @@
       {
         "edit-time": 1614116773613,
         "children": [
+          {
+            "string": "Date Created::",
+            "create-time": 1614354846590,
+            ":block/refs": [
+              {
+                ":block/uid": "rWKvAbNYj"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rWKvAbNYj"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "doBOS--T3",
+            "edit-time": 1614354851535,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Date Range::",
+            "create-time": 1614354852103,
+            ":block/refs": [
+              {
+                ":block/uid": "p1DocpQH9"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "p1DocpQH9"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "lcZ9FkvDh",
+            "edit-time": 1614354855191,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
           {
             "string": "Owner:: [[Wade Dominic]]",
             "create-time": 1614106211691,
@@ -21973,7 +22235,89 @@
             }
           },
           {
-            "string": "Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools. Their flexibility for extension is also limited. ",
+            "edit-time": 1614354932968,
+            "children": [
+              {
+                "string": "[[Iterations/1 - Set up the graph]]",
+                "create-time": 1614354932954,
+                ":block/refs": [
+                  {
+                    ":block/uid": "WNRJEFdz7"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "WNRJEFdz7"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "Xg-VCxe9t",
+                "edit-time": 1614355428713,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "diiVTCbO2"
+              }
+            ],
+            "uid": "4VplbjzsU",
+            ":block/refs": [
+              {
+                ":block/uid": "diiVTCbO2"
+              }
+            ],
+            "string": "Iterations::",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614354928411,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614354862446,
+            "children": [
+              {
+                "string": "https://roamresearch.com/#/app/Roam-Collective",
+                "create-time": 1614354862570,
+                "uid": "dGv_smG0x",
+                "edit-time": 1614354874997,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "i1417DLqD"
+              }
+            ],
+            "uid": "0B76LwG7_",
+            ":block/refs": [
+              {
+                ":block/uid": "i1417DLqD"
+              }
+            ],
+            "string": "Resources::",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614354859221,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools. The flexibility for extension is also limited. ",
             "create-time": 1613752755659,
             ":block/refs": [
               {
@@ -21989,7 +22333,7 @@
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
             "uid": "A-YgsbE6V",
-            "edit-time": 1614106489397,
+            "edit-time": 1614354237324,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
@@ -22069,10 +22413,22 @@
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
+      },
+      {
+        "string": "---",
+        "create-time": 1614355660275,
+        "uid": "-1yCl7VLy",
+        "edit-time": 1614355700221,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
       }
     ],
     "uid": "qISYmdjst",
-    "edit-time": 1613655253428,
+    "edit-time": 1614355379043,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -24203,11 +24559,305 @@
   {
     "create-time": 1613679881687,
     "title": "sprint/2",
-    "uid": "QX5vnWYn2",
-    "edit-time": 1613679881687,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1614355334707,
+        "uid": "Y2z-vwTGa",
+        "edit-time": 1614355334707,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Status:: #status/draft {{Start Sprint:42SmartBlock:Start Sprint}}",
+        "create-time": 1614355341947,
+        ":block/refs": [
+          {
+            ":block/uid": "rHPiTkAN2"
+          },
+          {
+            ":block/uid": "yDntQ1uC6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "rHPiTkAN2"
+          },
+          {
+            "uid": "yDntQ1uC6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "qQfjrxHfs",
+        "edit-time": 1614355341947,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "{{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}",
+        "create-time": 1614355341947,
+        "uid": "_rbojyZ0f",
+        "edit-time": 1614355341947,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}",
+        "create-time": 1614355341947,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "edit-time": 1614355341947,
+            "children": [
+              {
+                "string": "To Do",
+                "create-time": 1614355341947,
+                "uid": "kVf3YWtiv",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Doing",
+                "create-time": 1614355341947,
+                "uid": "rptal22Ar",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Done",
+                "create-time": 1614355341947,
+                "uid": "4ojrZUZob",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XfyXMl2tT"
+              }
+            ],
+            "uid": "Ywsm5-Cxa",
+            ":block/refs": [
+              {
+                ":block/uid": "XfyXMl2tT"
+              }
+            ],
+            "string": "{{[[kanban]]}}",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614355341947,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "kKLF6-gYM",
+        "edit-time": 1614355341947,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}",
+        "create-time": 1614355341947,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "string": "{{line}}",
+            "create-time": 1614355341947,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "children": [
+              {
+                "string": "To Do",
+                "create-time": 1614355341947,
+                "uid": "pGKpFzbEX",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Done",
+                "create-time": 1614355341947,
+                "uid": "yrl_Y88DT",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "uid": "4c3bgfLXg",
+            "edit-time": 1614355341947,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "Tz69Ef-O9",
+        "edit-time": 1614355341947,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Sprint Demo",
+        "create-time": 1614355341947,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "3isDKnp0d",
+        "edit-time": 1614355341947,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Retrospective",
+        "create-time": 1614355341947,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "edit-time": 1614355341947,
+            "children": [
+              {
+                "string": "Went well",
+                "create-time": 1614355341947,
+                "uid": "A7tNO-wPc",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Could have gone better",
+                "create-time": 1614355341947,
+                "uid": "JZiB3P0iz",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Questions / Interesting / Puzzles us",
+                "create-time": 1614355341947,
+                "uid": "kWE8Y9DqT",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Will try next sprint",
+                "create-time": 1614355341947,
+                "uid": "G9VdswApE",
+                "edit-time": 1614355341947,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XfyXMl2tT"
+              }
+            ],
+            "uid": "8hTMgSnfl",
+            ":block/refs": [
+              {
+                ":block/uid": "XfyXMl2tT"
+              }
+            ],
+            "string": "{{[[kanban]]}}",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614355341947,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "-jmsBxI4w",
+        "edit-time": 1614355341947,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "{{Close Sprint:42SmartBlock:Close Sprint}}",
+        "create-time": 1614355341947,
+        "uid": "llvFB4fua",
+        "edit-time": 1614355341947,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "QX5vnWYn2",
+    "edit-time": 1613679881687,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -25861,7 +26511,7 @@
                             }
                           },
                           {
-                            "string": "[[epic/Make Datahike Development Transparent]]",
+                            "string": "[[Epics/Make Datahike Development Transparent]]",
                             "create-time": 1613747762356,
                             ":block/refs": [
                               {
@@ -25877,7 +26527,7 @@
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             },
                             "uid": "40QPxfUcQ",
-                            "edit-time": 1613747798963,
+                            "edit-time": 1614355379043,
                             ":edit/user": {
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             }
@@ -28387,7 +29037,7 @@
                     }
                   },
                   {
-                    "string": "Added details for [[epic/Make Datahike Development Transparent]] ",
+                    "string": "Added details for [[Epics/Make Datahike Development Transparent]] ",
                     "create-time": 1614107856993,
                     ":block/refs": [
                       {
@@ -28403,7 +29053,7 @@
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
                     "uid": "J-ODJeW0D",
-                    "edit-time": 1614107959272,
+                    "edit-time": 1614355379043,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -29283,7 +29933,7 @@
                     }
                   },
                   {
-                    "string": "[[epic/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) ",
+                    "string": "[[Epics/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) ",
                     "create-time": 1614116129380,
                     ":block/refs": [
                       {
@@ -29305,7 +29955,7 @@
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
                     "uid": "IeikTeTY6",
-                    "edit-time": 1614116130329,
+                    "edit-time": 1614355379043,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -30233,11 +30883,83 @@
   {
     "create-time": 1614116351641,
     "title": "Epics",
-    "uid": "e6dIPhv8x",
-    "edit-time": 1614116351652,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "edit-time": 1614354769296,
+        "children": [
+          {
+            "string": "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}",
+            "create-time": 1614354769285,
+            ":block/refs": [
+              {
+                ":block/uid": "n9W406OfJ"
+              },
+              {
+                ":block/uid": "e6dIPhv8x"
+              },
+              {
+                ":block/uid": "mKpRIqmWO"
+              },
+              {
+                ":block/uid": "JgwMo3Q4m"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "n9W406OfJ"
+              },
+              {
+                "uid": "e6dIPhv8x"
+              },
+              {
+                "uid": "mKpRIqmWO"
+              },
+              {
+                "uid": "JgwMo3Q4m"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "WIbOF5Rye",
+            "edit-time": 1614354778362,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8hylEFKzO"
+          },
+          {
+            "uid": "4O0qKTpQj"
+          }
+        ],
+        "uid": "bBUl7PVig",
+        ":block/refs": [
+          {
+            ":block/uid": "8hylEFKzO"
+          },
+          {
+            ":block/uid": "4O0qKTpQj"
+          }
+        ],
+        "string": "Tags:: #Collections",
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "create-time": 1614354761586,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "e6dIPhv8x",
+    "edit-time": 1614116351652,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -31904,13 +32626,16 @@
         }
       },
       {
-        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}",
+        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  ((M8eW6OQHA))",
         "refs": [
           {
             "uid": "n3eBhhrSb"
           },
           {
             "uid": "p46ep77mm"
+          },
+          {
+            "uid": "M8eW6OQHA"
           }
         ],
         "children": [
@@ -33080,13 +33805,16 @@
           }
         ],
         "uid": "_Eh1ughll",
-        "edit-time": 1614346677319,
+        "edit-time": 1614356897682,
         ":block/refs": [
           {
             ":block/uid": "n3eBhhrSb"
           },
           {
             ":block/uid": "p46ep77mm"
+          },
+          {
+            ":block/uid": "M8eW6OQHA"
           }
         ],
         ":edit/user": {
@@ -33425,11 +34153,59 @@
                 },
                 "children": [
                   {
-                    "string": "((xdv4hjYLx))",
-                    "create-time": 1614351628857,
-                    ":block/refs": [
+                    "edit-time": 1614353953780,
+                    "children": [
                       {
-                        ":block/uid": "xdv4hjYLx"
+                        "edit-time": 1614354016761,
+                        "children": [
+                          {
+                            "string": "{{[[TODO]]}} migrate the backups to the [[Replikativ]] account",
+                            "create-time": 1614354021328,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9v12Vcgoh"
+                              },
+                              {
+                                ":block/uid": "_FKgTJ-s5"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "9v12Vcgoh"
+                              },
+                              {
+                                "uid": "_FKgTJ-s5"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "uid": "1114aV4Ap",
+                            "edit-time": 1614354055139,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "h7HDH4YxU"
+                          }
+                        ],
+                        "uid": "uTJrXXMJ-",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "h7HDH4YxU"
+                          }
+                        ],
+                        "string": "located at my [[Github]] account [here](https://github.com/groundedSAGE/datahike-squad-logs)",
+                        ":create/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        },
+                        "create-time": 1614353974738,
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
                       }
                     ],
                     "refs": [
@@ -33437,11 +34213,17 @@
                         "uid": "xdv4hjYLx"
                       }
                     ],
+                    "uid": "5lIGpAP7q",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xdv4hjYLx"
+                      }
+                    ],
+                    "string": "got automated backups working properly [*](((xdv4hjYLx)))",
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
-                    "uid": "5lIGpAP7q",
-                    "edit-time": 1614351718004,
+                    "create-time": 1614351628857,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -33600,6 +34382,406 @@
     ],
     "uid": "02-26-2021",
     "edit-time": 1614292350148,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614353981299,
+    "title": "Github",
+    "uid": "h7HDH4YxU",
+    "edit-time": 1614353981300,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614354563656,
+    "title": "iteration/1",
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    "children": [
+      {
+        "edit-time": 1614354581568,
+        "children": [
+          {
+            "string": "Status:: #status/active",
+            "create-time": 1614354612471,
+            ":block/refs": [
+              {
+                ":block/uid": "rHPiTkAN2"
+              },
+              {
+                ":block/uid": "6CPo86uVF"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rHPiTkAN2"
+              },
+              {
+                "uid": "6CPo86uVF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "0XgqwcBzB",
+            "edit-time": 1614354636665,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "::",
+            "create-time": 1614354636656,
+            "uid": "7G25jHHl8",
+            "edit-time": 1614354640999,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8hylEFKzO"
+          },
+          {
+            "uid": "diiVTCbO2"
+          }
+        ],
+        "uid": "pEk2TwS3H",
+        ":block/refs": [
+          {
+            ":block/uid": "8hylEFKzO"
+          },
+          {
+            ":block/uid": "diiVTCbO2"
+          }
+        ],
+        "string": "Tags:: #Iterations",
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "create-time": 1614354572028,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "yQj4su1Id",
+    "edit-time": 1614354563657,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614354581569,
+    "title": "Iterations",
+    "uid": "diiVTCbO2",
+    "edit-time": 1614354581570,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614355428720,
+    "title": "Iterations/1 - Set up the graph",
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1614355443526,
+        "uid": "jMM_eZS5U",
+        "edit-time": 1614355443526,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "WNRJEFdz7",
+    "edit-time": 1614355428722,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614355531032,
+    "title": "Epic",
+    "uid": "Mufenc7v8",
+    "edit-time": 1614355531033,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614355636197,
+    "title": "Graph/Templates",
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    "children": [
+      {
+        "string": "Page Templates",
+        "create-time": 1614355637832,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "string": ".rcEPC — Epics Template #42SmartBlock #[[roam/templates]]",
+            "refs": [
+              {
+                "uid": "34-gcQ0D9"
+              },
+              {
+                "uid": "hONA6vQ-l"
+              }
+            ],
+            "children": [
+              {
+                "string": "Tags:: #Epics",
+                "refs": [
+                  {
+                    "uid": "8hylEFKzO"
+                  },
+                  {
+                    "uid": "e6dIPhv8x"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}",
+                    "refs": [
+                      {
+                        "uid": "rWKvAbNYj"
+                      }
+                    ],
+                    "uid": "FnhKRPko4",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rWKvAbNYj"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Created by:: #not-populated",
+                    "refs": [
+                      {
+                        "uid": "TEpDCbfGK"
+                      },
+                      {
+                        "uid": "uybSer7dw"
+                      }
+                    ],
+                    "uid": "Xg9y_uJ4N",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TEpDCbfGK"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Date Range:: #not-populated",
+                    "refs": [
+                      {
+                        "uid": "uybSer7dw"
+                      },
+                      {
+                        "uid": "p1DocpQH9"
+                      }
+                    ],
+                    "uid": "VKKgbVtde",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uybSer7dw"
+                      },
+                      {
+                        ":block/uid": "p1DocpQH9"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Description:: #not-populated",
+                    "refs": [
+                      {
+                        "uid": "yqVgWC8Iu"
+                      },
+                      {
+                        "uid": "uybSer7dw"
+                      }
+                    ],
+                    "uid": "-rF9JfYss",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "yqVgWC8Iu"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Status:: #not-populated",
+                    "refs": [
+                      {
+                        "uid": "rHPiTkAN2"
+                      },
+                      {
+                        "uid": "uybSer7dw"
+                      }
+                    ],
+                    "uid": "mE4QYopWN",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rHPiTkAN2"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Resources:: #not-populated",
+                    "refs": [
+                      {
+                        "uid": "uybSer7dw"
+                      },
+                      {
+                        "uid": "i1417DLqD"
+                      }
+                    ],
+                    "uid": "PPjPS1zG2",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uybSer7dw"
+                      },
+                      {
+                        ":block/uid": "i1417DLqD"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
+                    "refs": [
+                      {
+                        "uid": "uybSer7dw"
+                      },
+                      {
+                        "uid": "Wv0s3VcL7"
+                      }
+                    ],
+                    "uid": "l_XnZjaHs",
+                    "edit-time": 1614355646672,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uybSer7dw"
+                      },
+                      {
+                        ":block/uid": "Wv0s3VcL7"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "LBpUyDkIM",
+                "edit-time": 1614355646672,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8hylEFKzO"
+                  },
+                  {
+                    ":block/uid": "e6dIPhv8x"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "uid": "7kro9yfgj",
+            "edit-time": 1614355646672,
+            ":block/refs": [
+              {
+                ":block/uid": "34-gcQ0D9"
+              },
+              {
+                ":block/uid": "hONA6vQ-l"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "z45viIhk5",
+        "edit-time": 1614355645674,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "mU7ypnSqF",
+    "edit-time": 1614355636198,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614355646670,
+    "title": "Work Summary",
+    "uid": "Wv0s3VcL7",
+    "edit-time": 1614355646672,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }

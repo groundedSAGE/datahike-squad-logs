@@ -1,13 +1,15 @@
-- [[epic/Make Datahike Development Transparent]]
+- [[Epics/Make Datahike Development Transparent]]
+    - {{[[TODO]]}} [[iteration/1]]
     - {{[[TODO]]}} [[sprint/1 - Setting up the graph]]
         - {{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]
         - {{[[TODO]]}} [[story/Add Epics related to Datahike]]
-        - {{[[TODO]]}} [[story/Create Contributor Onboarding Workflow]]
-        - {{[[TODO]]}} [[story/Create Templates for Daily Notes and Squad Logs]]
+        - {{[[DONE]]}} [[story/Create Contributor Onboarding Workflow]]
+        - {{[[DONE]]}} [[story/Create Templates for Daily Notes and Squad Logs]]
         - {{[[TODO]]}} [[story/This is an example]]
     - {{[[TODO]]}} [[sprint/2]]
         - {{[[TODO]]}} [[story/Update GitHub Projects Board]]
 - [[epic/ClojureScript Support]]
+    - sprint/1
     - {{[[TODO]]}} [[sprint/1 - Setting up the graph]]
         - {{[[TODO]]}} [[story/ClojureScript tests passing on [[library/datahike]]]]
 - 

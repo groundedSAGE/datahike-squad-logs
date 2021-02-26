@@ -60,7 +60,7 @@
                 - Related to 
                     - [[story/Create Contributor Onboarding Workflow]]
                     - [[story/Create Templates for Daily Notes and Squad Logs]]
-                    - [[epic/Make Datahike Development Transparent]]
+                    - [[Epics/Make Datahike Development Transparent]]
         - 16:31 - 17:05
             - Adding conventions from [[Roam Collective]]
                 - "Block-level Tags"

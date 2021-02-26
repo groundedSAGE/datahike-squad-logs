@@ -1,0 +1,2 @@
+- Tags:: #Collections
+    - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
