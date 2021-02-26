@@ -22035,6 +22035,11 @@
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GgxOlp4sZQmdmk__iWEjLyekra8x8LI8iylTjwf0w"
    536894315]
+  [7271
+   :user/settings
+   {:namespace-options [:none :partial :full],
+    :right-sidebar-pinned {}}
+   536901543]
   [7271 :user/uid "hiAFyRFecjYKxLrVuM0Dw55YNum1" 536894315]
   [7272 :block/uid "jh6eYdxI4" 536894317]
   [7272 :user/display-name "JB Rubinovitz" 536894317]
@@ -22084,8 +22089,8 @@
   [7279 :version/id "0.8.2" 536894329]
   [7279
    :version/nonce
-   "uuidd5e2c83b-ab54-424a-a791-52892c1a30e6"
-   536901542]
+   "uuid5663fb1c-3b7c-4e07-a086-c35e5f434409"
+   536901545]
   [7280 :block/open true 536894330]
   [7280 :block/order 2 536894330]
   [7280 :block/page 8083 536899029]
