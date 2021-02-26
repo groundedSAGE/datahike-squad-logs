@@ -1,1 +1,1 @@
-- {{Add Customer Feedback:42SmartBlock:Customer Feedback:42RemoveButton=false}}    
+- {{Add Customer Feedback:42SmartBlock:Customer Feedback:42RemoveButton=false}}     
