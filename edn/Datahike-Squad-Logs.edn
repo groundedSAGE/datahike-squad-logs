@@ -22094,8 +22094,8 @@
   [7279 :version/id "0.8.2" 536894329]
   [7279
    :version/nonce
-   "uuide7a121e1-039b-42c9-be3a-dc3e6a667f37"
-   536901561]
+   "uuid44ee27f4-35ac-4447-b92e-1b5b3a06c2a6"
+   536901562]
   [7280 :block/open true 536894330]
   [7280 :block/order 2 536894330]
   [7280 :block/page 8083 536899029]
@@ -32606,9 +32606,9 @@
   [8356 :block/uid "FFAykxJB8" 536900667]
   [8356 :create/time 1614287203006 536900667]
   [8356 :create/user 4246 536900667]
-  [8356 :edit/time 1614292449209 536901076]
+  [8356 :edit/time 1614590992035 536901562]
   [8356 :edit/user 4246 536900667]
-  [8356 :node/title "Christian Wheilbach" 536901076]
+  [8356 :node/title "Christian Weilbach" 536901562]
   [8357 :block/children 8358 536900698]
   [8357 :block/children 8363 536900722]
   [8357 :block/open false 536901041]
@@ -32643,12 +32643,12 @@
   [8358 :block/refs 8356 536900702]
   [8358
    :block/string
-   "call with [[Christian Wheilbach]] - **messy notes**"
-   536901076]
+   "call with [[Christian Weilbach]] - **messy notes**"
+   536901562]
   [8358 :block/uid "WaHfQT7nj" 536900695]
   [8358 :create/time 1614287964577 536900695]
   [8358 :create/user 4246 536900695]
-  [8358 :edit/time 1614292449209 536901076]
+  [8358 :edit/time 1614590992035 536901562]
   [8358 :edit/user 4246 536900695]
   [8359 :block/open true 536900703]
   [8359 :block/order 0 536900705]
@@ -33213,11 +33213,11 @@
   [8397 :block/parents 8393 536900969]
   [8397 :block/parents 8396 536900969]
   [8397 :block/refs 8356 536900968]
-  [8397 :block/string "[[Christian Wheilbach]] " 536901076]
+  [8397 :block/string "[[Christian Weilbach]] " 536901562]
   [8397 :block/uid "ZKpdNDd_Z" 536900967]
   [8397 :create/time 1614290690904 536900967]
   [8397 :create/user 4246 536900967]
-  [8397 :edit/time 1614292449209 536901076]
+  [8397 :edit/time 1614590992035 536901562]
   [8397 :edit/user 4246 536900967]
   [8398 :block/open true 536900974]
   [8398 :block/order 1 536900974]
@@ -33363,13 +33363,13 @@
   [8407 :block/refs 8408 536901051]
   [8407
    :block/string
-   "For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Wheilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them."
-   536901079]
+   "For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Weilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them."
+   536901562]
   [8407 :block/uid "O2-JRRhgC" 536901042]
   [8407 :create/time 1614292323106 536901042]
   [8407 :create/user 4246 536901042]
   [8407 :edit/seen-by 6125 536901102]
-  [8407 :edit/time 1614292467332 536901079]
+  [8407 :edit/time 1614590992035 536901562]
   [8407 :edit/user 4246 536901042]
   [8408 :block/children 8411 536901082]
   [8408 :block/children 8417 536901084]

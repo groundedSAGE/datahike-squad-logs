@@ -33,7 +33,7 @@
             - Writing in "#Scratchpad" thinking about how we structure the project management here.
             - Also made some changes to the Epics template.  
         - 21:20 - 23:20
-            - call with [[Christian Wheilbach]] - **messy notes**
+            - call with [[Christian Weilbach]] - **messy notes**
                 - each epic could be a blog post and be shared with the community
                 - dependency structure through stories
                     - eg Story A needs to get done before Story B
@@ -58,7 +58,7 @@
                 - betting with small amount of money about predictions of what will get done. Prediction markets are somewhat successful in predictions. Could also make it fun. 
                 - [[Wade Dominic]] 
                     - Gamify predictions on work? 
-                        - [[Christian Wheilbach]] 
+                        - [[Christian Weilbach]] 
                             - point is not to gamify the work
                             - prediction markets for work 6 weeks out could help improve estimates of work that can get done
                             - types of best
@@ -93,7 +93,7 @@
                 - Ideally work is being done on a single branch which is a big part of how momentum is created in the [[mob programming]] methodology. Unless that work is very experimental or a major change like the ClojureScript support. All features need to be worked on in a conflict free way for the most optimum workflow. There could be a story which shows up in two different epics. These epics might have two independent branches which might otherwise have zero conflicts. It would make sense for these stories to get a higher priority and be worked on in a branch that can easily be rebased against by the two independent branches.
             - **We need to optimize for asynchronous communication since stakeholders and contributors are global**
     - #Reflection
-        - For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Wheilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them.
+        - For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Weilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them.
 - ---
 - experiments
     - [[Betting Table]]

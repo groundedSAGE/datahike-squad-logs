@@ -32813,7 +32813,7 @@
                 },
                 "children": [
                   {
-                    "edit-time": 1614292449209,
+                    "edit-time": 1614590992035,
                     "children": [
                       {
                         "string": "each epic could be a blog post and be shared with the community",
@@ -33108,7 +33108,7 @@
                             },
                             "children": [
                               {
-                                "edit-time": 1614292449209,
+                                "edit-time": 1614590992035,
                                 "children": [
                                   {
                                     "string": "point is not to gamify the work",
@@ -33220,7 +33220,7 @@
                                     ":block/uid": "FFAykxJB8"
                                   }
                                 ],
-                                "string": "[[Christian Wheilbach]] ",
+                                "string": "[[Christian Weilbach]] ",
                                 ":create/user": {
                                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                                 },
@@ -33269,7 +33269,7 @@
                         ":block/uid": "FFAykxJB8"
                       }
                     ],
-                    "string": "call with [[Christian Wheilbach]] - **messy notes**",
+                    "string": "call with [[Christian Weilbach]] - **messy notes**",
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
@@ -33758,7 +33758,7 @@
             ],
             "children": [
               {
-                "string": "For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Wheilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them.",
+                "string": "For some reason the automated backups are failing. So I will have to dig into that [[February 26th, 2021]]. Had several discussions today regarding how to do [[project management]] in Roam. Great conversation with [[Christian Weilbach]] who had some very interesting idea. I took some very messy notes from that call so I will have to circle back and tidy them up for when people refer back to them.",
                 "create-time": 1614292323106,
                 ":block/refs": [
                   {
@@ -33786,7 +33786,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "O2-JRRhgC",
-                "edit-time": 1614292467332,
+                "edit-time": 1614590992035,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -34072,9 +34072,9 @@
   },
   {
     "create-time": 1614287203006,
-    "title": "Christian Wheilbach",
+    "title": "Christian Weilbach",
     "uid": "FFAykxJB8",
-    "edit-time": 1614292449209,
+    "edit-time": 1614590992035,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
