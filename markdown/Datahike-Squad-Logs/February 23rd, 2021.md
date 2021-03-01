@@ -53,7 +53,7 @@
             - making some tweaks to the first step of **Getting Started** on the [[Welcome 😃]] page
                 - added #[[How to contact me]] to the "Personal Page" template
         - 19:44 - 20:22 (38 mins)
-            - Reviewing the need for descriptions on Epics [*](((I9CagTQHC))) so it helps with work on Updating the [[Product Roadmap]] [*](((56fAhDPA1)))
+            - Reviewing the need for descriptions on Epics [*](((I9CagTQHC))) so it helps with work on Updating the [[Roadmap]] [*](((56fAhDPA1)))
                 - "Details we need in the Epics" 
                     - Description
                     - Hill Charts
@@ -80,9 +80,9 @@
         - What do you think about the [question](((DXfFS6E4T))) [[@[[Chris Smothers]]]]? I also added my thoughts below the question.
     - #[[GTD Zone]]
         - "{{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]"
-        - "{{[[TODO]]}} Update [[Product Roadmap]]"
+        - "{{[[TODO]]}} Update [[Roadmap]]"
         - ""{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn)))"
-            - I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Product Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))
+            - I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))
         - {{[[DONE]]}} Add onboarding for new members
         - {{[[TODO]]}} Add the #Collections tag to the appropriate pages
         - "{{[[DONE]]}} Set up automatic backups so that this is not a manual process"

@@ -1,8 +1,24 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
     - #[[GTD Zone]]
+        - {{[[TODO]]}} test
     - #Reflection
     - #[[Change Log]]
-        - added css for "#Bookmarks"
+        - added css for "#Bookmarks" and "#[[The Main Feed]]"
+        - Added [[Iterations]] page 
 - ---
-- 
+- #[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} [*](https://roamresearch.com/#/app/Roam-Collective/page/8im0QMdnu)
+    - Daily Activities #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[GTD Zone]]
+        - **Active Epic(s):**
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+        - **Active Iterations(s):**
+            - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+        -  
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---

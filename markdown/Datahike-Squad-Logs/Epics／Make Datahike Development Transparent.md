@@ -1,14 +1,12 @@
 - Tags:: #Epics
-    - Date Created::
-    - Date Range::
-    - Owner:: [[Wade Dominic]]
+    - Date Created:: [[March 1st, 2021]]
+    - Created by:: [[Wade Dominic]]
+    - Date Range:: [[February 22nd, 2021]] until [[March 15th, 2021]]
+    - Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools and all repositories. The flexibility for extension is also limited. 
     - Status:: [[Status/Active]]
-    - Iterations::
-        - [[Iterations/1 - Set up the graph]]
     - Resources::
         - https://roamresearch.com/#/app/Roam-Collective
-    - Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools. The flexibility for extension is also limited. 
-- ---
+    - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
 - ---
 - ## Hill chart
     - {{[[TODO]]}}  Add once we have the scripts to create them

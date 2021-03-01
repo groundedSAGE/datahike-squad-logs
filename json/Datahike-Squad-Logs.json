@@ -2756,14 +2756,14 @@
         "edit-time": 1614355379043,
         "children": [
           {
-            "string": "{{[[TODO]]}} [[iteration/1]]",
-            "create-time": 1614354502943,
+            "string": "{{[[TODO]]}} [[iteration/1 - Set up the graph]]",
+            "create-time": 1614627389935,
             ":block/refs": [
               {
                 ":block/uid": "9v12Vcgoh"
               },
               {
-                ":block/uid": "yQj4su1Id"
+                ":block/uid": "WNRJEFdz7"
               }
             ],
             "refs": [
@@ -2771,20 +2771,20 @@
                 "uid": "9v12Vcgoh"
               },
               {
-                "uid": "yQj4su1Id"
+                "uid": "WNRJEFdz7"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "_q83NX_c9",
-            "edit-time": 1614354568539,
+            "uid": "nglPerQJz",
+            "edit-time": 1614628961930,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "edit-time": 1614117440209,
+            "edit-time": 1614628863846,
             "children": [
               {
                 "string": "{{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]",
@@ -2809,13 +2809,13 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "iqLZys3Ut",
-                "edit-time": 1613671395547,
+                "edit-time": 1614629158358,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
               },
               {
-                "string": "{{[[TODO]]}} [[story/Add Epics related to Datahike]]",
+                "string": "{{[[TODO]]}} [[story/Add Epics related to Datahike]] #Doing",
                 "create-time": 1613678280009,
                 ":block/refs": [
                   {
@@ -2823,6 +2823,9 @@
                   },
                   {
                     ":block/uid": "hxdHosviu"
+                  },
+                  {
+                    ":block/uid": "heoc0BKev"
                   }
                 ],
                 "refs": [
@@ -2831,13 +2834,16 @@
                   },
                   {
                     "uid": "hxdHosviu"
+                  },
+                  {
+                    "uid": "heoc0BKev"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "KB-_ekqDy",
-                "edit-time": 1613678309721,
+                "edit-time": 1614629924098,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -2897,40 +2903,9 @@
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
-              },
-              {
-                "string": "{{[[TODO]]}} [[story/This is an example]]",
-                "create-time": 1614286324280,
-                ":block/refs": [
-                  {
-                    ":block/uid": "9v12Vcgoh"
-                  },
-                  {
-                    ":block/uid": "y180hUS-1"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "9v12Vcgoh"
-                  },
-                  {
-                    "uid": "y180hUS-1"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                },
-                "uid": "KcuswP1DP",
-                "edit-time": 1614286324280,
-                ":edit/user": {
-                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                }
               }
             ],
             "refs": [
-              {
-                "uid": "9v12Vcgoh"
-              },
               {
                 "uid": "6sUfMc4Aa"
               }
@@ -2938,13 +2913,10 @@
             "uid": "vbg9WZ6YO",
             ":block/refs": [
               {
-                ":block/uid": "9v12Vcgoh"
-              },
-              {
                 ":block/uid": "6sUfMc4Aa"
               }
             ],
-            "string": "{{[[TODO]]}} [[sprint/1 - Setting up the graph]]",
+            "string": "[[sprint/1 - Setting up the graph]]",
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -3451,7 +3423,7 @@
                 },
                 "children": [
                   {
-                    "string": "Leverage Roam's strengths for creating stories and connections. In Agile Product Development [[User Story]]s, [[Personas]], solution Dilemmas, [[Customer Feedback]], etc. are intertwined with the [[Backlog]], Sprint Plans, and the [[Product Roadmap]].",
+                    "string": "Leverage Roam's strengths for creating stories and connections. In Agile Product Development [[User Story]]s, [[Personas]], solution Dilemmas, [[Customer Feedback]], etc. are intertwined with the [[Backlog]], Sprint Plans, and the [[Roadmap]].",
                     "create-time": 1612031443213,
                     ":block/refs": [
                       {
@@ -3491,9 +3463,9 @@
                       ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
                     },
                     "uid": "Nzm6bbYly",
-                    "edit-time": 1612621308965,
+                    "edit-time": 1614626506756,
                     ":edit/user": {
-                      ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
                   },
                   {
@@ -3815,7 +3787,7 @@
             },
             "children": [
               {
-                "string": "Articulate the [[Product Vision]] on a dedicated page pinned to the sidebar",
+                "string": "Articulate the [[Vision]] on a dedicated page pinned to the sidebar",
                 "create-time": 1612592582810,
                 ":block/refs": [
                   {
@@ -3831,9 +3803,9 @@
                   ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
                 },
                 "uid": "2p8bSv2Fo",
-                "edit-time": 1612606329756,
+                "edit-time": 1614626501185,
                 ":edit/user": {
-                  ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
               },
               {
@@ -4015,7 +3987,7 @@
                 }
               },
               {
-                "string": "Plan the [[Product Roadmap]]",
+                "string": "Plan the [[Roadmap]]",
                 "create-time": 1612591946430,
                 ":block/refs": [
                   {
@@ -4031,9 +4003,9 @@
                   ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
                 },
                 "uid": "4TRuQPVH-",
-                "edit-time": 1612606616040,
+                "edit-time": 1614626506756,
                 ":edit/user": {
-                  ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
               },
               {
@@ -5022,7 +4994,7 @@
             }
           },
           {
-            "string": "Create your [[Product Vision]]",
+            "string": "Create your [[Vision]]",
             "create-time": 1612608045204,
             ":block/refs": [
               {
@@ -5038,9 +5010,9 @@
               ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
             },
             "uid": "DKbP0kEU1",
-            "edit-time": 1612608083858,
+            "edit-time": 1614626501185,
             ":edit/user": {
-              ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
@@ -12280,6 +12252,42 @@
                             ":edit/user": {
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             }
+                          },
+                          {
+                            "edit-time": 1614626315195,
+                            "children": [
+                              {
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"The Main Feed\"] {\n\tbackground: var(--cl-orange-600);\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"The Main Feed\"]:before {\n    content: '⭐️'\n}```",
+                                "create-time": 1614626316262,
+                                "uid": "62i_53q9I",
+                                "edit-time": 1614626329783,
+                                ":create/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "sfJIg2kOp"
+                              }
+                            ],
+                            "uid": "dKRL8pcr4",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "sfJIg2kOp"
+                              }
+                            ],
+                            "string": "#[[The Main Feed]]",
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "create-time": 1614626301924,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
                           }
                         ],
                         "uid": "0TLOU_tJ5",
@@ -14422,6 +14430,32 @@
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
+      },
+      {
+        "string": "Remove Query String",
+        "create-time": 1614629437290,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "string": "```css\n```",
+            "create-time": 1614629444204,
+            "uid": "hngbnVmps",
+            "edit-time": 1614629467400,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "pZe7MJWWG",
+        "edit-time": 1614629444209,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
       }
     ],
     "uid": "PcN8Tv-Qz",
@@ -15189,7 +15223,7 @@
   },
   {
     "create-time": 1612028266117,
-    "title": "Product Vision",
+    "title": "Vision",
     ":create/user": {
       ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
     },
@@ -15229,7 +15263,7 @@
         }
       },
       {
-        "string": "Related:: [[Product Roadmap]]",
+        "string": "Related:: [[Roadmap]]",
         "create-time": 1613687165614,
         ":block/refs": [
           {
@@ -15251,7 +15285,7 @@
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
         "uid": "2yJN3yhuF",
-        "edit-time": 1613687389347,
+        "edit-time": 1614626506756,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -15414,9 +15448,9 @@
       }
     ],
     "uid": "cwZ9xV-cp",
-    "edit-time": 1612028266118,
+    "edit-time": 1614626501185,
     ":edit/user": {
-      ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
   },
   {
@@ -15445,13 +15479,13 @@
   },
   {
     "create-time": 1612031052432,
-    "title": "Product Roadmap",
+    "title": "Roadmap",
     ":create/user": {
       ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
     },
     "children": [
       {
-        "string": "Related:: [[Product Vision]]",
+        "string": "Related:: [[Vision]]",
         "create-time": 1613687400786,
         ":block/refs": [
           {
@@ -15473,7 +15507,7 @@
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
         "uid": "w5ovjZmDX",
-        "edit-time": 1613687408355,
+        "edit-time": 1614626501185,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -16360,9 +16394,9 @@
       }
     ],
     "uid": "jzJhiUFXk",
-    "edit-time": 1612031052436,
+    "edit-time": 1614626506756,
     ":edit/user": {
-      ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
   },
   {
@@ -17362,15 +17396,39 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1612301557189,
+        "edit-time": 1614628479330,
+        "children": [
+          {
+            "string": "<%NOBLOCKOUTPUT%><%JA: ```javascript\n\n//const SPRINT_PLAN_BLOCK = \"Sprint Plan\"\nlet sprintplan = document.activeElement.id.slice(-9);\n\n//stories already in the sprint\nlet sprintstories_q = `[:find ?story_block ?story_title ?block_uid\n\t\t\t            :where [?sprintplan :block/uid \"${sprintplan}\"]\n\t\t\t\t\t           [?block      :block/parents ?sprintplan]\n\t\t\t\t\t           [?block      :block/string  ?string]\n\t\t\t\t\t           [(clojure.string/includes?  ?string \"${window.roamAgile.STORY_NAMESPACE}\")]\n\t\t\t\t\t           [?block      :block/refs    ?story_block]\n\t\t\t\t\t\t\t   [?block      :block/uid     ?block_uid]\n\t\t\t\t\t\t\t   [?story_block :node/title   ?story_title]]`;\n\nlet sprintstories_r = window.roamAlphaAPI.q(sprintstories_q).sort((a, b) => a[0] - b[0]);\n\n//stories on the backlog listed under this sprint\nlet backlogstories_q = `[:find ?story_block ?story_title\n\t\t\t            :where [?sprintplan  :block/uid     \"${sprintplan}\"]\n\t\t\t\t\t           [?sprintplan  :block/page    ?sprintpage]\n\t\t\t\t\t\t\t   [?sprint_ref  :block/refs    ?sprintpage]\n\t\t\t\t\t\t\t   [?backlog     :node/title    \"${window.roamAgile.BACKLOG_PAGE}\"]\n\t\t\t\t\t           [?sprint_ref  :block/page    ?backlog]\n\t\t\t\t\t\t\t   [?block       :block/parents ?sprint_ref]\n\t\t\t\t\t           [?block       :block/refs    ?story_block]\n\t\t\t\t\t           [?story_block :node/title    ?story_title]\n\t\t\t\t\t           [(clojure.string/includes?   ?story_title \"${window.roamAgile.STORY_NAMESPACE}\")]]`;\n\nlet backlogstories_r = window.roamAlphaAPI.q(backlogstories_q).sort((a, b) => a[0] - b[0]);\n\n//next child order under first kanban column\nlet ktodochildren_q = `[:find ?stories\n\t\t\t\t        :where [?sprintplan :block/uid     \"${sprintplan}\"]\n\t\t\t\t\t           [?kanban     :block/parents ?sprintplan]\n\t\t\t\t\t           [?kanban     :block/string \"{{[[kanban]]}}\"]\n\t\t\t\t\t           [?kanban     :block/children ?cols]\n       \t\t\t\t           [?cols       :block/order ?o]\n\t\t       \t\t\t       [(= ?o 0)]\n\t\t\t\t       \t       [?cols       :block/children ?stories]]`\n\nlet ktodochildren_order = window.roamAlphaAPI.q(ktodochildren_q).length;\n\n//get uid of first kanban column\nlet ktodouid_q = `[:find ?uid\n\t\t\t\t   :where [?sprintplan :block/uid     \"${sprintplan}\"]\n\t\t\t\t\t      [?kanban     :block/parents ?sprintplan]\n\t\t\t\t\t      [?kanban     :block/string \"{{[[kanban]]}}\"]\n\t\t\t\t\t      [?kanban     :block/children ?cols]\n       \t\t\t\t      [?cols       :block/order ?o]\n\t\t       \t\t      [(= ?o 0)]\n\t\t\t\t\t\t  [?cols       :block/uid ?uid]]`\n\nlet ktodouid = window.roamAlphaAPI.q(ktodouid_q)[0][0];\n\nlet storystatus_q = `[:find ?uid\n\t\t\t\t\t :in $ ?story_block\n\t\t\t\t\t :where [?b :block/page ?story_block]\n\t\t\t\t\t\t    [?b :block/string ?string]\n\t\t\t\t\t\t\t[(clojure.string/starts-with?   ?string \"${window.roamAgile.STATUS_ATTRIB}\")]\n\t\t\t\t\t\t    [?b :block/refs ?refs]\n\t\t\t\t\t\t\t[?refs :node/title ?ref_string]\n\t\t\t\t\t\t\t[(= ?ref_string \"${window.roamAgile.STATUS_DRAFT}\")]\n\t\t\t\t\t\t\t[?b :block/uid ?uid]]`;\n\n//add stories on backlog but not on sprint plan under todo\n//set draft stories to active\nfor (let i=0;i<backlogstories_r.length;i++) {\n  await window.roamAlphaAPI.q(storystatus_q,backlogstories_r[i][0])\n    \t.forEach(async function(element){ await roam42.common.updateBlock(element[0],'Status:: #'+window.roamAgile.STATUS_ACTIVE);});\n  if (!sprintstories_r.some(row => row.includes(backlogstories_r[i][0]))) {\n    await roam42.common.createBlock(ktodouid,ktodochildren_order,'[['+backlogstories_r[i][1]+']]');\n    ktodochildren_order += 1;\n  }\n}\n\n//remove stories from sprint plan that are not on the backlog\nfor (let i=0;i<sprintstories_r.length;i++) {\n  if (!backlogstories_r.some(row => row.includes(sprintstories_r[i][0]))) \n    await roam42.common.deleteBlock(sprintstories_r[i][2]);\n}```\n\n%>",
+            "create-time": 1614628541411,
+            "uid": "Ndd9iozq5",
+            "edit-time": 1614628604683,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hONA6vQ-l"
+          }
+        ],
         "uid": "MafUrRxm_",
-        "edit-time": 1612301557189,
+        ":block/refs": [
+          {
+            ":block/uid": "hONA6vQ-l"
+          }
+        ],
+        "string": "#42SmartBlock Sync Iteration with Backlog <%NOCURSOR%><%HIDE%>",
         ":create/user": {
           ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
         },
+        "create-time": 1612301557189,
         ":edit/user": {
-          ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
       }
     ],
@@ -19196,7 +19254,7 @@
             },
             "children": [
               {
-                "string": "To build a database that follows the [[Product Vision]].",
+                "string": "To build a database that follows the [[Vision]].",
                 "create-time": 1613676268020,
                 ":block/refs": [
                   {
@@ -19212,7 +19270,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "9KrSWfdxe",
-                "edit-time": 1613677090037,
+                "edit-time": 1614626501185,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -21412,6 +21470,18 @@
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
+      },
+      {
+        "string": "A place to nest tasks. A hub for productivity.",
+        "create-time": 1614626098886,
+        "uid": "HK5vM8llo",
+        "edit-time": 1614626126430,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
       }
     ],
     "uid": "PtsT-s1sQ",
@@ -21920,7 +21990,7 @@
                 }
               },
               {
-                "string": "Added some Epics to the [[Product Roadmap]] for [[sprint/1 - Setting up the graph]] [*](((KB-_ekqDy)))",
+                "string": "Added some Epics to the [[Roadmap]] for [[sprint/1 - Setting up the graph]] [*](((KB-_ekqDy)))",
                 "create-time": 1613678409251,
                 ":block/refs": [
                   {
@@ -21948,7 +22018,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "L91ApTJvl",
-                "edit-time": 1614117440209,
+                "edit-time": 1614626506756,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -22034,7 +22104,7 @@
                 }
               },
               {
-                "string": "{{[[DONE]]}} Add items to the stories and epics to [[Backlog]] and [[Product Roadmap]] [*](((L91ApTJvl)))[*](((DLxaviT7X)))",
+                "string": "{{[[DONE]]}} Add items to the stories and epics to [[Backlog]] and [[Roadmap]] [*](((L91ApTJvl)))[*](((DLxaviT7X)))",
                 "create-time": 1613688446732,
                 ":block/refs": [
                   {
@@ -22074,7 +22144,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "HnM_W8nt8",
-                "edit-time": 1613688529458,
+                "edit-time": 1614626506756,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -22184,7 +22254,7 @@
                 }
               },
               {
-                "string": "Added information to [[Product Vision]]",
+                "string": "Added information to [[Vision]]",
                 "create-time": 1613678000928,
                 ":block/refs": [
                   {
@@ -22200,7 +22270,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "YPmS0iClL",
-                "edit-time": 1613678014646,
+                "edit-time": 1614626501185,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -22286,83 +22356,123 @@
     },
     "children": [
       {
-        "edit-time": 1614116773613,
+        "edit-time": 1614628183062,
         "children": [
           {
-            "string": "Date Created::",
-            "create-time": 1614354846590,
+            "string": "Date Created:: [[March 1st, 2021]]",
+            "create-time": 1614628070453,
             ":block/refs": [
               {
                 ":block/uid": "rWKvAbNYj"
+              },
+              {
+                ":block/uid": "03-01-2021"
               }
             ],
             "refs": [
               {
                 "uid": "rWKvAbNYj"
+              },
+              {
+                "uid": "03-01-2021"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "doBOS--T3",
-            "edit-time": 1614354851535,
+            "uid": "pazJ5zj6-",
+            "edit-time": 1614628158861,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "string": "Date Range::",
-            "create-time": 1614354852103,
+            "string": "Created by:: [[Wade Dominic]]",
+            "create-time": 1614628070697,
+            ":block/refs": [
+              {
+                ":block/uid": "TEpDCbfGK"
+              },
+              {
+                ":block/uid": "n3eBhhrSb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TEpDCbfGK"
+              },
+              {
+                "uid": "n3eBhhrSb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "eGyQuV7Bh",
+            "edit-time": 1614628155713,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Date Range:: [[February 22nd, 2021]] until [[March 15th, 2021]]",
+            "create-time": 1614628070848,
             ":block/refs": [
               {
                 ":block/uid": "p1DocpQH9"
+              },
+              {
+                ":block/uid": "02-22-2021"
+              },
+              {
+                ":block/uid": "03-15-2021"
               }
             ],
             "refs": [
               {
                 "uid": "p1DocpQH9"
+              },
+              {
+                "uid": "02-22-2021"
+              },
+              {
+                "uid": "03-15-2021"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "lcZ9FkvDh",
-            "edit-time": 1614354855191,
+            "uid": "Ynh8SL_2n",
+            "edit-time": 1614628148312,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "string": "Owner:: [[Wade Dominic]]",
-            "create-time": 1614106211691,
+            "string": "Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools and all repositories. The flexibility for extension is also limited. ",
+            "create-time": 1614628071018,
             ":block/refs": [
               {
-                ":block/uid": "n3eBhhrSb"
-              },
-              {
-                ":block/uid": "BWfx6N3gi"
+                ":block/uid": "yqVgWC8Iu"
               }
             ],
             "refs": [
               {
-                "uid": "n3eBhhrSb"
-              },
-              {
-                "uid": "BWfx6N3gi"
+                "uid": "yqVgWC8Iu"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "2hwYGWmDU",
-            "edit-time": 1614106219836,
+            "uid": "MouZcN7wb",
+            "edit-time": 1614628095213,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
             "string": "Status:: [[Status/Active]]",
-            "create-time": 1614116692330,
+            "create-time": 1614628071161,
             ":block/refs": [
               {
                 ":block/uid": "rHPiTkAN2"
@@ -22382,66 +22492,20 @@
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "mZSuzgqL3",
-            "edit-time": 1614261582330,
+            "uid": "Hu5NCvrMM",
+            "edit-time": 1614628102043,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "edit-time": 1614354932968,
-            "children": [
-              {
-                "string": "[[Iterations/1 - Set up the graph]]",
-                "create-time": 1614354932954,
-                ":block/refs": [
-                  {
-                    ":block/uid": "WNRJEFdz7"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "WNRJEFdz7"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                },
-                "uid": "Xg-VCxe9t",
-                "edit-time": 1614355428713,
-                ":edit/user": {
-                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "diiVTCbO2"
-              }
-            ],
-            "uid": "4VplbjzsU",
-            ":block/refs": [
-              {
-                ":block/uid": "diiVTCbO2"
-              }
-            ],
-            "string": "Iterations::",
-            ":create/user": {
-              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-            },
-            "create-time": 1614354928411,
-            ":edit/user": {
-              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-            }
-          },
-          {
-            "edit-time": 1614354862446,
+            "edit-time": 1614628126379,
             "children": [
               {
                 "string": "https://roamresearch.com/#/app/Roam-Collective",
-                "create-time": 1614354862570,
-                "uid": "dGv_smG0x",
-                "edit-time": 1614354874997,
+                "create-time": 1614628126370,
+                "uid": "-J0wseqpi",
+                "edit-time": 1614628127867,
                 ":create/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
@@ -22455,7 +22519,7 @@
                 "uid": "i1417DLqD"
               }
             ],
-            "uid": "0B76LwG7_",
+            "uid": "gUUv6hwN7",
             ":block/refs": [
               {
                 ":block/uid": "i1417DLqD"
@@ -22465,29 +22529,35 @@
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "create-time": 1614354859221,
+            "create-time": 1614628071317,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "string": "Description:: We want development of Datahike to be as transparent as possible. Despite most of open source using things such as Github and a chat service like Discord. It's difficult to keep track of conversation, decisions, and work done across all of these different tools. The flexibility for extension is also limited. ",
-            "create-time": 1613752755659,
+            "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
+            "create-time": 1614628071484,
             ":block/refs": [
               {
-                ":block/uid": "yqVgWC8Iu"
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "Wv0s3VcL7"
               }
             ],
             "refs": [
               {
-                "uid": "yqVgWC8Iu"
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "Wv0s3VcL7"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "A-YgsbE6V",
-            "edit-time": 1614354237324,
+            "uid": "ZjwH8oKT2",
+            "edit-time": 1614628071650,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
@@ -22515,18 +22585,6 @@
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
         "create-time": 1614116763750,
-        ":edit/user": {
-          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-        }
-      },
-      {
-        "string": "---",
-        "create-time": 1614107065792,
-        "uid": "6gsx7oJzS",
-        "edit-time": 1614107067443,
-        ":create/user": {
-          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-        },
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -24332,7 +24390,7 @@
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
         "uid": "McbyIrSH0",
-        "edit-time": 1613679765307,
+        "edit-time": 1614629084863,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -27306,7 +27364,7 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} Update [[Product Roadmap]]",
+                "string": "{{[[TODO]]}} Update [[Roadmap]]",
                 "create-time": 1613758888791,
                 ":block/refs": [
                   {
@@ -27328,7 +27386,7 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "LzXAu_RH1",
-                "edit-time": 1613758888791,
+                "edit-time": 1614626506756,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -29037,7 +29095,7 @@
                 },
                 "children": [
                   {
-                    "edit-time": 1614105983484,
+                    "edit-time": 1614626506756,
                     "children": [
                       {
                         "edit-time": 1614105985794,
@@ -29123,7 +29181,7 @@
                         ":block/uid": "I9CagTQHC"
                       }
                     ],
-                    "string": "Reviewing the need for descriptions on Epics [*](((I9CagTQHC))) so it helps with work on Updating the [[Product Roadmap]] [*](((56fAhDPA1)))",
+                    "string": "Reviewing the need for descriptions on Epics [*](((I9CagTQHC))) so it helps with work on Updating the [[Roadmap]] [*](((56fAhDPA1)))",
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
@@ -29667,7 +29725,7 @@
                 "edit-time": 1614105904867,
                 "children": [
                   {
-                    "string": "I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Product Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))",
+                    "string": "I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))",
                     "create-time": 1614117900473,
                     ":block/refs": [
                       {
@@ -29689,7 +29747,7 @@
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
                     "uid": "hKuyyaDpq",
-                    "edit-time": 1614117973483,
+                    "edit-time": 1614626506756,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -30267,7 +30325,7 @@
       }
     ],
     "uid": "02-23-2021",
-    "edit-time": 1614093916502,
+    "edit-time": 1614627561312,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -31284,6 +31342,42 @@
         }
       },
       {
+        "string": "",
+        "create-time": 1614628681357,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "children": [
+          {
+            "string": "{{[[kanban]]}}            ",
+            "create-time": 1614628631362,
+            ":block/refs": [
+              {
+                ":block/uid": "XfyXMl2tT"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XfyXMl2tT"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "Zj5bTqAWJ",
+            "edit-time": 1614628682993,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "uid": "_R_uC0ANl",
+        "edit-time": 1614628712204,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
         "string": "{{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}          ",
         "create-time": 1613679662717,
         ":create/user": {
@@ -31310,7 +31404,7 @@
         }
       },
       {
-        "string": "Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}        ",
+        "string": "Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}                    ",
         "create-time": 1613679662717,
         "heading": 3,
         ":create/user": {
@@ -31327,28 +31421,6 @@
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "children": [
-                  {
-                    "string": "[[story/Create Contributor Onboarding Workflow]]",
-                    "create-time": 1614288504408,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "EiR4gOYn0"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "EiR4gOYn0"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    },
-                    "uid": "ip7UQvwio",
-                    "edit-time": 1614288504408,
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
                   {
                     "string": "[[story/Create Templates for Daily Notes and Squad Logs]]",
                     "create-time": 1614288504539,
@@ -31367,28 +31439,6 @@
                     },
                     "uid": "4PVrdCMoK",
                     "edit-time": 1614288504539,
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "[[story/This is an example]]",
-                    "create-time": 1614288504657,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "y180hUS-1"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "y180hUS-1"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    },
-                    "uid": "5lC4rfFPG",
-                    "edit-time": 1614288504657,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -31461,11 +31511,35 @@
               {
                 "string": "Done",
                 "create-time": 1613679662717,
-                "uid": "xjEuOIeL0",
-                "edit-time": 1613679662717,
                 ":create/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
+                "children": [
+                  {
+                    "string": "[[story/Create Contributor Onboarding Workflow]]",
+                    "create-time": 1614288504408,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "EiR4gOYn0"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "EiR4gOYn0"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "ip7UQvwio",
+                    "edit-time": 1614288504408,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "xjEuOIeL0",
+                "edit-time": 1613679662717,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -31493,13 +31567,13 @@
           }
         ],
         "uid": "1GD6qj8GG",
-        "edit-time": 1614288504826,
+        "edit-time": 1614628649284,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
       },
       {
-        "string": "Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}    ",
+        "string": "Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}      ",
         "create-time": 1613679662717,
         "heading": 3,
         ":create/user": {
@@ -31549,6 +31623,18 @@
                     "create-time": 1613729381255,
                     "uid": "GTYI__qZl",
                     "edit-time": 1613729381255,
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "3, 5",
+                    "create-time": 1614628316629,
+                    "uid": "6KC73LtG7",
+                    "edit-time": 1614628316629,
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
@@ -31605,6 +31691,18 @@
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
+                  },
+                  {
+                    "string": "3, 0",
+                    "create-time": 1614628316750,
+                    "uid": "quBamFm3p",
+                    "edit-time": 1614628316750,
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
                   }
                 ],
                 "uid": "deUkEKWS7",
@@ -31615,14 +31713,14 @@
               }
             ],
             "uid": "BcwWEIAme",
-            "edit-time": 1613729381914,
+            "edit-time": 1614628317331,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           }
         ],
         "uid": "vOPs1gRe4",
-        "edit-time": 1613729381580,
+        "edit-time": 1614628316946,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -34213,18 +34311,6 @@
     }
   },
   {
-    "create-time": 1614286310649,
-    "title": "story/This is an example",
-    "uid": "y180hUS-1",
-    "edit-time": 1614286310651,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
     "create-time": 1614287126118,
     "title": "epic/Dev Tooling",
     "uid": "8fmbvJ5hC",
@@ -34553,24 +34639,202 @@
     }
   },
   {
-    "create-time": 1614354563656,
-    "title": "iteration/1",
+    "create-time": 1614354581569,
+    "title": "Iterations",
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
     "children": [
       {
-        "edit-time": 1614354581568,
+        "string": "Tags:: #Conventions #Collections #[[agile development]]",
+        "create-time": 1614626627315,
+        ":block/refs": [
+          {
+            ":block/uid": "8hylEFKzO"
+          },
+          {
+            ":block/uid": "tcURDg2cN"
+          },
+          {
+            ":block/uid": "4O0qKTpQj"
+          },
+          {
+            ":block/uid": "tcVN9IvLs"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8hylEFKzO"
+          },
+          {
+            "uid": "tcURDg2cN"
+          },
+          {
+            "uid": "4O0qKTpQj"
+          },
+          {
+            "uid": "tcVN9IvLs"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "mmHaxotKU",
+        "edit-time": 1614626629078,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Related:: [[Epics]], [[Backlog]]",
+        "create-time": 1614626631067,
+        ":block/refs": [
+          {
+            ":block/uid": "cXU68xJim"
+          },
+          {
+            ":block/uid": "MX5qS4P-H"
+          },
+          {
+            ":block/uid": "e6dIPhv8x"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "cXU68xJim"
+          },
+          {
+            "uid": "MX5qS4P-H"
+          },
+          {
+            "uid": "e6dIPhv8x"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "QcxjYsICh",
+        "edit-time": 1614626643535,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "diiVTCbO2",
+    "edit-time": 1614354581570,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614355428720,
+    "title": "iteration/1 - Set up the graph",
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    "children": [
+      {
+        "edit-time": 1614627499044,
         "children": [
           {
-            "string": "Status:: #status/active",
-            "create-time": 1614354612471,
+            "string": "Date Created:: [[March 1st, 2021]]",
+            "create-time": 1614627499035,
+            ":block/refs": [
+              {
+                ":block/uid": "rWKvAbNYj"
+              },
+              {
+                ":block/uid": "03-01-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rWKvAbNYj"
+              },
+              {
+                "uid": "03-01-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "nTYEhASmd",
+            "edit-time": 1614627777642,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Date Range:: [[February 23rd, 2021]] until [[March 2nd, 2021]]",
+            "create-time": 1614627499476,
+            ":block/refs": [
+              {
+                ":block/uid": "02-23-2021"
+              },
+              {
+                ":block/uid": "p1DocpQH9"
+              },
+              {
+                ":block/uid": "03-02-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-23-2021"
+              },
+              {
+                "uid": "p1DocpQH9"
+              },
+              {
+                "uid": "03-02-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "Sbr5GMABJ",
+            "edit-time": 1614627576508,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Description:: #not-populated",
+            "create-time": 1614627499729,
+            ":block/refs": [
+              {
+                ":block/uid": "yqVgWC8Iu"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "yqVgWC8Iu"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "QKPcjx7Pt",
+            "edit-time": 1614627500000,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Status:: [[Status/Active]]",
+            "create-time": 1614627499989,
             ":block/refs": [
               {
                 ":block/uid": "rHPiTkAN2"
               },
               {
-                ":block/uid": "6CPo86uVF"
+                ":block/uid": "mKpRIqmWO"
               }
             ],
             "refs": [
@@ -34578,26 +34842,532 @@
                 "uid": "rHPiTkAN2"
               },
               {
-                "uid": "6CPo86uVF"
+                "uid": "mKpRIqmWO"
               }
             ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "0XgqwcBzB",
-            "edit-time": 1614354636665,
+            "uid": "e_79ongRg",
+            "edit-time": 1614627529542,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           },
           {
-            "string": "::",
-            "create-time": 1614354636656,
-            "uid": "7G25jHHl8",
-            "edit-time": 1614354640999,
+            "string": "Resources:: #not-populated",
+            "create-time": 1614627500254,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "i1417DLqD"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "i1417DLqD"
+              }
+            ],
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
+            "uid": "kZbYp9zy-",
+            "edit-time": 1614627500533,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614627502634,
+            "children": [
+              {
+                "edit-time": 1614627503158,
+                "children": [
+                  {
+                    "string": "{{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal",
+                    "create-time": 1614627503144,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xoF4dsBZ0"
+                      },
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "3hprOZ63V"
+                      },
+                      {
+                        ":block/uid": "Oxfp6bPkD"
+                      },
+                      {
+                        ":block/uid": "WbqscQFRa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xoF4dsBZ0"
+                      },
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "3hprOZ63V"
+                      },
+                      {
+                        "uid": "Oxfp6bPkD"
+                      },
+                      {
+                        "uid": "WbqscQFRa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "sZErLJMD7",
+                    "edit-time": 1614627503801,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zwsdFoQsM"
+                  }
+                ],
+                "uid": "r1YS7GagM",
+                ":block/refs": [
+                  {
+                    ":block/uid": "zwsdFoQsM"
+                  }
+                ],
+                "string": "Query::",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614627502625,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            "uid": "f_SX2kTmN",
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "string": "**Questions:** #not-populated ((Replace ex-A with the sprint page name))",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614627501693,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614627506675,
+            "children": [
+              {
+                "edit-time": 1614627507226,
+                "children": [
+                  {
+                    "string": "{{[[query]]: {and: [[ex-A]] [[TODO]]}}}",
+                    "create-time": 1614627507215,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9v12Vcgoh"
+                      },
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "Oxfp6bPkD"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9v12Vcgoh"
+                      },
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "Oxfp6bPkD"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "1L9Mjq4j6",
+                    "edit-time": 1614627507734,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zwsdFoQsM"
+                  }
+                ],
+                "uid": "H9tySnmcI",
+                ":block/refs": [
+                  {
+                    ":block/uid": "zwsdFoQsM"
+                  }
+                ],
+                "string": "Query::",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614627506665,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "rpe7eES4p"
+              }
+            ],
+            "uid": "6aU5-OgS8",
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "rpe7eES4p"
+              }
+            ],
+            "string": "Tasks:: #not-populated ((Replace ex-A with the sprint page name))",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614627505742,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
+            "create-time": 1614627507720,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "Wv0s3VcL7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "Wv0s3VcL7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "e4w_UxNca",
+            "edit-time": 1614627508613,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614628968667,
+            "children": [
+              {
+                "edit-time": 1614628988623,
+                "children": [
+                  {
+                    "string": "#min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[TODO]] {not: {or: [[query]] [[Doing]]}}}}}",
+                    "create-time": 1614629007327,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9v12Vcgoh"
+                      },
+                      {
+                        ":block/uid": "qISYmdjst"
+                      },
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "6sUfMc4Aa"
+                      },
+                      {
+                        ":block/uid": "heoc0BKev"
+                      },
+                      {
+                        ":block/uid": "vM1Oed5yz"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9v12Vcgoh"
+                      },
+                      {
+                        "uid": "qISYmdjst"
+                      },
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "6sUfMc4Aa"
+                      },
+                      {
+                        "uid": "heoc0BKev"
+                      },
+                      {
+                        "uid": "vM1Oed5yz"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "348wsYrWr",
+                    "edit-time": 1614629968903,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "0cF7UVUua"
+                  }
+                ],
+                "uid": "9HaGgm00J",
+                ":block/refs": [
+                  {
+                    ":block/uid": "0cF7UVUua"
+                  }
+                ],
+                "string": "[[To Do]]",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614628971444,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "edit-time": 1614628991911,
+                "children": [
+                  {
+                    "string": "#min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[Doing]] {not: [[query]]}}}}",
+                    "create-time": 1614629304675,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "qISYmdjst"
+                      },
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "6sUfMc4Aa"
+                      },
+                      {
+                        ":block/uid": "heoc0BKev"
+                      },
+                      {
+                        ":block/uid": "vM1Oed5yz"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "qISYmdjst"
+                      },
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "6sUfMc4Aa"
+                      },
+                      {
+                        "uid": "heoc0BKev"
+                      },
+                      {
+                        "uid": "vM1Oed5yz"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "0slEAcUe7",
+                    "edit-time": 1614629864074,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "heoc0BKev"
+                  }
+                ],
+                "uid": "dXKBwAt6a",
+                ":block/refs": [
+                  {
+                    ":block/uid": "heoc0BKev"
+                  }
+                ],
+                "string": "[[Doing]]",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614628988616,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "edit-time": 1614628997229,
+                "children": [
+                  {
+                    "string": "#min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[DONE]] {not: [[query]]}}}}",
+                    "create-time": 1614629332518,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Nn5xwMWzL"
+                      },
+                      {
+                        ":block/uid": "qISYmdjst"
+                      },
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "6sUfMc4Aa"
+                      },
+                      {
+                        ":block/uid": "vM1Oed5yz"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Nn5xwMWzL"
+                      },
+                      {
+                        "uid": "qISYmdjst"
+                      },
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "6sUfMc4Aa"
+                      },
+                      {
+                        "uid": "vM1Oed5yz"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "tqZnCno_r",
+                    "edit-time": 1614629870948,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Nn5xwMWzL"
+                  }
+                ],
+                "uid": "z6SgBZPCe",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Nn5xwMWzL"
+                  }
+                ],
+                "string": "[[DONE]]",
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "create-time": 1614628993886,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XfyXMl2tT"
+              }
+            ],
+            "uid": "sKTiZTuKW",
+            ":block/refs": [
+              {
+                ":block/uid": "XfyXMl2tT"
+              }
+            ],
+            "string": "{{[[kanban]]}}",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614628966379,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "{{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[TODO]]}}}",
+            "create-time": 1614628794726,
+            ":block/refs": [
+              {
+                ":block/uid": "9v12Vcgoh"
+              },
+              {
+                ":block/uid": "qISYmdjst"
+              },
+              {
+                ":block/uid": "n9W406OfJ"
+              },
+              {
+                ":block/uid": "6sUfMc4Aa"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9v12Vcgoh"
+              },
+              {
+                "uid": "qISYmdjst"
+              },
+              {
+                "uid": "n9W406OfJ"
+              },
+              {
+                "uid": "6sUfMc4Aa"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "xLfTCLsuY",
+            "edit-time": 1614628843598,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
@@ -34611,7 +35381,7 @@
             "uid": "diiVTCbO2"
           }
         ],
-        "uid": "pEk2TwS3H",
+        "uid": "zSGmXIGzB",
         ":block/refs": [
           {
             ":block/uid": "8hylEFKzO"
@@ -34624,52 +35394,14 @@
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
-        "create-time": 1614354572028,
-        ":edit/user": {
-          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-        }
-      }
-    ],
-    "uid": "yQj4su1Id",
-    "edit-time": 1614354563657,
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614354581569,
-    "title": "Iterations",
-    "uid": "diiVTCbO2",
-    "edit-time": 1614354581570,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614355428720,
-    "title": "Iterations/1 - Set up the graph",
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    "children": [
-      {
-        "string": "",
-        "create-time": 1614355443526,
-        "uid": "jMM_eZS5U",
-        "edit-time": 1614355443526,
-        ":create/user": {
-          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-        },
+        "create-time": 1614627495471,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
       }
     ],
     "uid": "WNRJEFdz7",
-    "edit-time": 1614355428722,
+    "edit-time": 1614628237818,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -35007,13 +35739,13 @@
                 ],
                 "children": [
                   {
-                    "string": "Tags:: #Sprints",
+                    "string": "Tags:: #Iterations",
                     "refs": [
                       {
                         "uid": "8hylEFKzO"
                       },
                       {
-                        "uid": "hMrQeHzVj"
+                        "uid": "diiVTCbO2"
                       }
                     ],
                     "children": [
@@ -35132,82 +35864,6 @@
                         }
                       },
                       {
-                        "string": "**Outlines:** #not-populated ((Replace ex-A with the sprint page name))",
-                        "refs": [
-                          {
-                            "uid": "uybSer7dw"
-                          }
-                        ],
-                        "children": [
-                          {
-                            "string": "Query::",
-                            "refs": [
-                              {
-                                "uid": "zwsdFoQsM"
-                              }
-                            ],
-                            "children": [
-                              {
-                                "string": "{{[[query]]: {and: [[ex-A]] [[Outlines]]}}} #minimal",
-                                "refs": [
-                                  {
-                                    "uid": "n9W406OfJ"
-                                  },
-                                  {
-                                    "uid": "Oxfp6bPkD"
-                                  },
-                                  {
-                                    "uid": "b0cHA6eNl"
-                                  },
-                                  {
-                                    "uid": "WbqscQFRa"
-                                  }
-                                ],
-                                "uid": "exkIazkCz",
-                                "edit-time": 1614625760418,
-                                ":block/refs": [
-                                  {
-                                    ":block/uid": "n9W406OfJ"
-                                  },
-                                  {
-                                    ":block/uid": "Oxfp6bPkD"
-                                  },
-                                  {
-                                    ":block/uid": "b0cHA6eNl"
-                                  },
-                                  {
-                                    ":block/uid": "WbqscQFRa"
-                                  }
-                                ],
-                                ":edit/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                }
-                              }
-                            ],
-                            "uid": "mxiNMcjFB",
-                            "edit-time": 1614625760418,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "zwsdFoQsM"
-                              }
-                            ],
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          }
-                        ],
-                        "uid": "eRsXY2k7P",
-                        "edit-time": 1614625760418,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "uybSer7dw"
-                          }
-                        ],
-                        ":edit/user": {
-                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                        }
-                      },
-                      {
                         "string": "**Questions:** #not-populated ((Replace ex-A with the sprint page name))",
                         "refs": [
                           {
@@ -35283,106 +35939,6 @@
                         ":block/refs": [
                           {
                             ":block/uid": "uybSer7dw"
-                          }
-                        ],
-                        ":edit/user": {
-                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                        }
-                      },
-                      {
-                        "string": "Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))",
-                        "refs": [
-                          {
-                            "uid": "uybSer7dw"
-                          },
-                          {
-                            "uid": "tARMAfx-w"
-                          }
-                        ],
-                        "children": [
-                          {
-                            "string": "Query::",
-                            "refs": [
-                              {
-                                "uid": "zwsdFoQsM"
-                              }
-                            ],
-                            "children": [
-                              {
-                                "string": "{{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal",
-                                "refs": [
-                                  {
-                                    "uid": "n9W406OfJ"
-                                  },
-                                  {
-                                    "uid": "-Dd0Gv-cs"
-                                  },
-                                  {
-                                    "uid": "Oxfp6bPkD"
-                                  },
-                                  {
-                                    "uid": "WbqscQFRa"
-                                  },
-                                  {
-                                    "uid": "bzt5mbc8a"
-                                  },
-                                  {
-                                    "uid": "519hK9B9H"
-                                  },
-                                  {
-                                    "uid": "_zyd05JRO"
-                                  }
-                                ],
-                                "uid": "OdCACh02P",
-                                "edit-time": 1614625760418,
-                                ":block/refs": [
-                                  {
-                                    ":block/uid": "n9W406OfJ"
-                                  },
-                                  {
-                                    ":block/uid": "-Dd0Gv-cs"
-                                  },
-                                  {
-                                    ":block/uid": "Oxfp6bPkD"
-                                  },
-                                  {
-                                    ":block/uid": "WbqscQFRa"
-                                  },
-                                  {
-                                    ":block/uid": "bzt5mbc8a"
-                                  },
-                                  {
-                                    ":block/uid": "519hK9B9H"
-                                  },
-                                  {
-                                    ":block/uid": "_zyd05JRO"
-                                  }
-                                ],
-                                ":edit/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                }
-                              }
-                            ],
-                            "uid": "RZ7h5jwD_",
-                            "edit-time": 1614625760418,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "zwsdFoQsM"
-                              }
-                            ],
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          }
-                        ],
-                        "uid": "oUf8G4sgi",
-                        "edit-time": 1614625760418,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "uybSer7dw"
-                          },
-                          {
-                            ":block/uid": "tARMAfx-w"
                           }
                         ],
                         ":edit/user": {
@@ -35491,13 +36047,13 @@
                       }
                     ],
                     "uid": "e_vkIGjqs",
-                    "edit-time": 1614625760418,
+                    "edit-time": 1614627488890,
                     ":block/refs": [
                       {
                         ":block/uid": "8hylEFKzO"
                       },
                       {
-                        ":block/uid": "hMrQeHzVj"
+                        ":block/uid": "diiVTCbO2"
                       }
                     ],
                     ":edit/user": {
@@ -35673,6 +36229,18 @@
                             "string": "{{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}",
                             "uid": "c7HMXiMcN",
                             "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "",
+                            "create-time": 1614626199542,
+                            "uid": "zYbRsRF9J",
+                            "edit-time": 1614626199542,
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
                             ":edit/user": {
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             }
@@ -35941,6 +36509,272 @@
             }
           },
           {
+            "string": "TODO Queries",
+            "children": [
+              {
+                "string": "Active Epics #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "**Active Epic(s):**",
+                    "children": [
+                      {
+                        "string": "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}",
+                        "refs": [
+                          {
+                            "uid": "n9W406OfJ"
+                          },
+                          {
+                            "uid": "e6dIPhv8x"
+                          },
+                          {
+                            "uid": "mKpRIqmWO"
+                          },
+                          {
+                            "uid": "JgwMo3Q4m"
+                          }
+                        ],
+                        "uid": "8ck9ESh2a",
+                        "edit-time": 1614626800660,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "n9W406OfJ"
+                          },
+                          {
+                            ":block/uid": "e6dIPhv8x"
+                          },
+                          {
+                            ":block/uid": "mKpRIqmWO"
+                          },
+                          {
+                            ":block/uid": "JgwMo3Q4m"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "fj8KlELek",
+                    "edit-time": 1614626800660,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "mUOvfX7yM",
+                "edit-time": 1614626800660,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Active Sprints #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "**Active Iteration(s):**",
+                    "children": [
+                      {
+                        "string": "#page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}",
+                        "refs": [
+                          {
+                            "uid": "n9W406OfJ"
+                          },
+                          {
+                            "uid": "mKpRIqmWO"
+                          },
+                          {
+                            "uid": "JgwMo3Q4m"
+                          },
+                          {
+                            "uid": "diiVTCbO2"
+                          }
+                        ],
+                        "uid": "i_Ul69Mew",
+                        "edit-time": 1614626859520,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "n9W406OfJ"
+                          },
+                          {
+                            ":block/uid": "mKpRIqmWO"
+                          },
+                          {
+                            ":block/uid": "JgwMo3Q4m"
+                          },
+                          {
+                            ":block/uid": "diiVTCbO2"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "6N3vrG7wx",
+                    "edit-time": 1614626851282,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "FwzxGSLKn",
+                "edit-time": 1614626800660,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "TODO Created Today #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "**TODO Query:** (created today)",
+                    "children": [
+                      {
+                        "string": "<%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>",
+                        "uid": "TFhaOOL_m",
+                        "edit-time": 1614626800660,
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "F85HQgOVl",
+                    "edit-time": 1614626800660,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "PSspR9HUy",
+                "edit-time": 1614626800660,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "TODO + ThisWeek #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "**TODO Query:** (scheduled for this week)",
+                    "children": [
+                      {
+                        "string": "<%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>",
+                        "uid": "k7oXbhWuL",
+                        "edit-time": 1614626800660,
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "sS4HXTEc-",
+                    "edit-time": 1614626800660,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "NwULCK0Wq",
+                "edit-time": 1614626800660,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "TODO + Help Wanted #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "**Help Wanted Query:**",
+                    "children": [
+                      {
+                        "string": "#min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>",
+                        "refs": [
+                          {
+                            "uid": "9NtlHtTL5"
+                          }
+                        ],
+                        "uid": "A1cKkwi-w",
+                        "edit-time": 1614626800660,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9NtlHtTL5"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "r9nlptCny",
+                    "edit-time": 1614626800660,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "6ojmAqM5u",
+                "edit-time": 1614626800660,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "uid": "tFvJZcUcb",
+            "edit-time": 1614626800660,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
             "string": "Change Log Query",
             "children": [
               {
@@ -36075,11 +36909,29 @@
             }
           },
           {
-            "string": "#[[GTD Zone]]",
-            "create-time": 1614623395254,
-            ":block/refs": [
+            "edit-time": 1614623395254,
+            "children": [
               {
-                ":block/uid": "PtsT-s1sQ"
+                "string": "{{[[TODO]]}} test",
+                "create-time": 1614626896530,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9v12Vcgoh"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9v12Vcgoh"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "eHY3mWoC8",
+                "edit-time": 1614626899173,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
               }
             ],
             "refs": [
@@ -36087,11 +36939,17 @@
                 "uid": "PtsT-s1sQ"
               }
             ],
+            "uid": "hXBb1PwnN",
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "string": "#[[GTD Zone]]",
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
-            "uid": "hXBb1PwnN",
-            "edit-time": 1614623395254,
+            "create-time": 1614623395254,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
@@ -36122,23 +36980,51 @@
             "edit-time": 1614624758251,
             "children": [
               {
-                "string": "added css for ((SweZUrCvC))",
+                "string": "added css for ((SweZUrCvC)) and ((dKRL8pcr4))",
                 "create-time": 1614624758242,
                 ":block/refs": [
                   {
                     ":block/uid": "SweZUrCvC"
+                  },
+                  {
+                    ":block/uid": "dKRL8pcr4"
                   }
                 ],
                 "refs": [
                   {
                     "uid": "SweZUrCvC"
+                  },
+                  {
+                    "uid": "dKRL8pcr4"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 },
                 "uid": "RrDLN9_kv",
-                "edit-time": 1614624771650,
+                "edit-time": 1614626353513,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "Added [[Iterations]] page ",
+                "create-time": 1614626183321,
+                ":block/refs": [
+                  {
+                    ":block/uid": "diiVTCbO2"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "diiVTCbO2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "YBfsXl08A",
+                "edit-time": 1614626651473,
                 ":edit/user": {
                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                 }
@@ -36210,10 +37096,322 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1614623395254,
+        "edit-time": 1614626218356,
+        "children": [
+          {
+            "string": "Daily Activities #not-populated",
+            "create-time": 1614626218365,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "kmmw2pxZy",
+            "edit-time": 1614626218815,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "#[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated",
+            "create-time": 1614626218799,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "sfJIg2kOp"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "sfJIg2kOp"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "8SIGAdprY",
+            "edit-time": 1614626219080,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "#Chat ((A place to propose objects of discussion)) #not-populated",
+            "create-time": 1614626219069,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "c2K5jjWHY"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "c2K5jjWHY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "HeBYr-u8E",
+            "edit-time": 1614626219350,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614626219604,
+            "children": [
+              {
+                "string": "**Active Epic(s):**",
+                "create-time": 1614626219593,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "children": [
+                  {
+                    "string": "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}",
+                    "create-time": 1614626822102,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "e6dIPhv8x"
+                      },
+                      {
+                        ":block/uid": "mKpRIqmWO"
+                      },
+                      {
+                        ":block/uid": "JgwMo3Q4m"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "e6dIPhv8x"
+                      },
+                      {
+                        "uid": "mKpRIqmWO"
+                      },
+                      {
+                        "uid": "JgwMo3Q4m"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "uHZcCZHyS",
+                    "edit-time": 1614626822535,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "ziN0FHSqC",
+                "edit-time": 1614626822114,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "**Active Iterations(s):**",
+                "create-time": 1614626220083,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "children": [
+                  {
+                    "string": "#page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}",
+                    "create-time": 1614626842228,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "n9W406OfJ"
+                      },
+                      {
+                        ":block/uid": "mKpRIqmWO"
+                      },
+                      {
+                        ":block/uid": "JgwMo3Q4m"
+                      },
+                      {
+                        ":block/uid": "diiVTCbO2"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "n9W406OfJ"
+                      },
+                      {
+                        "uid": "mKpRIqmWO"
+                      },
+                      {
+                        "uid": "JgwMo3Q4m"
+                      },
+                      {
+                        "uid": "diiVTCbO2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "c2AxJp7lk",
+                    "edit-time": 1614627321921,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "BzFNsHFe8",
+                "edit-time": 1614627330810,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "{{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}",
+                "create-time": 1614626220661,
+                "uid": "1-zST0Jh6",
+                "edit-time": 1614626220965,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": "{{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}",
+                "create-time": 1614626220953,
+                "uid": "IWtsGpxXT",
+                "edit-time": 1614626221365,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": " ",
+                "create-time": 1614626221355,
+                "uid": "mGID-g8Hh",
+                "edit-time": 1614626221641,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PtsT-s1sQ"
+              }
+            ],
+            "uid": "8wltojIjt",
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "string": "#[[GTD Zone]]",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614626219336,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614626222257,
+            "children": [
+              {
+                "string": "{{Change Log + Today:42SmartBlock:Change Log + Today}}",
+                "create-time": 1614626222243,
+                "uid": "oyCXGld1Z",
+                "edit-time": 1614626222796,
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mbXuW2c5H"
+              }
+            ],
+            "uid": "fplCxztOH",
+            ":block/refs": [
+              {
+                ":block/uid": "mbXuW2c5H"
+              }
+            ],
+            "string": "#[[Change Log]]",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614626221631,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-2LOi25Hq"
+          },
+          {
+            "uid": "aium_byDd"
+          }
+        ],
         "uid": "AftcdS_Vq",
-        "edit-time": 1614623395254,
+        ":block/refs": [
+          {
+            ":block/uid": "-2LOi25Hq"
+          },
+          {
+            ":block/uid": "aium_byDd"
+          }
+        ],
+        "string": "#[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} [*](https://roamresearch.com/#/app/Roam-Collective/page/8im0QMdnu)",
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "create-time": 1614623395254,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1614626222784,
+        "uid": "oVogcud48",
+        "edit-time": 1614626223527,
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
@@ -36277,69 +37475,9 @@
     }
   },
   {
-    "create-time": 1614625760405,
-    "title": "Outlines",
-    "uid": "b0cHA6eNl",
-    "edit-time": 1614625760418,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
     "create-time": 1614625760409,
     "title": "minimal",
     "uid": "WbqscQFRa",
-    "edit-time": 1614625760418,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614625760409,
-    "title": "Relevant Notes",
-    "uid": "tARMAfx-w",
-    "edit-time": 1614625760418,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614625760409,
-    "title": "E:",
-    "uid": "bzt5mbc8a",
-    "edit-time": 1614625760418,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614625760409,
-    "title": "FN",
-    "uid": "519hK9B9H",
-    "edit-time": 1614625760418,
-    ":create/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    },
-    ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-    }
-  },
-  {
-    "create-time": 1614625760409,
-    "title": "Literature Notes",
-    "uid": "_zyd05JRO",
     "edit-time": 1614625760418,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
@@ -36389,6 +37527,102 @@
     "title": "DNP Modules",
     "uid": "EqZGjbBUg",
     "edit-time": 1614626069070,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614626629082,
+    "title": "agile development",
+    "uid": "tcVN9IvLs",
+    "edit-time": 1614626629082,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614627576508,
+    "title": "March 2nd, 2021",
+    "uid": "03-02-2021",
+    "edit-time": 1614627576508,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614628137502,
+    "title": "February 22nd, 2021",
+    "uid": "02-22-2021",
+    "edit-time": 1614628756737,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614628148312,
+    "title": "March 15th, 2021",
+    "uid": "03-15-2021",
+    "edit-time": 1614628148312,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614628766839,
+    "title": "March 8th, 2021",
+    "uid": "03-08-2021",
+    "edit-time": 1614628766840,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614628988624,
+    "title": "To Do",
+    "uid": "0cF7UVUua",
+    "edit-time": 1614628988625,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614628991913,
+    "title": "Doing",
+    "uid": "heoc0BKev",
+    "edit-time": 1614628991914,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614629855277,
+    "title": "min-all",
+    "uid": "vM1Oed5yz",
+    "edit-time": 1614629855279,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },

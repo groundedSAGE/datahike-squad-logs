@@ -13,21 +13,15 @@
                 - Resources:: #not-populated
                 - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
         - .rcITER — Iterations Template #42SmartBlock #[[roam/templates]]
-            - Tags:: #Sprints
+            - Tags:: #Iterations
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Date Range:: #not-populated
                 - Description:: #not-populated
                 - Status:: #not-populated
                 - Resources:: #not-populated
-                - **Outlines:** #not-populated ((Replace ex-A with the sprint page name))
-                    - Query::
-                        - {{[[query]]: {and: [[ex-A]] [[Outlines]]}}} #minimal
                 - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
                     - Query::
                         - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
-                - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
-                    - Query::
-                        - {{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal
                 - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
                     - Query::
                         - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
@@ -45,6 +39,7 @@
                     - {{TODO Created Today:42SmartBlock:TODO Created Today}}
                     - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
                     - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+                    - 
                 - #[[Change Log]]
                     - {{Change Log + Today:42SmartBlock:Change Log + Today}}
             - ---
@@ -61,6 +56,22 @@
             - <%42SETTING:NextWeek%>
         - .rc4NM — Next Month #42SmartBlock
             - <%42SETTING:NextMonth%>
+    - TODO Queries
+        - Active Epics #42SmartBlock
+            - **Active Epic(s):**
+                - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+        - Active Sprints #42SmartBlock
+            - **Active Iteration(s):**
+                - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
+        - TODO Created Today #42SmartBlock
+            - **TODO Query:** (created today)
+                - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+        - TODO + ThisWeek #42SmartBlock
+            - **TODO Query:** (scheduled for this week)
+                - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+        - TODO + Help Wanted #42SmartBlock
+            - **Help Wanted Query:**
+                - #min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
     - Change Log Query
         - Change Log + Today #42SmartBlock
             - <%CONCAT:#,min-title {,{[,[query]]: {and: <%DATE:today%> [,[Change Log]] {not: {or: [,[Community Notes]] [,[not-populated]]}}}}}%>

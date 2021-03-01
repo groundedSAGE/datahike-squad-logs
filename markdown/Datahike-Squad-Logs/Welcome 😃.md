@@ -5,7 +5,7 @@
         - "Conversation is RICH with value. Questions are asked, resources are shared, opportunities are identified, and ideas are born. " ~ [[Brandon Toner]] 
     - Unfortunately, database knowledge is far too specialized despite the fact that the entire world depends on databases. You can [teach yourself](https://teachyourselfcs.com/) virtually everything in Computer Science. But you will find that learning about Databases is the most difficult.
     - Squad Log objectives:
-        - To build a database that follows the [[Product Vision]].
+        - To build a database that follows the [[Vision]].
         - To provide a hub for all meta-conversation surrounding the implementation of the database.
         - To provide a hub for connecting all external sources and artifacts related to [[Datahike]] and it's implementation. 
         - To help others see that anyone can learn about the database internals and participate in its development.

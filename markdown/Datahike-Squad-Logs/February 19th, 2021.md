@@ -87,7 +87,7 @@
         - {{[[DONE]]}} Add a template for individual Daily Checkin
         - {{[[DONE]]}} Add a template for squads sessions and meetings
         - "{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn)))
-        - {{[[TODO]]}} Update [[Product Roadmap]]
+        - {{[[TODO]]}} Update [[Roadmap]]
         - {{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]
     - #Reflection
         - Was a good [session](((pDz7IiJv6))) with [[Chris Smothers]] today. Learnt a lot about Product/Project Management. So many nuances of how different people manage projects and different perspectives about what is the best way to manage them. There is no wrong or right answer here. As such I think we are on the right path. This is a new medium for managing projects and we are fortunate that [[Datahike]] is open source so we can do this all publicly.

@@ -1,4 +1,4 @@
-- Related:: [[Product Vision]]
+- Related:: [[Vision]]
 - ## This is currently a work in progress!!
     - We also want to try and put a timeframe on when we plan to reach said releases
 - ### 0.4.0

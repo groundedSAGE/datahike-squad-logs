@@ -1060,6 +1060,22 @@ span.rm-page-ref[data-tag="Chat"] {
 span.rm-page-ref[data-tag="Chat"]:before {
     content: '📢'
 }```
+                    - #[[The Main Feed]]
+                        - ```css
+span.rm-page-ref[data-tag="The Main Feed"] {
+	background: var(--cl-orange-600);
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="The Main Feed"]:before {
+    content: '⭐️'
+}```
                 3. Squad Modules
                     - #[[Squad Logs]] [[Lead [[Your Name]]]]
                         - ```css
@@ -2258,3 +2274,6 @@ div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 
 .roam-block-container {
     max-width: 100%;
 }```
+- Remove Query String
+    - ```css
+```

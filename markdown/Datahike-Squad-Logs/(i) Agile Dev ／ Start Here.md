@@ -8,7 +8,7 @@
         - I created [[(i) RoamAgile]] with the following vision in mind.
         - Create a Roam template and a how-to guide for Agile Product Development in Roam, assuming as a base case scenario that Roam is the only task and user story management tool used by the team. Develop a fully self-sustained solution built 100% around Roam's capabilities.
         - Storytelling and flexibility are at the heart of Agile Product Development. This is in contrast to traditional Waterfall Project Management where requirements specification and delivery control are at the center. 
-            - Leverage Roam's strengths for creating stories and connections. In Agile Product Development [[User Story]]s, [[Personas]], solution Dilemmas, [[Customer Feedback]], etc. are intertwined with the [[Backlog]], Sprint Plans, and the [[Product Roadmap]].
+            - Leverage Roam's strengths for creating stories and connections. In Agile Product Development [[User Story]]s, [[Personas]], solution Dilemmas, [[Customer Feedback]], etc. are intertwined with the [[Backlog]], Sprint Plans, and the [[Roadmap]].
             - Integrate Algorithms of Thought models such as #CAF #ADI #PMI #CnS #APC #OPV #choice #TOSCA into the product development workflow.
         - Use Roam's query and task management features to develop a practical workflow for the development team using Roam.
         - Integrate all key elements of an Agile Product Development process, assuming an Agile Scrum approach:
@@ -28,7 +28,7 @@
                 - Managing [[Customer Feedback]]
                 - Resolving Design and Feature Dilemmas
     - ### Product Design
-        - Articulate the [[Product Vision]] on a dedicated page pinned to the sidebar
+        - Articulate the [[Vision]] on a dedicated page pinned to the sidebar
         - "Develop your [[Personas]]"
             - You may try De Bono's [[AoT/OPV: Other People's Views]] to identify stakholders. `jjOPV`
             - Create a page for each [[Persona]] under the **persona/** namespace and using the `;;persona` template
@@ -37,7 +37,7 @@
         - Write [[User Story]]s
             - Use [Algorithms of Thoughs]([[roamAgile/AoT]]) built into [[(i) RoamAgile]]
             - Link to other stories, to [[Customer Feedback]], etc. Go wild with Roam's power in networked thought
-        - Plan the [[Product Roadmap]]
+        - Plan the [[Roadmap]]
         - "Capture [[Customer Feedback]]"
             - Use {{Add Customer Feedback}} on [[Customer Feedback]] to add feedback to your database.
                 - The SmartButton will ask for the feedback, past it from the clipboard.
@@ -85,7 +85,7 @@
         - List team members in separate blocks, using page links (else owners on [[Customer Feedback]] won't be links)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FGi5Qq219EW.png?alt=media&token=cd2ef588-f5e4-4d56-9410-1dfa61b84611)
     - Edit the [[(i) Team Ways of Working]] page with agreed modus operandi for the team.
-    - Create your [[Product Vision]]
+    - Create your [[Vision]]
     - Develop your [[Personas]]
         - "You may try De Bono's [[AoT/OPV: Other People's Views]] to identify stakholders. `jjOPV`"
         - "Create a page for each [[Persona]] under the **persona/** namespace and using the `;;persona` template"
