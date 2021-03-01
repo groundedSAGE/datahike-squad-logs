@@ -12395,10 +12395,10 @@
                             "edit-time": 1613683902842,
                             "children": [
                               {
-                                "string": "```css\nspan.rm-page-ref[data-tag=\"Scratchpad\"] {\n    background: var(--cl-gray-600);\n    color: var(--cl-white);\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Scratchpad\"]:before {\n    content: '✏️';\n}```",
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"Scratchpad\"] {\n    background: var(--cl-yellow-800);\n    color: var(--cl-white);\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Scratchpad\"]:before {\n    content: '✏️';\n}```",
                                 "create-time": 1613683903429,
                                 "uid": "Kf0H5bx0e",
-                                "edit-time": 1613683914070,
+                                "edit-time": 1614624597052,
                                 ":create/user": {
                                   ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                                 },
@@ -12423,136 +12423,6 @@
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             },
                             "create-time": 1613683901780,
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          },
-                          {
-                            "edit-time": 1613684119012,
-                            "children": [
-                              {
-                                "string": "```css\nspan.rm-page-ref[data-tag=\"Change Log\"] {\n    background: var(--cl-gray-600);\n    color: var(--cl-white);\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Change Log\"]:before {\n    content: '📢'\n}```",
-                                "create-time": 1613684119002,
-                                "uid": "5HPpmjO_y",
-                                "edit-time": 1613749656478,
-                                ":create/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                }
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "mbXuW2c5H"
-                              }
-                            ],
-                            "uid": "6qiXlsvT1",
-                            ":block/refs": [
-                              {
-                                ":block/uid": "mbXuW2c5H"
-                              }
-                            ],
-                            "string": "#[[Change Log]]",
-                            ":create/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            },
-                            "create-time": 1613684107536,
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          },
-                          {
-                            "string": "((qHPkoagER))",
-                            "create-time": 1613748597498,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "qHPkoagER"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "qHPkoagER"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            },
-                            "uid": "Rx2nbLqH4",
-                            "edit-time": 1613748598348,
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          },
-                          {
-                            "edit-time": 1613164508604,
-                            "children": [
-                              {
-                                "string": "```css\nspan.rm-page-ref[data-tag=\"Questions\"] {\n    background: #607D8B;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Questions\"]:before {\n    content: '❓'\n}```",
-                                "create-time": 1613164511230,
-                                "uid": "bGSlzJeaF",
-                                "edit-time": 1613164521566,
-                                ":create/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                }
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "xoF4dsBZ0"
-                              }
-                            ],
-                            "uid": "Kw8jmpFYt",
-                            ":block/refs": [
-                              {
-                                ":block/uid": "xoF4dsBZ0"
-                              }
-                            ],
-                            "string": "#Questions",
-                            ":create/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            },
-                            "create-time": 1613164498535,
-                            ":edit/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            }
-                          },
-                          {
-                            "edit-time": 1613684061122,
-                            "children": [
-                              {
-                                "string": "```css\nspan.rm-page-ref[data-tag=\"Help Wanted\"] {\n    background: #9C27B0;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Help Wanted\"]:before {\n    content: '😃'\n}```",
-                                "create-time": 1613684062198,
-                                "uid": "DnNzqxMeJ",
-                                "edit-time": 1613684068139,
-                                ":create/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                                }
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "M_ZIGU4H_"
-                              }
-                            ],
-                            "uid": "YpATyIAsm",
-                            ":block/refs": [
-                              {
-                                ":block/uid": "M_ZIGU4H_"
-                              }
-                            ],
-                            "string": "#[[Help Wanted]]",
-                            ":create/user": {
-                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                            },
-                            "create-time": 1613684060118,
                             ":edit/user": {
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             }
@@ -12594,6 +12464,136 @@
                             }
                           },
                           {
+                            "edit-time": 1613684119012,
+                            "children": [
+                              {
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"Change Log\"] {\n    background: var(--cl-gray-600);\n    color: var(--cl-white);\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Change Log\"]:before {\n    content: '📢'\n}```",
+                                "create-time": 1613684119002,
+                                "uid": "5HPpmjO_y",
+                                "edit-time": 1613749656478,
+                                ":create/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "mbXuW2c5H"
+                              }
+                            ],
+                            "uid": "6qiXlsvT1",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "mbXuW2c5H"
+                              }
+                            ],
+                            "string": "#[[Change Log]]",
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "create-time": 1613684107536,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "edit-time": 1613164508604,
+                            "children": [
+                              {
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"Questions\"] {\n    background: #607D8B;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Questions\"]:before {\n    content: '❓'\n}```",
+                                "create-time": 1613164511230,
+                                "uid": "bGSlzJeaF",
+                                "edit-time": 1613164521566,
+                                ":create/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "xoF4dsBZ0"
+                              }
+                            ],
+                            "uid": "Kw8jmpFYt",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "xoF4dsBZ0"
+                              }
+                            ],
+                            "string": "#Questions",
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "create-time": 1613164498535,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "((qHPkoagER))",
+                            "create-time": 1613748597498,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "qHPkoagER"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "qHPkoagER"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "uid": "Rx2nbLqH4",
+                            "edit-time": 1613748598348,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "edit-time": 1613684061122,
+                            "children": [
+                              {
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"Help Wanted\"] {\n    background: #9C27B0;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Help Wanted\"]:before {\n    content: '😃'\n}```",
+                                "create-time": 1613684062198,
+                                "uid": "DnNzqxMeJ",
+                                "edit-time": 1613684068139,
+                                ":create/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "M_ZIGU4H_"
+                              }
+                            ],
+                            "uid": "YpATyIAsm",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "M_ZIGU4H_"
+                              }
+                            ],
+                            "string": "#[[Help Wanted]]",
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "create-time": 1613684060118,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
                             "edit-time": 1614097887803,
                             "children": [
                               {
@@ -12625,6 +12625,64 @@
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             },
                             "create-time": 1614097884515,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "#Chat",
+                            "create-time": 1614624716148,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "c2K5jjWHY"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "c2K5jjWHY"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "uid": "xHlezsnPU",
+                            "edit-time": 1614624719478,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "edit-time": 1614624737209,
+                            "children": [
+                              {
+                                "string": "```css\nspan.rm-page-ref[data-tag=\"Bookmarks\"] {\n    background: var(--cl-blue-500);\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Bookmarks\"]:before {\n    content: '💾';\n}```",
+                                "create-time": 1614624738484,
+                                "uid": "32QyhlbHa",
+                                "edit-time": 1614624745840,
+                                ":create/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "QMbyAwRkC"
+                              }
+                            ],
+                            "uid": "SweZUrCvC",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "QMbyAwRkC"
+                              }
+                            ],
+                            "string": "#Bookmarks",
+                            ":create/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            },
+                            "create-time": 1614624732023,
                             ":edit/user": {
                               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                             }
@@ -20520,37 +20578,57 @@
                 "edit-time": 1613660387832,
                 "children": [
                   {
-                    "edit-time": 1613747504201,
-                    "children": [
+                    "string": "#Scratchpad #not-populated",
+                    "create-time": 1614101222292,
+                    ":block/refs": [
                       {
-                        "string": "/Current Time",
-                        "create-time": 1613747504189,
-                        "uid": "ynse_C7ao",
-                        "edit-time": 1613747517217,
-                        ":create/user": {
-                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                        }
+                        ":block/uid": "4BF7GT93b"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
                       }
                     ],
                     "refs": [
                       {
-                        "uid": "0SxpqGeQa"
-                      }
-                    ],
-                    "uid": "I_CnlHaN1",
-                    ":block/refs": [
+                        "uid": "4BF7GT93b"
+                      },
                       {
-                        ":block/uid": "0SxpqGeQa"
+                        "uid": "uybSer7dw"
                       }
                     ],
-                    "string": "#[[Daily Log]]",
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
-                    "create-time": 1613747499560,
+                    "uid": "OGLDPCF_g",
+                    "edit-time": 1614624468721,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "#Conversation #not-populated",
+                    "create-time": 1614624359038,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uybSer7dw"
+                      },
+                      {
+                        ":block/uid": "9BDkj-6os"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "uybSer7dw"
+                      },
+                      {
+                        "uid": "9BDkj-6os"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "bU_Tq_1mF",
+                    "edit-time": 1614624462672,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -20578,45 +20656,79 @@
                     }
                   },
                   {
-                    "string": "#Scratchpad",
-                    "create-time": 1614101222292,
+                    "string": "#Bookmarks",
+                    "create-time": 1614624516489,
                     ":block/refs": [
                       {
-                        ":block/uid": "4BF7GT93b"
+                        ":block/uid": "QMbyAwRkC"
                       }
                     ],
                     "refs": [
                       {
-                        "uid": "4BF7GT93b"
+                        "uid": "QMbyAwRkC"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
-                    "uid": "OGLDPCF_g",
-                    "edit-time": 1614101225140,
+                    "uid": "uNJoLrQSL",
+                    "edit-time": 1614624522538,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
                   },
                   {
-                    "string": "#Reflection",
+                    "string": "#Reflection #not-populated",
                     "create-time": 1613747519189,
                     ":block/refs": [
                       {
                         ":block/uid": "rQrwT2p4X"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
                       }
                     ],
                     "refs": [
                       {
                         "uid": "rQrwT2p4X"
+                      },
+                      {
+                        "uid": "uybSer7dw"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     },
                     "uid": "NJxIzLntX",
-                    "edit-time": 1613747524877,
+                    "edit-time": 1614624378337,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "#[[Change Log]] #not-populated",
+                    "create-time": 1614624367764,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "mbXuW2c5H"
+                      },
+                      {
+                        ":block/uid": "uybSer7dw"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "mbXuW2c5H"
+                      },
+                      {
+                        "uid": "uybSer7dw"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    },
+                    "uid": "zWsx55htN",
+                    "edit-time": 1614624375189,
                     ":edit/user": {
                       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
                     }
@@ -21257,11 +21369,53 @@
   {
     "create-time": 1613156284364,
     "title": "GTD Zone",
-    "uid": "PtsT-s1sQ",
-    "edit-time": 1613156284524,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "string": "Tags:: #[[DNP Modules]] #Conventions, #Collections",
+        "create-time": 1614626068003,
+        ":block/refs": [
+          {
+            ":block/uid": "8hylEFKzO"
+          },
+          {
+            ":block/uid": "tcURDg2cN"
+          },
+          {
+            ":block/uid": "4O0qKTpQj"
+          },
+          {
+            ":block/uid": "EqZGjbBUg"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8hylEFKzO"
+          },
+          {
+            "uid": "tcURDg2cN"
+          },
+          {
+            "uid": "4O0qKTpQj"
+          },
+          {
+            "uid": "EqZGjbBUg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "_ZE9UJmuZ",
+        "edit-time": 1614626069065,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
+    "uid": "PtsT-s1sQ",
+    "edit-time": 1613156284524,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -22370,6 +22524,18 @@
         "create-time": 1614107065792,
         "uid": "6gsx7oJzS",
         "edit-time": 1614107067443,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1614625337098,
+        "uid": "ac7Pw6b_z",
+        "edit-time": 1614625339259,
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
@@ -34528,190 +34694,286 @@
     },
     "children": [
       {
-        "string": "Page Templates",
-        "create-time": 1614355637832,
+        "string": "Tags:: #Collections",
+        "create-time": 1614625376599,
+        ":block/refs": [
+          {
+            ":block/uid": "8hylEFKzO"
+          },
+          {
+            ":block/uid": "4O0qKTpQj"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8hylEFKzO"
+          },
+          {
+            "uid": "4O0qKTpQj"
+          }
+        ],
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         },
+        "uid": "hAOaYdNa9",
+        "edit-time": 1614625385942,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Related:: [[roam/templates]]",
+        "create-time": 1614625386974,
+        ":block/refs": [
+          {
+            ":block/uid": "34-gcQ0D9"
+          },
+          {
+            ":block/uid": "MX5qS4P-H"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "34-gcQ0D9"
+          },
+          {
+            "uid": "MX5qS4P-H"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "AoAwmYohz",
+        "edit-time": 1614625396593,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "Table of Contents::",
+        "create-time": 1614625397268,
+        ":block/refs": [
+          {
+            ":block/uid": "5i4pP_-hF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "5i4pP_-hF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "uid": "eACHjeL63",
+        "edit-time": 1614625401304,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "edit-time": 1614625411063,
         "children": [
           {
-            "string": ".rcEPC — Epics Template #42SmartBlock #[[roam/templates]]",
-            "refs": [
-              {
-                "uid": "34-gcQ0D9"
-              },
-              {
-                "uid": "hONA6vQ-l"
-              }
-            ],
+            "string": "Page Templates",
+            "create-time": 1614355637832,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
             "children": [
               {
-                "string": "Tags:: #Epics",
+                "string": ".rcEPC — Epics Template #42SmartBlock #[[roam/templates]]",
                 "refs": [
                   {
-                    "uid": "8hylEFKzO"
+                    "uid": "34-gcQ0D9"
                   },
                   {
-                    "uid": "e6dIPhv8x"
+                    "uid": "hONA6vQ-l"
                   }
                 ],
                 "children": [
                   {
-                    "string": "Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}",
+                    "string": "Tags:: #Epics",
                     "refs": [
                       {
-                        "uid": "rWKvAbNYj"
+                        "uid": "8hylEFKzO"
+                      },
+                      {
+                        "uid": "e6dIPhv8x"
                       }
                     ],
-                    "uid": "FnhKRPko4",
+                    "children": [
+                      {
+                        "string": "Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}",
+                        "refs": [
+                          {
+                            "uid": "rWKvAbNYj"
+                          }
+                        ],
+                        "uid": "FnhKRPko4",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rWKvAbNYj"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Created by:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "TEpDCbfGK"
+                          },
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "Xg9y_uJ4N",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "TEpDCbfGK"
+                          },
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Date Range:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "p1DocpQH9"
+                          }
+                        ],
+                        "uid": "VKKgbVtde",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "p1DocpQH9"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Description:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "yqVgWC8Iu"
+                          },
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "-rF9JfYss",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yqVgWC8Iu"
+                          },
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Status:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "rHPiTkAN2"
+                          },
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "mE4QYopWN",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rHPiTkAN2"
+                          },
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Resources:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "i1417DLqD"
+                          }
+                        ],
+                        "uid": "PPjPS1zG2",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "i1417DLqD"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "Wv0s3VcL7"
+                          }
+                        ],
+                        "uid": "l_XnZjaHs",
+                        "edit-time": 1614355646672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "Wv0s3VcL7"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "LBpUyDkIM",
                     "edit-time": 1614355646672,
                     ":block/refs": [
                       {
-                        ":block/uid": "rWKvAbNYj"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Created by:: #not-populated",
-                    "refs": [
-                      {
-                        "uid": "TEpDCbfGK"
+                        ":block/uid": "8hylEFKzO"
                       },
                       {
-                        "uid": "uybSer7dw"
-                      }
-                    ],
-                    "uid": "Xg9y_uJ4N",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "TEpDCbfGK"
-                      },
-                      {
-                        ":block/uid": "uybSer7dw"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Date Range:: #not-populated",
-                    "refs": [
-                      {
-                        "uid": "uybSer7dw"
-                      },
-                      {
-                        "uid": "p1DocpQH9"
-                      }
-                    ],
-                    "uid": "VKKgbVtde",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "uybSer7dw"
-                      },
-                      {
-                        ":block/uid": "p1DocpQH9"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Description:: #not-populated",
-                    "refs": [
-                      {
-                        "uid": "yqVgWC8Iu"
-                      },
-                      {
-                        "uid": "uybSer7dw"
-                      }
-                    ],
-                    "uid": "-rF9JfYss",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "yqVgWC8Iu"
-                      },
-                      {
-                        ":block/uid": "uybSer7dw"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Status:: #not-populated",
-                    "refs": [
-                      {
-                        "uid": "rHPiTkAN2"
-                      },
-                      {
-                        "uid": "uybSer7dw"
-                      }
-                    ],
-                    "uid": "mE4QYopWN",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "rHPiTkAN2"
-                      },
-                      {
-                        ":block/uid": "uybSer7dw"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Resources:: #not-populated",
-                    "refs": [
-                      {
-                        "uid": "uybSer7dw"
-                      },
-                      {
-                        "uid": "i1417DLqD"
-                      }
-                    ],
-                    "uid": "PPjPS1zG2",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "uybSer7dw"
-                      },
-                      {
-                        ":block/uid": "i1417DLqD"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
-                    }
-                  },
-                  {
-                    "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
-                    "refs": [
-                      {
-                        "uid": "uybSer7dw"
-                      },
-                      {
-                        "uid": "Wv0s3VcL7"
-                      }
-                    ],
-                    "uid": "l_XnZjaHs",
-                    "edit-time": 1614355646672,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "uybSer7dw"
-                      },
-                      {
-                        ":block/uid": "Wv0s3VcL7"
+                        ":block/uid": "e6dIPhv8x"
                       }
                     ],
                     ":edit/user": {
@@ -34719,14 +34981,538 @@
                     }
                   }
                 ],
-                "uid": "LBpUyDkIM",
+                "uid": "7kro9yfgj",
                 "edit-time": 1614355646672,
                 ":block/refs": [
                   {
-                    ":block/uid": "8hylEFKzO"
+                    ":block/uid": "34-gcQ0D9"
                   },
                   {
-                    ":block/uid": "e6dIPhv8x"
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rcITER — Iterations Template #42SmartBlock #[[roam/templates]]",
+                "refs": [
+                  {
+                    "uid": "34-gcQ0D9"
+                  },
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Tags:: #Sprints",
+                    "refs": [
+                      {
+                        "uid": "8hylEFKzO"
+                      },
+                      {
+                        "uid": "hMrQeHzVj"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}",
+                        "refs": [
+                          {
+                            "uid": "rWKvAbNYj"
+                          }
+                        ],
+                        "uid": "78KCEisVc",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rWKvAbNYj"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Date Range:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "p1DocpQH9"
+                          }
+                        ],
+                        "uid": "OKAhaw1yz",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "p1DocpQH9"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Description:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "yqVgWC8Iu"
+                          },
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "thxVRIZ6v",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yqVgWC8Iu"
+                          },
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Status:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "rHPiTkAN2"
+                          },
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "26ekV6mGx",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rHPiTkAN2"
+                          },
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Resources:: #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "i1417DLqD"
+                          }
+                        ],
+                        "uid": "TCpq9eXXn",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "i1417DLqD"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "**Outlines:** #not-populated ((Replace ex-A with the sprint page name))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "Query::",
+                            "refs": [
+                              {
+                                "uid": "zwsdFoQsM"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "{{[[query]]: {and: [[ex-A]] [[Outlines]]}}} #minimal",
+                                "refs": [
+                                  {
+                                    "uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    "uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    "uid": "b0cHA6eNl"
+                                  },
+                                  {
+                                    "uid": "WbqscQFRa"
+                                  }
+                                ],
+                                "uid": "exkIazkCz",
+                                "edit-time": 1614625760418,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    ":block/uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    ":block/uid": "b0cHA6eNl"
+                                  },
+                                  {
+                                    ":block/uid": "WbqscQFRa"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "uid": "mxiNMcjFB",
+                            "edit-time": 1614625760418,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zwsdFoQsM"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "eRsXY2k7P",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "**Questions:** #not-populated ((Replace ex-A with the sprint page name))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "Query::",
+                            "refs": [
+                              {
+                                "uid": "zwsdFoQsM"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "{{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal",
+                                "refs": [
+                                  {
+                                    "uid": "xoF4dsBZ0"
+                                  },
+                                  {
+                                    "uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    "uid": "3hprOZ63V"
+                                  },
+                                  {
+                                    "uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    "uid": "WbqscQFRa"
+                                  }
+                                ],
+                                "uid": "AigBBdbnV",
+                                "edit-time": 1614625760418,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "xoF4dsBZ0"
+                                  },
+                                  {
+                                    ":block/uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    ":block/uid": "3hprOZ63V"
+                                  },
+                                  {
+                                    ":block/uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    ":block/uid": "WbqscQFRa"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "uid": "nyLmp5ZGp",
+                            "edit-time": 1614625760418,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zwsdFoQsM"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "G9usuB-aQ",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "tARMAfx-w"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "Query::",
+                            "refs": [
+                              {
+                                "uid": "zwsdFoQsM"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "{{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal",
+                                "refs": [
+                                  {
+                                    "uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    "uid": "-Dd0Gv-cs"
+                                  },
+                                  {
+                                    "uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    "uid": "WbqscQFRa"
+                                  },
+                                  {
+                                    "uid": "bzt5mbc8a"
+                                  },
+                                  {
+                                    "uid": "519hK9B9H"
+                                  },
+                                  {
+                                    "uid": "_zyd05JRO"
+                                  }
+                                ],
+                                "uid": "OdCACh02P",
+                                "edit-time": 1614625760418,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    ":block/uid": "-Dd0Gv-cs"
+                                  },
+                                  {
+                                    ":block/uid": "Oxfp6bPkD"
+                                  },
+                                  {
+                                    ":block/uid": "WbqscQFRa"
+                                  },
+                                  {
+                                    ":block/uid": "bzt5mbc8a"
+                                  },
+                                  {
+                                    ":block/uid": "519hK9B9H"
+                                  },
+                                  {
+                                    ":block/uid": "_zyd05JRO"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "uid": "RZ7h5jwD_",
+                            "edit-time": 1614625760418,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zwsdFoQsM"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "oUf8G4sgi",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "tARMAfx-w"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Tasks:: #not-populated ((Replace ex-A with the sprint page name))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "rpe7eES4p"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "Query::",
+                            "refs": [
+                              {
+                                "uid": "zwsdFoQsM"
+                              }
+                            ],
+                            "children": [
+                              {
+                                "string": "{{[[query]]: {and: [[ex-A]] [[TODO]]}}}",
+                                "refs": [
+                                  {
+                                    "uid": "9v12Vcgoh"
+                                  },
+                                  {
+                                    "uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    "uid": "Oxfp6bPkD"
+                                  }
+                                ],
+                                "uid": "CicR3gJ2C",
+                                "edit-time": 1614625760418,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "9v12Vcgoh"
+                                  },
+                                  {
+                                    ":block/uid": "n9W406OfJ"
+                                  },
+                                  {
+                                    ":block/uid": "Oxfp6bPkD"
+                                  }
+                                ],
+                                ":edit/user": {
+                                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                                }
+                              }
+                            ],
+                            "uid": "5aU7H1_j_",
+                            "edit-time": 1614625760418,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zwsdFoQsM"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "cdQcvSB6h",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "rpe7eES4p"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "Wv0s3VcL7"
+                          }
+                        ],
+                        "uid": "WXzpAxIEr",
+                        "edit-time": 1614625760418,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "Wv0s3VcL7"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "e_vkIGjqs",
+                    "edit-time": 1614625760418,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8hylEFKzO"
+                      },
+                      {
+                        ":block/uid": "hMrQeHzVj"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "cluwO1aN8",
+                "edit-time": 1614625847103,
+                ":block/refs": [
+                  {
+                    ":block/uid": "34-gcQ0D9"
+                  },
+                  {
+                    ":block/uid": "hONA6vQ-l"
                   }
                 ],
                 ":edit/user": {
@@ -34734,23 +35520,481 @@
                 }
               }
             ],
-            "uid": "7kro9yfgj",
-            "edit-time": 1614355646672,
-            ":block/refs": [
+            "uid": "z45viIhk5",
+            "edit-time": 1614355645674,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Daily Templates",
+            "create-time": 1614625926845,
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "children": [
               {
-                ":block/uid": "34-gcQ0D9"
-              },
-              {
-                ":block/uid": "hONA6vQ-l"
+                "string": ".rc2DH — Daily Header #42SmartBlock #roam/templates",
+                "refs": [
+                  {
+                    "uid": "34-gcQ0D9"
+                  },
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%DATEBASIS:DNP%>",
+                    "uid": "JPeUEqJ2a",
+                    "edit-time": 1614625943580,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "#[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} [*](https://roamresearch.com/#/app/Roam-Collective/page/8im0QMdnu)",
+                    "refs": [
+                      {
+                        "uid": "-2LOi25Hq"
+                      },
+                      {
+                        "uid": "aium_byDd"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Daily Activities #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          }
+                        ],
+                        "uid": "dbkNBTNTQ",
+                        "edit-time": 1614625979307,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "#[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "sfJIg2kOp"
+                          }
+                        ],
+                        "uid": "g1Ezd-jlG",
+                        "edit-time": 1614625943580,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "sfJIg2kOp"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "#Chat ((A place to propose objects of discussion)) #not-populated",
+                        "refs": [
+                          {
+                            "uid": "uybSer7dw"
+                          },
+                          {
+                            "uid": "c2K5jjWHY"
+                          }
+                        ],
+                        "uid": "wGSNez_V-",
+                        "edit-time": 1614625943580,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uybSer7dw"
+                          },
+                          {
+                            ":block/uid": "c2K5jjWHY"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "#[[GTD Zone]]",
+                        "refs": [
+                          {
+                            "uid": "PtsT-s1sQ"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "{{Active Epics:42SmartBlock:Active Epics}}",
+                            "uid": "THbHjwsun",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "{{Active Sprints:42SmartBlock:Active Sprints}}",
+                            "uid": "W0bwzcQTl",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "{{TODO Created Today:42SmartBlock:TODO Created Today}}",
+                            "uid": "Ek3X30Djz",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "{{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}",
+                            "uid": "ad6zlnNTm",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          },
+                          {
+                            "string": "{{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}",
+                            "uid": "c7HMXiMcN",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "oGHw3zXRr",
+                        "edit-time": 1614625943580,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "PtsT-s1sQ"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      },
+                      {
+                        "string": "#[[Change Log]]",
+                        "refs": [
+                          {
+                            "uid": "mbXuW2c5H"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "{{Change Log + Today:42SmartBlock:Change Log + Today}}",
+                            "uid": "Qxav0AtHk",
+                            "edit-time": 1614625943580,
+                            ":edit/user": {
+                              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                            }
+                          }
+                        ],
+                        "uid": "5jcZF3Hlw",
+                        "edit-time": 1614625943580,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "mbXuW2c5H"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                        }
+                      }
+                    ],
+                    "uid": "96xZ_TxC0",
+                    "edit-time": 1614625958242,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "-2LOi25Hq"
+                      },
+                      {
+                        ":block/uid": "aium_byDd"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  },
+                  {
+                    "string": "---",
+                    "uid": "zLqXo2WsS",
+                    "edit-time": 1614625943580,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "L9E69S4EN",
+                "edit-time": 1614625943580,
+                ":block/refs": [
+                  {
+                    ":block/uid": "34-gcQ0D9"
+                  },
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
               }
             ],
+            "uid": "b9606i9tM",
+            "edit-time": 1614625932273,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Dates",
+            "children": [
+              {
+                "string": ".rc3TD — Today #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%DATE:today%>",
+                    "uid": "_ZLe3eA9B",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "siTtZ9qp_",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rc3TMRW — Tomorrow #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%DATE:tomorrow%>",
+                    "uid": "p_h74J3RM",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "Q45p_AJnF",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rc4WK — This Week #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%42SETTING:ThisWeek%>",
+                    "uid": "qSLZe9Iq9",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "2_ply4mbd",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rc4MNTH — This Month #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%42SETTING:ThisMonth%>",
+                    "uid": "GR9bA8cGj",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "gk6MPdBNr",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rc4NW — Next Week #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%42SETTING:NextWeek%>",
+                    "uid": "WoD19K_hu",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "0I2h65DjH",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              },
+              {
+                "string": ".rc4NM — Next Month #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%42SETTING:NextMonth%>",
+                    "uid": "ICVywNALZ",
+                    "edit-time": 1614625531432,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "-ATzsXC60",
+                "edit-time": 1614625531432,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "uid": "nR2TdcDDj",
+            "edit-time": 1614625531432,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "Change Log Query",
+            "children": [
+              {
+                "string": "Change Log + Today #42SmartBlock",
+                "refs": [
+                  {
+                    "uid": "hONA6vQ-l"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "<%CONCAT:#,min-title {,{[,[query]]: {and: <%DATE:today%> [,[Change Log]] {not: {or: [,[Community Notes]] [,[not-populated]]}}}}}%>",
+                    "uid": "hzafCAVvk",
+                    "edit-time": 1614625694856,
+                    ":edit/user": {
+                      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                    }
+                  }
+                ],
+                "uid": "AwZ2u9dV_",
+                "edit-time": 1614625694856,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hONA6vQ-l"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "uid": "yxzUK6MCm",
+            "edit-time": 1614625694856,
             ":edit/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             }
           }
         ],
-        "uid": "z45viIhk5",
-        "edit-time": 1614355645674,
+        "refs": [
+          {
+            "uid": "8TCr7pEpg"
+          }
+        ],
+        "uid": "VAdTIrezB",
+        ":block/refs": [
+          {
+            ":block/uid": "8TCr7pEpg"
+          }
+        ],
+        "string": "Contents::",
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "create-time": 1614625402563,
         ":edit/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
         }
@@ -34801,8 +36045,350 @@
   {
     "create-time": 1614559749410,
     "title": "March 1st, 2021",
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    "children": [
+      {
+        "edit-time": 1614623394417,
+        "children": [
+          {
+            "string": "#Scratchpad",
+            "create-time": 1614623395254,
+            ":block/refs": [
+              {
+                ":block/uid": "4BF7GT93b"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4BF7GT93b"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "fCJacwfAq",
+            "edit-time": 1614623395254,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "#[[GTD Zone]]",
+            "create-time": 1614623395254,
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PtsT-s1sQ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "hXBb1PwnN",
+            "edit-time": 1614623395254,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "string": "#Reflection",
+            "create-time": 1614623395254,
+            ":block/refs": [
+              {
+                ":block/uid": "rQrwT2p4X"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rQrwT2p4X"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "uid": "WubWIw2hw",
+            "edit-time": 1614623395254,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          },
+          {
+            "edit-time": 1614624758251,
+            "children": [
+              {
+                "string": "added css for ((SweZUrCvC))",
+                "create-time": 1614624758242,
+                ":block/refs": [
+                  {
+                    ":block/uid": "SweZUrCvC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "SweZUrCvC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                },
+                "uid": "RrDLN9_kv",
+                "edit-time": 1614624771650,
+                ":edit/user": {
+                  ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mbXuW2c5H"
+              }
+            ],
+            "uid": "vdzo98cmA",
+            ":block/refs": [
+              {
+                ":block/uid": "mbXuW2c5H"
+              }
+            ],
+            "string": "#[[Change Log]]",
+            ":create/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            },
+            "create-time": 1614624752878,
+            ":edit/user": {
+              ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "n3eBhhrSb"
+          },
+          {
+            "uid": "p46ep77mm"
+          },
+          {
+            "uid": "M8eW6OQHA"
+          }
+        ],
+        "uid": "oLhqcaNxp",
+        ":block/refs": [
+          {
+            ":block/uid": "n3eBhhrSb"
+          },
+          {
+            ":block/uid": "p46ep77mm"
+          },
+          {
+            ":block/uid": "M8eW6OQHA"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}} ((M8eW6OQHA))",
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        "create-time": 1614623391076,
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1614623395254,
+        "uid": "aIXbWrO4J",
+        "edit-time": 1614623395254,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614623395254,
+        "uid": "AftcdS_Vq",
+        "edit-time": 1614623395254,
+        ":create/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        },
+        ":edit/user": {
+          ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+        }
+      }
+    ],
     "uid": "03-01-2021",
     "edit-time": 1614559749410,
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614624522543,
+    "title": "Bookmarks",
+    "uid": "QMbyAwRkC",
+    "edit-time": 1614624522544,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625411067,
+    "title": "Contents",
+    "uid": "8TCr7pEpg",
+    "edit-time": 1614625411067,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760413,
+    "title": "Query",
+    "uid": "zwsdFoQsM",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760413,
+    "title": "ex-A",
+    "uid": "Oxfp6bPkD",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760405,
+    "title": "Outlines",
+    "uid": "b0cHA6eNl",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760409,
+    "title": "minimal",
+    "uid": "WbqscQFRa",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760409,
+    "title": "Relevant Notes",
+    "uid": "tARMAfx-w",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760409,
+    "title": "E:",
+    "uid": "bzt5mbc8a",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760409,
+    "title": "FN",
+    "uid": "519hK9B9H",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760409,
+    "title": "Literature Notes",
+    "uid": "_zyd05JRO",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625760412,
+    "title": "Tasks",
+    "uid": "rpe7eES4p",
+    "edit-time": 1614625760418,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625943570,
+    "title": "The Main Feed",
+    "uid": "sfJIg2kOp",
+    "edit-time": 1614625943580,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614625958245,
+    "title": "Datehike-Squad-Logs",
+    "uid": "aium_byDd",
+    "edit-time": 1614625958247,
+    ":create/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    },
+    ":edit/user": {
+      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614626069069,
+    "title": "DNP Modules",
+    "uid": "EqZGjbBUg",
+    "edit-time": 1614626069070,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },

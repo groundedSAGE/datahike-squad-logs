@@ -1,0 +1,8 @@
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad
+    - #[[GTD Zone]]
+    - #Reflection
+    - #[[Change Log]]
+        - added css for "#Bookmarks"
+- ---
+- 

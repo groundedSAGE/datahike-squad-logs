@@ -1,10 +1,66 @@
-- Page Templates
-    - .rcEPC — Epics Template #42SmartBlock #[[roam/templates]]
-        - Tags:: #Epics
-            - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-            - Created by:: #not-populated
-            - Date Range:: #not-populated
-            - Description:: #not-populated
-            - Status:: #not-populated
-            - Resources:: #not-populated
-            - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
+- Tags:: #Collections
+- Related:: [[roam/templates]]
+- Table of Contents::
+- Contents::
+    - Page Templates
+        - .rcEPC — Epics Template #42SmartBlock #[[roam/templates]]
+            - Tags:: #Epics
+                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Created by:: #not-populated
+                - Date Range:: #not-populated
+                - Description:: #not-populated
+                - Status:: #not-populated
+                - Resources:: #not-populated
+                - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
+        - .rcITER — Iterations Template #42SmartBlock #[[roam/templates]]
+            - Tags:: #Sprints
+                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Range:: #not-populated
+                - Description:: #not-populated
+                - Status:: #not-populated
+                - Resources:: #not-populated
+                - **Outlines:** #not-populated ((Replace ex-A with the sprint page name))
+                    - Query::
+                        - {{[[query]]: {and: [[ex-A]] [[Outlines]]}}} #minimal
+                - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
+                    - Query::
+                        - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
+                - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
+                    - Query::
+                        - {{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal
+                - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
+                    - Query::
+                        - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
+                - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
+    - Daily Templates
+        - .rc2DH — Daily Header #42SmartBlock #roam/templates
+            - <%DATEBASIS:DNP%>
+            - #[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} [*](https://roamresearch.com/#/app/Roam-Collective/page/8im0QMdnu)
+                - Daily Activities #not-populated
+                - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated
+                - #Chat ((A place to propose objects of discussion)) #not-populated
+                - #[[GTD Zone]]
+                    - {{Active Epics:42SmartBlock:Active Epics}}
+                    - {{Active Sprints:42SmartBlock:Active Sprints}}
+                    - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+                    - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+                    - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+                - #[[Change Log]]
+                    - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+            - ---
+    - Dates
+        - .rc3TD — Today #42SmartBlock
+            - <%DATE:today%>
+        - .rc3TMRW — Tomorrow #42SmartBlock
+            - <%DATE:tomorrow%>
+        - .rc4WK — This Week #42SmartBlock
+            - <%42SETTING:ThisWeek%>
+        - .rc4MNTH — This Month #42SmartBlock
+            - <%42SETTING:ThisMonth%>
+        - .rc4NW — Next Week #42SmartBlock
+            - <%42SETTING:NextWeek%>
+        - .rc4NM — Next Month #42SmartBlock
+            - <%42SETTING:NextMonth%>
+    - Change Log Query
+        - Change Log + Today #42SmartBlock
+            - <%CONCAT:#,min-title {,{[,[query]]: {and: <%DATE:today%> [,[Change Log]] {not: {or: [,[Community Notes]] [,[not-populated]]}}}}}%>

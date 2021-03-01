@@ -1163,7 +1163,7 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
                     - #[[Scratchpad]]
                         - ```css
 span.rm-page-ref[data-tag="Scratchpad"] {
-    background: var(--cl-gray-600);
+    background: var(--cl-yellow-800);
     color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1175,55 +1175,6 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
     content: '✏️';
-}```
-                    - #[[Change Log]]
-                        - ```css
-span.rm-page-ref[data-tag="Change Log"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
-}```
-                    - "#[[Daily Log]]"
-                    - #Questions
-                        - ```css
-span.rm-page-ref[data-tag="Questions"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓'
-}```
-                    - #[[Help Wanted]]
-                        - ```css
-span.rm-page-ref[data-tag="Help Wanted"] {
-    background: #9C27B0;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Help Wanted"]:before {
-    content: '😃'
 }```
                     - #Conversation
                         - ```css
@@ -1241,6 +1192,55 @@ span.rm-page-ref[data-tag="Conversation"] {
 span.rm-page-ref[data-tag="Conversation"]:before {
     content: '💬'
 }```
+                    - #[[Change Log]]
+                        - ```css
+span.rm-page-ref[data-tag="Change Log"] {
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢'
+}```
+                    - #Questions
+                        - ```css
+span.rm-page-ref[data-tag="Questions"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Questions"]:before {
+    content: '❓'
+}```
+                    - "#[[Daily Log]]"
+                    - #[[Help Wanted]]
+                        - ```css
+span.rm-page-ref[data-tag="Help Wanted"] {
+    background: #9C27B0;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Help Wanted"]:before {
+    content: '😃'
+}```
                     - #[[Feedback & Questions]]
                         - ```css
 span.rm-page-ref[data-tag="Feedback & Questions"] {
@@ -1256,6 +1256,23 @@ span.rm-page-ref[data-tag="Feedback & Questions"] {
 
 span.rm-page-ref[data-tag="Feedback & Questions"]:before {
     content: '📢';
+}```
+                    - #Chat
+                    - #Bookmarks
+                        - ```css
+span.rm-page-ref[data-tag="Bookmarks"] {
+    background: var(--cl-blue-500);
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Bookmarks"]:before {
+    content: '💾';
 }```
                 5. Notifications & Mentions
                     - [[@[[Their Name]]]]

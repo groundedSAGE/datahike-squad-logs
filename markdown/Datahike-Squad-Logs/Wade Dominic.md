@@ -14,11 +14,12 @@
 - ## Personal Templates
     - WDominic - Daily Checkin #roam/templates
         - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-            - #[[Daily Log]]
-                - /Current Time
+            - #Scratchpad #not-populated
+            - #Conversation #not-populated
             - #[[GTD Zone]]
-            - #Scratchpad
-            - #Reflection
+            - #Bookmarks
+            - #Reflection #not-populated
+            - #[[Change Log]] #not-populated
         - ---
         - 
 - ## Squad Lead Template
