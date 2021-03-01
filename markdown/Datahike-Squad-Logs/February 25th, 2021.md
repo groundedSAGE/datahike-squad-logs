@@ -97,5 +97,5 @@
 - ---
 - experiments
     - [[Betting Table]]
-        - [[epic/ClojureScript Support]]
+        - [[Epics/ClojureScript Support]]
             - [[sprint/2]]

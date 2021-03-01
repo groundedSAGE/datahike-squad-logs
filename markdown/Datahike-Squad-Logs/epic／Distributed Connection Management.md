@@ -1,5 +1,0 @@
-- Owner:: #not-populated
-- Description:: Built in synchronization allowing simple client/server or peer-to-peer updates. Join in the query engine etc
-- ---
-- ## Hill chart
-- {{[[TODO]]}} Add once we have the scripts to create them

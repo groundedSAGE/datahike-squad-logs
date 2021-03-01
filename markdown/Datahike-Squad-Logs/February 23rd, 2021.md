@@ -62,8 +62,8 @@
                 - https://twitter.com/austinbirch/status/1330613743886225411
             - Added "Epic" template
             - Added details for [[Epics/Make Datahike Development Transparent]] 
-            - Added details for [[epic/ClojureScript Support]]
-            - Added details for [[epic/Distributed Connection Management]]
+            - Added details for [[Epics/ClojureScript Support]]
+            - Added details for [[Epics/Distributed Connection Management]]
         - 22:10
             - writing into the "#Scratchpad" about my thoughts on the burn down charts and story points 
         - 22:59
@@ -99,9 +99,9 @@
         8. "Added External Links css [*](((JHATW34_a)))"
         9. Added "Shortcuts::" on [[roam/css]] page 
         10. Added details to some of the Epics 
-            - [[epic/ClojureScript Support]]
+            - [[Epics/ClojureScript Support]]
             - [[Epics/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) 
             - [[epic/Query Planner and Optimizer]]
-            - [[epic/Distributed Connection Management]]
+            - [[Epics/Distributed Connection Management]]
         11. "Added template for "Community Notes""
 - ---

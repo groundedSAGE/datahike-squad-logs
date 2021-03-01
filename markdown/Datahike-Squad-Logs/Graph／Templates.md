@@ -7,6 +7,7 @@
             - Tags:: #Epics
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Created by:: #not-populated
+                - Owner:: #not-populated
                 - Date Range:: #not-populated
                 - Description:: #not-populated
                 - Status:: #not-populated
@@ -14,6 +15,7 @@
                 - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
         - .rcITER — Iterations Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Iterations
+                - Related:: #not-populated
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Date Range:: #not-populated
                 - Description:: #not-populated

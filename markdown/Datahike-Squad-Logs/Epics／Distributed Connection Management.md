@@ -3,7 +3,7 @@
     - Created by:: #not-populated
     - Owner:: #not-populated
     - Date Range:: #not-populated
-    - Description:: Improve query performance with a query planner and a way to optimise frequent/heavy queries
+    - Description:: Built in synchronization allowing simple client/server or peer-to-peer updates. Join in the query engine etc
     - Status:: #not-populated
     - Resources:: #not-populated
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

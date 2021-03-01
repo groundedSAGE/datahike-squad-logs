@@ -1,4 +1,5 @@
 - Tags:: #Iterations
+    - Related:: [[Epics/Make Datahike Development Transparent]]
     - Date Created:: [[March 1st, 2021]]
     - Date Range:: [[February 23rd, 2021]] until [[March 2nd, 2021]]
     - Description:: #not-populated
@@ -17,5 +18,5 @@
         - [[Doing]]
             - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[Doing]] {not: [[query]]}}}}
         - [[DONE]]
-            - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[DONE]] {not: [[query]]}}}}
+            - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[DONE]] {not: {or: [[query]] [[Doing]]}}}}}
     - {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[TODO]]}}}
