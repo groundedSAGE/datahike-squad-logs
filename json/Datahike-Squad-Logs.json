@@ -20385,10 +20385,10 @@
             }
           },
           {
-            "string": " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}",
+            "string": " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1614642501098,
+            "edit-time": 1614699078054,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -37101,13 +37101,189 @@
             "edit-time": 1614643771420,
             "children": [
               {
-                "string": "created a way to detect when a story is blocked",
+                "string": "created a way to detect when a story is blocked. Still iterating on this idea. I messaged [[Brandon Toner]] to see how they do it in [[Roam-Collective]] and it's very similar thinking to what I thought [*](https://roamresearch.com/#/app/Roam-Collective/page/5Zx9LGHrL). It might be possible to automate some of this using [[roam/render]] and [[roam/datalog]] queries but for now it's best to do it as a manual process",
                 "create-time": 1614643785822,
-                "uid": "5XPhdfn8h",
-                "edit-time": 1614643800453,
+                ":block/refs": [
+                  {
+                    ":block/uid": "gvZos7WQT"
+                  },
+                  {
+                    ":block/uid": "DmQq4KBUw"
+                  },
+                  {
+                    ":block/uid": "2tqpqFRiC"
+                  },
+                  {
+                    ":block/uid": "M7g97kuTQ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "gvZos7WQT"
+                  },
+                  {
+                    "uid": "DmQq4KBUw"
+                  },
+                  {
+                    "uid": "2tqpqFRiC"
+                  },
+                  {
+                    "uid": "M7g97kuTQ"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
+                "uid": "5XPhdfn8h",
+                "edit-time": 1614699384492,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "edit-time": 1614699431297,
+                "children": [
+                  {
+                    "edit-time": 1614700843063,
+                    "children": [
+                      {
+                        "string": "Touching the Entity is required by the user which allows maximum flexibility for the interface. ",
+                        "create-time": 1614700040633,
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "children": [
+                          {
+                            "string": "If it has been touched that means the first level of data is in the cache and can get retrieved **synchronously**. Throwing an error if otherwise. ",
+                            "create-time": 1614700113762,
+                            "uid": "yj57LJyKM",
+                            "edit-time": 1614700905440,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "If it is touched but you are performing a __reverse reference lookup__ this throws an error. For a __reverse reference lookup__ you need to call the `lookup-entity` function directly which returns a channel and as a result is **asynchronous**. Pre-fetching arbitrarily related entities for the cache is not possible within the scope of the current work. This is an [[optimisation]] which could come with more design thinking after [[Epics/ClojureScript Support]] is finished.",
+                            "create-time": 1614699508928,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "vvrThm7_I"
+                              },
+                              {
+                                ":block/uid": "RVBqLMxqZ"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "vvrThm7_I"
+                              },
+                              {
+                                "uid": "RVBqLMxqZ"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "uid": "2gKpenAHW",
+                            "edit-time": 1614700942253,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "uid": "B3OSbmqSt",
+                        "edit-time": 1614700872923,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "4dkVNBTOz"
+                      }
+                    ],
+                    "uid": "8fyQ--ie_",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4dkVNBTOz"
+                      }
+                    ],
+                    "string": "`ILookup` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] now checks if it has been touched in order to keep synchronous semantics of lookups",
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "create-time": 1614699986124,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "edit-time": 1614701071373,
+                    "children": [
+                      {
+                        "string": "#Q ",
+                        "create-time": 1614701167275,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "3hprOZ63V"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "3hprOZ63V"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "uid": "xNC65Wg4H",
+                        "edit-time": 1614701476463,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "4dkVNBTOz"
+                      }
+                    ],
+                    "uid": "hS7mpd9i2",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4dkVNBTOz"
+                      }
+                    ],
+                    "string": "`IFN` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`",
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "create-time": 1614700466316,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "v0Vclr36k"
+                  }
+                ],
+                "uid": "3WrzRnCGo",
+                ":block/refs": [
+                  {
+                    ":block/uid": "v0Vclr36k"
+                  }
+                ],
+                "string": "Got the tests passing for [entity-test](((v0Vclr36k))). ",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1614699183998,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -38221,23 +38397,23 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} datahike.test.entity-test",
+                "string": "{{[[DONE]]}} datahike.test.entity-test",
                 "create-time": 1613148445366,
                 ":block/refs": [
                   {
-                    ":block/uid": "9v12Vcgoh"
+                    ":block/uid": "Nn5xwMWzL"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "9v12Vcgoh"
+                    "uid": "Nn5xwMWzL"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
                 "uid": "bwclx-TDA",
-                "edit-time": 1614695276871,
+                "edit-time": 1614699299188,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -38842,6 +39018,66 @@
     "title": "End Date",
     "uid": "QYXtQqvq_",
     "edit-time": 1614694884069,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614699130062,
+    "title": "roam/render",
+    "uid": "2tqpqFRiC",
+    "edit-time": 1614699130063,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614699144649,
+    "title": "roam/datalog",
+    "uid": "M7g97kuTQ",
+    "edit-time": 1614699144650,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614700403424,
+    "title": "optimisation",
+    "uid": "RVBqLMxqZ",
+    "edit-time": 1614700403433,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614700725567,
+    "title": "NS/datahike/impl/datahike.impl.entity",
+    "uid": "4dkVNBTOz",
+    "edit-time": 1614700843063,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614701193335,
+    "title": "Consideration",
+    "uid": "WNzpw44c8",
+    "edit-time": 1614701198028,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },

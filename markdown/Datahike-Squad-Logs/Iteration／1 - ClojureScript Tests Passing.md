@@ -12,7 +12,7 @@
         - Query::
             - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
         - {{[[TODO]]}} datahike.test.core-test
-        - {{[[TODO]]}} datahike.test.entity-test
+        - {{[[DONE]]}} datahike.test.entity-test
         - datahike.test.lookup-refs-test
         - datahike.test.query-test
         - {{[[TODO]]}} datahike.test.transact-test

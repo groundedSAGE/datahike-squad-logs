@@ -14,12 +14,19 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
     - #Scratchpad
-        - created a way to detect when a story is blocked
+        - created a way to detect when a story is blocked. Still iterating on this idea. I messaged [[Brandon Toner]] to see how they do it in [[Roam-Collective]] and it's very similar thinking to what I thought [*](https://roamresearch.com/#/app/Roam-Collective/page/5Zx9LGHrL). It might be possible to automate some of this using [[roam/render]] and [[roam/datalog]] queries but for now it's best to do it as a manual process
+        - Got the tests passing for [entity-test](((v0Vclr36k))). 
+            - `ILookup` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] now checks if it has been touched in order to keep synchronous semantics of lookups
+                - Touching the Entity is required by the user which allows maximum flexibility for the interface. 
+                    - If it has been touched that means the first level of data is in the cache and can get retrieved **synchronously**. Throwing an error if otherwise. 
+                    - If it is touched but you are performing a __reverse reference lookup__ this throws an error. For a __reverse reference lookup__ you need to call the `lookup-entity` function directly which returns a channel and as a result is **asynchronous**. Pre-fetching arbitrarily related entities for the cache is not possible within the scope of the current work. This is an [[optimisation]] which could come with more design thinking after [[Epics/ClojureScript Support]] is finished.
+            - `IFN` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`
+                - #Q 
     - #Conversation #not-populated
     - #[[GTD Zone]]
-        - "{{[[TODO]]}} datahike.test.entity-test"
+        - "{{[[DONE]]}} datahike.test.entity-test"
     - #Bookmarks
     - #Reflection #not-populated
     - #[[Change Log]]

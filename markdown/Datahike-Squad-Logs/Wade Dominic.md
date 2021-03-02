@@ -7,13 +7,13 @@
         - How to contact me::
             - Send me a DM on Twitter
             - DM or @ me on [[Datahike Discord Server]]
-    -  {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}
+    -  {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
 - ---
 - I like to call Datahike a:
     - Worldly Database
 - ## Personal Templates
     - WDominic - Daily Checkin #roam/templates
-        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
             - #Scratchpad #not-populated
             - #Conversation #not-populated
             - #[[GTD Zone]]

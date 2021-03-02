@@ -13,7 +13,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
     - #Scratchpad
     - #[[GTD Zone]]
     - #Reflection
