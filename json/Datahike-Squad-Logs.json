@@ -3130,29 +3130,14 @@
             }
           },
           {
-            "edit-time": 1614647058561,
-            "children": [
+            "string": "{{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]",
+            "create-time": 1612618983726,
+            ":block/refs": [
               {
-                "string": "{{or:🟢 Ready | #Blocked}}",
-                "create-time": 1614644489012,
-                ":block/refs": [
-                  {
-                    ":block/uid": "YYGRB5oJQ"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "YYGRB5oJQ"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-                },
-                "uid": "As25yilWt",
-                "edit-time": 1614647916563,
-                ":edit/user": {
-                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-                }
+                ":block/uid": "9v12Vcgoh"
+              },
+              {
+                ":block/uid": "nOMPZkfVe"
               }
             ],
             "refs": [
@@ -3163,20 +3148,11 @@
                 "uid": "nOMPZkfVe"
               }
             ],
-            "uid": "3-k9pfMtO",
-            ":block/refs": [
-              {
-                ":block/uid": "9v12Vcgoh"
-              },
-              {
-                ":block/uid": "nOMPZkfVe"
-              }
-            ],
-            "string": "{{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]",
             ":create/user": {
               ":user/uid": "o762oTBn5kVpe738hudA1VzwEFd2"
             },
-            "create-time": 1612618983726,
+            "uid": "3-k9pfMtO",
+            "edit-time": 1614647058561,
             ":edit/user": {
               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
             }
@@ -38189,42 +38165,6 @@
       {
         "edit-time": 1614645947865,
         "children": [
-          {
-            "edit-time": 1614645982676,
-            "children": [
-              {
-                "string": "```clojure\n(ns demo)\n\n```",
-                "create-time": 1614645981978,
-                "uid": "C7vKjXTh8",
-                "edit-time": 1614646168898,
-                ":create/user": {
-                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-                },
-                ":edit/user": {
-                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "C7vKjXTh8"
-              }
-            ],
-            "uid": "n0GHjMYGr",
-            ":block/refs": [
-              {
-                ":block/uid": "C7vKjXTh8"
-              }
-            ],
-            "string": "{{roam/render: ((C7vKjXTh8))}}",
-            ":create/user": {
-              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-            },
-            "create-time": 1614645947854,
-            ":edit/user": {
-              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-            }
-          },
           {
             "string": "[[story/Update Konserve ClojureScript Support]]",
             "create-time": 1614644781454,

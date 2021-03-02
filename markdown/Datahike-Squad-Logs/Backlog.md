@@ -11,7 +11,6 @@
     - {{[[TODO]]}} [[story/Rebase ClojureScript branch against Development]]
     - {{[[TODO]]}} [[story/Update Konserve ClojureScript Support]]
     - {{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]
-        - {{or:🟢 Ready | #Blocked}}
 - ---
 - Story log
 - ---
