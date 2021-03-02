@@ -14295,6 +14295,42 @@
             ":edit/user": {
               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
             }
+          },
+          {
+            "edit-time": 1614705444388,
+            "children": [
+              {
+                "string": "```javascript\n.Falsified {\n  text-decoration: line-through;\n}```",
+                "create-time": 1614705327245,
+                "uid": "Qi-b2Mc7n",
+                "edit-time": 1614705396699,
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vBLk7t3w_"
+              }
+            ],
+            "uid": "MPTSYb66d",
+            ":block/refs": [
+              {
+                ":block/uid": "vBLk7t3w_"
+              }
+            ],
+            "string": "[[.Falsified]]",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1614705307681,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
           }
         ],
         "uid": "pZe7MJWWG",
@@ -20385,10 +20421,10 @@
             }
           },
           {
-            "string": " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}",
+            "string": " {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1614699078054,
+            "edit-time": 1614703194778,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -37222,26 +37258,64 @@
                     }
                   },
                   {
-                    "edit-time": 1614701071373,
+                    "edit-time": 1614705435621,
                     "children": [
                       {
-                        "string": "#Q ",
-                        "create-time": 1614701167275,
-                        ":block/refs": [
+                        "edit-time": 1614705435632,
+                        "children": [
                           {
-                            ":block/uid": "3hprOZ63V"
+                            "edit-time": 1614704553738,
+                            "children": [
+                              {
+                                "string": "I think it is better to keep this using `lookup-entity` and be **async** since it is a lower level API. The user would then need to keep around a copy of the untouched entity to use this. Which would also be required when they want to do a __reverse reference lookup__ anyways.",
+                                "create-time": 1614704554070,
+                                "uid": "GZOPsY4Jq",
+                                "edit-time": 1614704656717,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "3hprOZ63V"
+                              }
+                            ],
+                            "uid": "xNC65Wg4H",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3hprOZ63V"
+                              }
+                            ],
+                            "string": "#Q Is it better to have `IFn` **async** by default since it uses `lookup-entity` then throw an error when the entity has already been touched or do we allow the entity to already be touched and handle the **async** lookups?",
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "create-time": 1614701167275,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
                           }
                         ],
                         "refs": [
                           {
-                            "uid": "3hprOZ63V"
+                            "uid": "4dkVNBTOz"
                           }
                         ],
+                        "uid": "hS7mpd9i2",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "4dkVNBTOz"
+                          }
+                        ],
+                        "string": "`IFn` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`",
                         ":create/user": {
                           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                         },
-                        "uid": "xNC65Wg4H",
-                        "edit-time": 1614701476463,
+                        "create-time": 1614700466316,
                         ":edit/user": {
                           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                         }
@@ -37249,20 +37323,48 @@
                     ],
                     "refs": [
                       {
-                        "uid": "4dkVNBTOz"
+                        "uid": "vBLk7t3w_"
                       }
                     ],
-                    "uid": "hS7mpd9i2",
+                    "uid": "PqaLSnsM5",
                     ":block/refs": [
                       {
-                        ":block/uid": "4dkVNBTOz"
+                        ":block/uid": "vBLk7t3w_"
                       }
                     ],
-                    "string": "`IFN` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`",
+                    "string": "[[.Falsified]] ",
                     ":create/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     },
-                    "create-time": 1614700466316,
+                    "create-time": 1614705435621,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "string": "updated tests in [[NS/datahike.test.entity-test]] to reflect the changes to the API [*](((8fyQ--ie_)))",
+                    "create-time": 1614703274774,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8fyQ--ie_"
+                      },
+                      {
+                        ":block/uid": "bvEumT7lc"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8fyQ--ie_"
+                      },
+                      {
+                        "uid": "bvEumT7lc"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "nhaV-Ma48",
+                    "edit-time": 1614703355850,
                     ":edit/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     }
@@ -39074,10 +39176,22 @@
     }
   },
   {
-    "create-time": 1614701193335,
-    "title": "Consideration",
-    "uid": "WNzpw44c8",
-    "edit-time": 1614701198028,
+    "create-time": 1614703324766,
+    "title": "NS/datahike.test.entity-test",
+    "uid": "bvEumT7lc",
+    "edit-time": 1614703324770,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614705324874,
+    "title": ".Falsified",
+    "uid": "vBLk7t3w_",
+    "edit-time": 1614705324875,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },

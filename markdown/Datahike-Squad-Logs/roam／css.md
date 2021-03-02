@@ -2323,3 +2323,8 @@ span.rm-page-ref[data-tag="Iterations"] {
 span.rm-page-ref[data-tag="Iterations"]:before {
     content: '🌀'
 }```
+    - [[.Falsified]]
+        - ```javascript
+.Falsified {
+  text-decoration: line-through;
+}```

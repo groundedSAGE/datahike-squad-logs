@@ -1,4 +1,4 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Daily Log]]
         - Added some stories to the [[Backlog]] for [[sprint/1 - Setting up the graph]] [*](((iqLZys3Ut)))
         - Added some Epics to the [[Roadmap]] for [[sprint/1 - Setting up the graph]] [*](((KB-_ekqDy)))

@@ -14,7 +14,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #Scratchpad
         - created a way to detect when a story is blocked. Still iterating on this idea. I messaged [[Brandon Toner]] to see how they do it in [[Roam-Collective]] and it's very similar thinking to what I thought [*](https://roamresearch.com/#/app/Roam-Collective/page/5Zx9LGHrL). It might be possible to automate some of this using [[roam/render]] and [[roam/datalog]] queries but for now it's best to do it as a manual process
         - Got the tests passing for [entity-test](((v0Vclr36k))). 
@@ -22,8 +22,11 @@
                 - Touching the Entity is required by the user which allows maximum flexibility for the interface. 
                     - If it has been touched that means the first level of data is in the cache and can get retrieved **synchronously**. Throwing an error if otherwise. 
                     - If it is touched but you are performing a __reverse reference lookup__ this throws an error. For a __reverse reference lookup__ you need to call the `lookup-entity` function directly which returns a channel and as a result is **asynchronous**. Pre-fetching arbitrarily related entities for the cache is not possible within the scope of the current work. This is an [[optimisation]] which could come with more design thinking after [[Epics/ClojureScript Support]] is finished.
-            - `IFN` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`
-                - #Q 
+            - [[.Falsified]] 
+                - `IFn` of `Entity` inside [[NS/datahike/impl/datahike.impl.entity]] uses `-lookup` instead of `lookup-entity`
+                    - #Q Is it better to have `IFn` **async** by default since it uses `lookup-entity` then throw an error when the entity has already been touched or do we allow the entity to already be touched and handle the **async** lookups?
+                        - I think it is better to keep this using `lookup-entity` and be **async** since it is a lower level API. The user would then need to keep around a copy of the untouched entity to use this. Which would also be required when they want to do a __reverse reference lookup__ anyways.
+            - updated tests in [[NS/datahike.test.entity-test]] to reflect the changes to the API [*](((8fyQ--ie_)))
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - "{{[[DONE]]}} datahike.test.entity-test"
