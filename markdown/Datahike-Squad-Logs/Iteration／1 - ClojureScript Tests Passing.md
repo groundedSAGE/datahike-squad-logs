@@ -1,7 +1,8 @@
 - Tags:: #Iterations
-    - Status:: #[[status/active]]
-    - Date Created:: [[March 1st, 2021]]
-    - Date Range:: [[February 23rd, 2021]] until [[March 2nd, 2021]]
+    - Status:: #not-populated
+    - Related:: #not-populated
+    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Date Range:: #not-populated
     - Description:: #not-populated
     - Resources:: #not-populated
     - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
@@ -9,6 +10,5 @@
             - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}  {not: [[query]]}}}} #minimal
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[iteration/1 - Set up the graph]] [[TODO]]}}}
-        - "{{[[TODO]]}} Update [[Roadmap]] #[[iteration/1 - Set up the graph]]"
+            - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

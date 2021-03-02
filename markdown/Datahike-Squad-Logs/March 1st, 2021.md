@@ -6,7 +6,7 @@
         - **Active Epic(s):**
             - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
         - **Active Iterations(s):**
-            - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
+            - #page-focus {{[[query]]: {and: [[Iterations]] [[status/active]] {not: [[query]]}}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
         -  

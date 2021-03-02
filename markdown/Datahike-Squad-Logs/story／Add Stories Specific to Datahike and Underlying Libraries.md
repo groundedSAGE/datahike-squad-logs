@@ -1,7 +1,5 @@
 - Status:: #status/active
 - #Blocked
-    - Reason::
-- {{or:🟢 Ready | #Blocked}}
 - Estimate:: 3
 - Assigned to::
 - As a [PERSONA] I [want to], [so that] ...

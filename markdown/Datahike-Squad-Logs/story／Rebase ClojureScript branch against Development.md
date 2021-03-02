@@ -1,5 +1,10 @@
 - Status:: #status/active
 - Depends on::
+    - {{roam/render: ((C7vKjXTh8))}}
+        - ```clojure
+(ns demo)
+
+```
     - [[story/Update Konserve ClojureScript Support]]
 - Estimate:: 1
 - Assigned to::

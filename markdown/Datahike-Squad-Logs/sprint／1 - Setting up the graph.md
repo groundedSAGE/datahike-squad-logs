@@ -3,10 +3,11 @@
 - Status:: #status/active
 - {{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}              
     - :hiccup [:div {:class "scroller dont-focus-block"}  [:table [:tbody [:tr [:td {:class "head"} "Status"][:td {:class "head"} "Total"]][:tr {:class "odd"}[:td {:class "val"}"To Do"][:td {:class "val"}"16"]][:tr {:class "even"}[:td {:class "val"}"Doing"][:td {:class "val"}"0"]][:tr {:class "odd"}[:td {:class "val"}"Done"][:td {:class "val"}"0"]]]]]
-- ### Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}                          
+- ### Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}                              
     - {{[[kanban]]}}
         - To Do
             - [[story/Create Templates for Daily Notes and Squad Logs]]
+            - [[story/Update GitHub Projects Board]]
         - Doing
             - [[story/Add Epics related to Datahike]]
         - Done

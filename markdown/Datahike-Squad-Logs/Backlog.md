@@ -1,17 +1,17 @@
 - [[Epics/Set up a Unified Public Place for all Datahike Development]]
-    - {{[[TODO]]}} [[iteration/1 - Set up the graph]]
+    - {{[[TODO]]}} [[Iteration/1 - Set up the graph]]
         - {{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]
     - [[sprint/1 - Setting up the graph]]
         - {{[[DONE]]}} [[story/Add Epics related to Datahike]] #Doing
         - {{[[DONE]]}} [[story/Create Contributor Onboarding Workflow]]
         - {{[[DONE]]}} [[story/Create Templates for Daily Notes and Squad Logs]]
-    - {{[[TODO]]}} [[sprint/2]]
         - {{[[TODO]]}} [[story/Update GitHub Projects Board]]
+    - {{[[TODO]]}} [[sprint/2]]
 - [[Epics/ClojureScript Support]]
-    - {{[[TODO]]}} [[sprint/1 - ClojureScript Tests Passing]]
-        - {{[[TODO]]}} [[story/Rebase ClojureScript branch against Development]]
-        - {{[[TODO]]}} [[story/Update Konserve ClojureScript Support]]
-        - "{{or:🟢 Ready | #Blocked}}"
+    - {{[[TODO]]}} [[story/Rebase ClojureScript branch against Development]]
+    - {{[[TODO]]}} [[story/Update Konserve ClojureScript Support]]
+    - {{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]
+        - {{or:🟢 Ready | #Blocked}}
 - ---
 - Story log
 - ---

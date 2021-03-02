@@ -1,6 +1,8 @@
-- Status:: #status/active #Blocked
+- Status:: #status/draft
+- Depends on:: #not-populated
 - Estimate:: 1
 - Assigned to::
+- As a [PERSONA] I [want to], [so that] ...
 - [[Acceptance Criteria]]
     - Given CONTEXT when SOME ACTION IS CARRIED OUT then A SET OF OBSERVABLE OUTCOMES SHOULD OCCUR
 - [[Tasks and subtasks]]
@@ -10,8 +12,9 @@
 - [[Test Results]]
     - __insert screenshots, sample data, or other evidence here__
 - [[Definition of Done]]
-    - {{[[TODO]]}} Unit test passed
-    - {{[[TODO]]}} Code reviewied
+    - {{[[TODO]]}} Unit test/s passed
+    - {{[[TODO]]}} Code reviewed
     - {{[[TODO]]}} Acceptance criteria met
     - {{[[TODO]]}} Functional Tests passed
     - {{[[TODO]]}} Non-Functional requirements met
+    - {{[[TODO]]}} Product Owner accepts the User Story

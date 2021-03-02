@@ -1,9 +1,9 @@
 - Tags:: #Epics
+    - Status:: [[Status/Active]]
     - Date Created:: [[March 1st, 2021]]
     - Created by:: [[Wade Dominic]]
     - Owner:: [[Wade Dominic]]
     - Date Range:: #not-populated
     - Description:: Support for ClojureScript in both the browser and Node
-    - Status:: [[Status/Active]]
     - Resources:: #not-populated
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

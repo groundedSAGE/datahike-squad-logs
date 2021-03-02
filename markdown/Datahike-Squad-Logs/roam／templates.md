@@ -43,16 +43,13 @@
     - ---
 - Epic
     - Tags:: #Epics
-        - Status:: #not-populated 
+        - Status:: {{or: [[status/draft]] | [[status/active]] | [[status/canceled]] | [[status/closed]]}}
         - Date Created:: #not-populated
         - Date Range:: #not-populated
         - Owner:: #not-populated
         - Description:: #not-populated
         - Resources::
         - Related::
-        - ---
-        - ## Hill chart
-        - {{[[TODO]]}} Add once we have the scripts to create them
 - Community Notes
     - #[[Community Notes]] [[Community Notes]] {{word-count}}
         - #Announcements
@@ -75,12 +72,20 @@
     - 
 - Iteration
     - Tags:: #Iterations
+        - Status:: {{or:[[status/draft]] | [[status/active]] | [[status/canceled]] | [[status/closed]]}}
         - Related::
             - Epic::
         - Date Created::
         - Date Range::
         - Description::
         - Status:: 
+        - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
+            - Query::
+                - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}  {not: [[query]]}}}} #minimal
+        - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
+            - Query::
+                - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
+        - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
 - ---
 - [[User Story]]
     - Status:: #status/draft

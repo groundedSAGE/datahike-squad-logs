@@ -80,7 +80,7 @@
         - What do you think about the [question](((DXfFS6E4T))) [[@[[Chris Smothers]]]]? I also added my thoughts below the question.
     - #[[GTD Zone]]
         - "{{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]"
-        - "{{[[TODO]]}} Update [[Roadmap]] #[[iteration/1 - Set up the graph]]"
+        - "{{[[TODO]]}} Update [[Roadmap]] #[[Iteration/1 - Set up the graph]]"
         - ""{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn))) "
             - I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))
         - {{[[DONE]]}} Add onboarding for new members 
