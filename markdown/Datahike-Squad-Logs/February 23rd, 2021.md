@@ -67,8 +67,8 @@
         - 22:10
             - writing into the "#Scratchpad" about my thoughts on the burn down charts and story points 
         - 22:59
-            - Added template for "Community Notes"
-                - Also made some adjustments to how the Epic and Sprint pages are managed to get them to show up in the "Community Notes" queries for what is active. I will need to do some more tweaking to this because the automatically generated query probably needs to use Roam42 templates. I also need to dig further on the "[[(i) RoamAgile]]" etc to figure out how I can make changes with it.
+            - Added template for Community Notes
+                - Also made some adjustments to how the Epic and Sprint pages are managed to get them to show up in the Community Notes queries for what is active. I will need to do some more tweaking to this because the automatically generated query probably needs to use Roam42 templates. I also need to dig further on the "[[(i) RoamAgile]]" etc to figure out how I can make changes with it.
                     - {{[[TODO]]}} Learn how we can adapt this graph ourselves with custom written code
     - #Scratchpad
         - Was thinking about my question from last week to [[Chris Smothers]] - ""#Q I wonder what the value is in the Burn Chart?""
@@ -103,5 +103,5 @@
             - [[Epics/Set up a Unified Public Place for all Datahike Development]]  [*](((J-ODJeW0D))) 
             - [[epic/Query Planner and Optimizer]]
             - [[Epics/Distributed Connection Management]]
-        11. "Added template for "Community Notes""
+        11. "Added template for Community Notes"
 - ---

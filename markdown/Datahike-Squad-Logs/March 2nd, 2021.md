@@ -1,30 +1,28 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
-    - #Scratchpad
-        - created a way to detect when a story is blocked
-    - #Conversation #not-populated
-    - #[[GTD Zone]]
-    - #Bookmarks
-    - #Reflection #not-populated
-    - #[[Change Log]]
-        - removed Burn down chart from Sprint of 
-- ---
-- #[[Community Notes]] [[Datahike-Squad-Logs]] {{word-count}}
-    - #Announcements
-    - #Chat ((A place to propose objects of discussion))
+- #[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} 
+    - Daily Activities #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated
+    - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]]
         - **Active Epic(s):**
             - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
         - **Active Iteration(s):**
             - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
-        - **Queries:**
-            - **TODO Query:** (created today)
-                - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}
-            - **TODO Query:** (scheduled for this week)
-                - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]]}}}
-            - **Help Wanted Query:**
-                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+        -  
     - #[[Change Log]]
-        - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- jj
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
+    - #Scratchpad
+        - created a way to detect when a story is blocked
+    - #Conversation #not-populated
+    - #[[GTD Zone]]
+        - "{{[[TODO]]}} datahike.test.entity-test"
+    - #Bookmarks
+    - #Reflection #not-populated
+    - #[[Change Log]]
+        - removed Burn down chart from Sprint of 
+- ---
 - 

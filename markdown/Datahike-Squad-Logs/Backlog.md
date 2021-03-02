@@ -1,4 +1,4 @@
-- [[Epics/Set up a Unified Public Place for all Datahike Development]] "Status:: [[Status/Active]]"
+- [[Epics/Set up a Unified Public Place for all Datahike Development]]
     - {{[[TODO]]}} [[Iteration/1 - Set up the graph]]
         - {{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]
         - {{[[DONE]]}} [[story/Add Epics related to Datahike]]
@@ -8,7 +8,8 @@
         - {{[[TODO]]}} [[story/Update GitHub Projects Board]]
     - {{[[TODO]]}} [[sprint/2]]
 - [[Epics/ClojureScript Support]]
-    - {{[[TODO]]}} [[story/Rebase ClojureScript branch against Development]]
+    - {{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]
+        - {{[[TODO]]}} [[story/Rebase ClojureScript branch against Development]]
     - {{[[TODO]]}} [[story/Update Konserve ClojureScript Support]]
     - {{[[TODO]]}} [[Iteration/1 - ClojureScript Tests Passing]]
 - ---

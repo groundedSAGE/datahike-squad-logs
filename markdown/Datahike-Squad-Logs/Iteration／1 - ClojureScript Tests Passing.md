@@ -1,9 +1,9 @@
 - Tags:: #Iterations
     - Status:: #not-populated
     - Related:: #not-populated
-    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-    - Date Range:: #not-populated
-    - Description:: #not-populated
+    - Date Created:: [[March 2nd, 2021]]
+    - End Date:: [[March 9th, 2021]]
+    - Description:: Get all the Datahike tests passing on Datahike ClojureScript branch
     - Resources:: #not-populated
     - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
         - Query::
@@ -11,4 +11,9 @@
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
+        - {{[[TODO]]}} datahike.test.core-test
+        - {{[[TODO]]}} datahike.test.entity-test
+        - datahike.test.lookup-refs-test
+        - datahike.test.query-test
+        - {{[[TODO]]}} datahike.test.transact-test
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

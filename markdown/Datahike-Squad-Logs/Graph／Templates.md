@@ -21,7 +21,7 @@
     - Daily Templates
         - .rc2DH — Daily Header #42SmartBlock #roam/templates
             - <%DATEBASIS:DNP%>
-            - #[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}} [*](https://roamresearch.com/#/app/Roam-Collective/page/8im0QMdnu)
+            - #[[Community Notes]] [[Datehike-Squad-Logs]] {{word-count}}
                 - Daily Activities #not-populated
                 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated
                 - #Chat ((A place to propose objects of discussion)) #not-populated
