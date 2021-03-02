@@ -53,14 +53,14 @@
                     - [[Chris Smothers]] and [[Wade Dominic]]
                         - Both of us agree to change it from **Sprint** to **Iteration** in the naming
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
     - #[[Daily Log]]
         - 16:12
             - Added template for Daily Notes - individual Daily Checkin [*](((2WApOiPrA)))
                 - Related to 
                     - [[story/Create Contributor Onboarding Workflow]]
                     - [[story/Create Templates for Daily Notes and Squad Logs]]
-                    - [[Epics/Make Datahike Development Transparent]]
+                    - [[Epics/Set up a Unified Public Place for all Datahike Development]]
         - 16:31 - 17:05
             - Adding conventions from [[Roam Collective]]
                 - "Block-level Tags"
@@ -86,8 +86,8 @@
     - #[[GTD Zone]]
         - {{[[DONE]]}} Add a template for individual Daily Checkin
         - {{[[DONE]]}} Add a template for squads sessions and meetings
-        - "{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn)))
-        - {{[[TODO]]}} Update [[Roadmap]]
+        - "{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn))) 
+        - {{[[TODO]]}} Update [[Roadmap]] #[[iteration/1 - Set up the graph]]
         - {{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]
     - #Reflection
         - Was a good [session](((pDz7IiJv6))) with [[Chris Smothers]] today. Learnt a lot about Product/Project Management. So many nuances of how different people manage projects and different perspectives about what is the best way to manage them. There is no wrong or right answer here. As such I think we are on the right path. This is a new medium for managing projects and we are fortunate that [[Datahike]] is open source so we can do this all publicly.

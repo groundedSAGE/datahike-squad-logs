@@ -1,10 +1,6 @@
-- Status:: #status/active
-- #Blocked
-    - Reason::
-- {{or:🟢 Ready | #Blocked}}
-- Estimate:: 3
+- Status:: #status/active #Blocked
+- Estimate:: 1
 - Assigned to::
-- As a [PERSONA] I [want to], [so that] ...
 - [[Acceptance Criteria]]
     - Given CONTEXT when SOME ACTION IS CARRIED OUT then A SET OF OBSERVABLE OUTCOMES SHOULD OCCUR
 - [[Tasks and subtasks]]
@@ -19,4 +15,3 @@
     - {{[[TODO]]}} Acceptance criteria met
     - {{[[TODO]]}} Functional Tests passed
     - {{[[TODO]]}} Non-Functional requirements met
-    - {{[[TODO]]}} Product Owner accepts the User Story

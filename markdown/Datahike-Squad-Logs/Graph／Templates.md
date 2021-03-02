@@ -23,7 +23,7 @@
                 - Resources:: #not-populated
                 - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
                     - Query::
-                        - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
+                        - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}  {not: [[query]]}}}} #minimal
                 - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
                     - Query::
                         - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}

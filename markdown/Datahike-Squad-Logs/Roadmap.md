@@ -2,7 +2,7 @@
 - ## This is currently a work in progress!!
     - We also want to try and put a timeframe on when we plan to reach said releases
 - ### 0.4.0
-    - [[Epics/Make Datahike Development Transparent]]
+    - [[Epics/Set up a Unified Public Place for all Datahike Development]]
     - [[Epics/ClojureScript Support]]
     - [[Epics/Distributed Connection Management]]
     - [[epic/Query Planner and Optimizer]]

@@ -1,5 +1,5 @@
 - 
-- Status:: #status/active
+- Status:: #status/closed
 - Estimate:: 2
 - Assigned to::
 - As an Open Collective or GitHub sponsors supporter I [want to], [so that] ...

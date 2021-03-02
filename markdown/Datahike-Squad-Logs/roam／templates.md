@@ -83,8 +83,8 @@
         - Status:: 
 - ---
 - [[User Story]]
-    - 
     - Status:: #status/draft
+    - Depends on:: #not-populated
     - Estimate:: 1
     - Assigned to::
     - As a [PERSONA] I [want to], [so that] ...
@@ -97,14 +97,13 @@
     - [[Test Results]]
         - __insert screenshots, sample data, or other evidence here__
     - [[Definition of Done]]
-        - {{[[TODO]]}} Unit test passed
-        - {{[[TODO]]}} Code reviewied
+        - {{[[TODO]]}} Unit test/s passed
+        - {{[[TODO]]}} Code reviewed
         - {{[[TODO]]}} Acceptance criteria met
         - {{[[TODO]]}} Functional Tests passed
         - {{[[TODO]]}} Non-Functional requirements met
         - {{[[TODO]]}} Product Owner accepts the User Story
 - [[Sprint]]
-    - 
     - Status:: #status/draft {{Start Sprint:42SmartBlock:Start Sprint}}
     - {{Count Story Points:42SmartBlock:Count Story Points:42RemoveButton=false}}
     - ### Sprint Plan {{Sync with Backlog:42SmartBlock:Sync Sprint with Backlog:42RemoveButton=false}}
@@ -112,18 +111,6 @@
             - To Do
             - Doing
             - Done
-    - ### Burn Down {{Update Chart:42SmartBlock:Add Story Points to Chart:42RemoveButton=false}}
-        - {{line}}
-            - To Do
-            - Done
-    - ### Sprint Demo
-    - ### Retrospective
-        - {{[[kanban]]}}
-            - Went well
-            - Could have gone better
-            - Questions / Interesting / Puzzles us
-            - Will try next sprint
-    - {{Close Sprint:42SmartBlock:Close Sprint}}
 - [[AoT/Choice]]
     - #choice 
         - Constraints::

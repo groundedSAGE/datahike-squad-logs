@@ -2274,6 +2274,52 @@ div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 
 .roam-block-container {
     max-width: 100%;
 }```
-- Remove Query String
-    - ```css
-```
+- Local changes
+    - #Epics
+        - ```css
+span.rm-page-ref[data-tag="Epics"] {
+    background: #9E9E9E;
+    color: #fff;	
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Epics"]:before {
+    content: '🏔️'
+}```
+    - #Blocked
+        - ```css
+span.rm-page-ref[data-tag="Blocked"] {
+    background: #F44336;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Blocked"]:before {
+    content: '🚧'
+}```
+    - #Iterations
+        - ```css
+span.rm-page-ref[data-tag="Iterations"] {
+    background: #9E9E9E;
+    color: #fff;	
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Iterations"]:before {
+    content: '🌀'
+}```

@@ -1,8 +1,7 @@
 - Status:: #status/active
-- #Blocked
-    - Reason::
-- {{or:🟢 Ready | #Blocked}}
-- Estimate:: 3
+- Depends on::
+    - [[story/Update Konserve ClojureScript Support]]
+- Estimate:: 1
 - Assigned to::
 - As a [PERSONA] I [want to], [so that] ...
 - [[Acceptance Criteria]]

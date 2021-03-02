@@ -7,7 +7,3 @@
     - Resources::
         - https://roamresearch.com/#/app/Roam-Collective
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
-- ---
-- ## Hill chart
-    - {{[[TODO]]}}  Add once we have the scripts to create them
-- ---

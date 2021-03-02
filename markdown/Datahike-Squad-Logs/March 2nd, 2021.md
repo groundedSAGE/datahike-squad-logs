@@ -1,0 +1,11 @@
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
+    - #Scratchpad
+        - created a way to detect when a story is blocked
+    - #Conversation #not-populated
+    - #[[GTD Zone]]
+    - #Bookmarks
+    - #Reflection #not-populated
+    - #[[Change Log]]
+        - removed Burn down chart from Sprint of 
+- ---
+- 

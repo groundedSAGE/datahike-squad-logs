@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
     - #[[Daily Log]]
         - 16:26 - 16:39 (13 mins)
             - work on tweaking notes from previous Squad Logs session. So it makes more sense for people that we not in attendance. [*](((dKNfiCi1Y)))
@@ -61,7 +61,7 @@
             - Sent a message to [[Austin Birch]] asking for him to share the script he created for [[Hill Charts]] in Roam [*](((OgP8UUAq1))) 
                 - https://twitter.com/austinbirch/status/1330613743886225411
             - Added "Epic" template
-            - Added details for [[Epics/Make Datahike Development Transparent]] 
+            - Added details for [[Epics/Set up a Unified Public Place for all Datahike Development]] 
             - Added details for [[Epics/ClojureScript Support]]
             - Added details for [[Epics/Distributed Connection Management]]
         - 22:10
@@ -80,10 +80,10 @@
         - What do you think about the [question](((DXfFS6E4T))) [[@[[Chris Smothers]]]]? I also added my thoughts below the question.
     - #[[GTD Zone]]
         - "{{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]"
-        - "{{[[TODO]]}} Update [[Roadmap]]"
-        - ""{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn)))"
+        - "{{[[TODO]]}} Update [[Roadmap]] #[[iteration/1 - Set up the graph]]"
+        - ""{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn))) "
             - I worked on this but it needs more work and I need to sync up with the rest of the people involved with the [[Roadmap]]. Also the reason that I did not get to [updating the product roadmap](((56fAhDPA1)))
-        - {{[[DONE]]}} Add onboarding for new members
+        - {{[[DONE]]}} Add onboarding for new members 
         - {{[[TODO]]}} Add the #Collections tag to the appropriate pages
         - "{{[[DONE]]}} Set up automatic backups so that this is not a manual process"
     - #Reflection
@@ -100,7 +100,7 @@
         9. Added "Shortcuts::" on [[roam/css]] page 
         10. Added details to some of the Epics 
             - [[Epics/ClojureScript Support]]
-            - [[Epics/Make Datahike Development Transparent]]  [*](((J-ODJeW0D))) 
+            - [[Epics/Set up a Unified Public Place for all Datahike Development]]  [*](((J-ODJeW0D))) 
             - [[epic/Query Planner and Optimizer]]
             - [[Epics/Distributed Connection Management]]
         11. "Added template for "Community Notes""

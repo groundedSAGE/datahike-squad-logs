@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  " {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  " {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}"
     - #[[Daily Log]]
         - 12:35
             - added horizontal rule and a new line under my personal template and also for [[Community Notes]]
@@ -70,7 +70,7 @@
         - 23:32
             - writing reflections on days work
     - #[[GTD Zone]]
-        - {{[[DONE]]}} Set up automatic backups so that this is not a manual process
+        - {{[[DONE]]}} Set up automatic backups so that this is not a manual process #[[iteration/1 - Set up the graph]]
         - {{[[TODO]]}} Learn how we can adapt this graph ourselves with custom written code
     - #Scratchpad
         - Thoughts on [[project management]]

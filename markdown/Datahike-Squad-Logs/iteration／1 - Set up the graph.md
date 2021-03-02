@@ -1,22 +1,14 @@
 - Tags:: #Iterations
-    - Related:: [[Epics/Make Datahike Development Transparent]]
+    - Status:: #[[status/active]]
     - Date Created:: [[March 1st, 2021]]
     - Date Range:: [[February 23rd, 2021]] until [[March 2nd, 2021]]
     - Description:: #not-populated
-    - Status:: [[Status/Active]]
     - Resources:: #not-populated
     - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
+            - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}  {not: [[query]]}}}} #minimal
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
+            - {{[[query]]: {and: [[iteration/1 - Set up the graph]] [[TODO]]}}}
+        - "{{[[TODO]]}} Update [[Roadmap]] #[[iteration/1 - Set up the graph]]"
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
-    - {{[[kanban]]}}
-        - [[To Do]]
-            - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[TODO]] {not: {or: [[query]] [[Doing]]}}}}}
-        - [[Doing]]
-            - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[Doing]] {not: [[query]]}}}}
-        - [[DONE]]
-            - #min-all {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[DONE]] {not: {or: [[query]] [[Doing]]}}}}}
-    - {{[[query]]: {and: [[Epics/Make Datahike Development Transparent]] [[sprint/1 - Setting up the graph]] [[TODO]]}}}

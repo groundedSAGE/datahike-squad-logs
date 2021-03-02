@@ -1,5 +1,5 @@
 - 
-- Status:: #status/active
+- Status:: #status/closed
 - Estimate:: 8 
 - Assigned to:: [[Wade Dominic]]
     - [[???]] is this needed. The objective is that stories are worked on in squads. 
