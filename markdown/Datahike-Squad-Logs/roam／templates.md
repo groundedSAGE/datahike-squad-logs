@@ -51,14 +51,14 @@
         - Resources::
         - Related::
 - Community Notes
-    - #[[Community Notes]] [[Community Notes]] {{word-count}}
+    - #[[Community Notes]] [[Datahike-Squad-Logs]] {{word-count}}
         - #Announcements
         - #Chat ((A place to propose objects of discussion))
         - #[[GTD Zone]]
             - **Active Epic(s):**
                 - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
-            - **Active Sprint(s):**
-                - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
+            - **Active Iteration(s):**
+                - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
             - **Queries:**
                 - **TODO Query:** (created today)
                     - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}

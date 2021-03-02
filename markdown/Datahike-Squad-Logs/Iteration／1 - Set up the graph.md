@@ -1,5 +1,5 @@
 - Tags:: #Iterations
-    - Status:: #[[status/active]]
+    - Status:: [[Status/Active]]
     - Date Created:: [[March 1st, 2021]]
     - Date Range:: [[February 23rd, 2021]] until [[March 2nd, 2021]]
     - Description:: #not-populated

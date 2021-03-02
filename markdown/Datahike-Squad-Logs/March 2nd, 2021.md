@@ -8,4 +8,23 @@
     - #[[Change Log]]
         - removed Burn down chart from Sprint of 
 - ---
+- #[[Community Notes]] [[Datahike-Squad-Logs]] {{word-count}}
+    - #Announcements
+    - #Chat ((A place to propose objects of discussion))
+    - #[[GTD Zone]]
+        - **Active Epic(s):**
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
+        - **Active Iteration(s):**
+            - #page-focus {{[[query]]: {and: [[Iterations]] [[Status/Active]] {not: [[query]]}}}}
+        - **Queries:**
+            - **TODO Query:** (created today)
+                - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}
+            - **TODO Query:** (scheduled for this week)
+                - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]]}}}
+            - **Help Wanted Query:**
+                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+    - #[[Change Log]]
+        - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+- ---
+- jj
 - 

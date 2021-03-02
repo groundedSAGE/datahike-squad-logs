@@ -1,10 +1,10 @@
-- [[Epics/Set up a Unified Public Place for all Datahike Development]]
+- [[Epics/Set up a Unified Public Place for all Datahike Development]] "Status:: [[Status/Active]]"
     - {{[[TODO]]}} [[Iteration/1 - Set up the graph]]
         - {{[[TODO]]}} [[story/Add Stories Specific to Datahike and Underlying Libraries]]
-    - [[sprint/1 - Setting up the graph]]
-        - {{[[DONE]]}} [[story/Add Epics related to Datahike]] #Doing
+        - {{[[DONE]]}} [[story/Add Epics related to Datahike]]
         - {{[[DONE]]}} [[story/Create Contributor Onboarding Workflow]]
         - {{[[DONE]]}} [[story/Create Templates for Daily Notes and Squad Logs]]
+    - [[sprint/1 - Setting up the graph]]
         - {{[[TODO]]}} [[story/Update GitHub Projects Board]]
     - {{[[TODO]]}} [[sprint/2]]
 - [[Epics/ClojureScript Support]]

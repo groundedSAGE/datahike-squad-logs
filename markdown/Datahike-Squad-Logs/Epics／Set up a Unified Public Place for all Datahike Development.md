@@ -1,5 +1,5 @@
 - Tags:: #Epics
-    - Status:: #Status/Active
+    - Status:: [[Status/Active]]
     - Date Created:: [[March 1st, 2021]]
     - Created by:: [[Wade Dominic]]
     - Date Range:: [[February 22nd, 2021]] until [[March 15th, 2021]]
