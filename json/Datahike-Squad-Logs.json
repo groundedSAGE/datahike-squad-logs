@@ -20421,10 +20421,10 @@
             }
           },
           {
-            "string": " {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}",
+            "string": " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1614703194778,
+            "edit-time": 1614710964038,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -37609,18 +37609,6 @@
         "create-time": 1614694417793,
         "uid": "0g_lmMMnt",
         "edit-time": 1614694417793,
-        ":create/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        },
-        ":edit/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1614694336757,
-        "uid": "PuaIC1uEX",
-        "edit-time": 1614694336757,
         ":create/user": {
           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
         },

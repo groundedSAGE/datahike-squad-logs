@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Daily Log]]
         - 16:26 - 16:39 (13 mins)
             - work on tweaking notes from previous Squad Logs session. So it makes more sense for people that we not in attendance. [*](((dKNfiCi1Y)))
