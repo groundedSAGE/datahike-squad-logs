@@ -38481,7 +38481,7 @@
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
                 "uid": "p2mg8xD1-",
-                "edit-time": 1614695276871,
+                "edit-time": 1614877531684,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -39202,11 +39202,275 @@
   {
     "create-time": 1614818782570,
     "title": "March 4th, 2021",
-    "uid": "03-04-2021",
-    "edit-time": 1614818782570,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "edit-time": 1614877454572,
+        "children": [
+          {
+            "string": "#Scratchpad #not-populated",
+            "create-time": 1614877460082,
+            ":block/refs": [
+              {
+                ":block/uid": "4BF7GT93b"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4BF7GT93b"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "BlmC0GkPt",
+            "edit-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Conversation #not-populated",
+            "create-time": 1614877460082,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "9BDkj-6os"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "9BDkj-6os"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "bu823b1sz",
+            "edit-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "edit-time": 1614877460082,
+            "children": [
+              {
+                "string": "((p2mg8xD1-))",
+                "create-time": 1614877519246,
+                ":block/refs": [
+                  {
+                    ":block/uid": "p2mg8xD1-"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "p2mg8xD1-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "2hhOXyj1y",
+                "edit-time": 1614877524732,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "string": "((LorzylklN))",
+                "create-time": 1614877528619,
+                ":block/refs": [
+                  {
+                    ":block/uid": "LorzylklN"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "LorzylklN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "LGVd0WOA7",
+                "edit-time": 1614877529353,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PtsT-s1sQ"
+              }
+            ],
+            "uid": "0V-EoUTdn",
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "string": "#[[GTD Zone]]",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Bookmarks",
+            "create-time": 1614877460082,
+            ":block/refs": [
+              {
+                ":block/uid": "QMbyAwRkC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QMbyAwRkC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "mckwCiG0I",
+            "edit-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Reflection #not-populated",
+            "create-time": 1614877460082,
+            ":block/refs": [
+              {
+                ":block/uid": "rQrwT2p4X"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rQrwT2p4X"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "KdT4YeS8z",
+            "edit-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#[[Change Log]] #not-populated",
+            "create-time": 1614877460082,
+            ":block/refs": [
+              {
+                ":block/uid": "mbXuW2c5H"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mbXuW2c5H"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "EVDgkbGm1",
+            "edit-time": 1614877460082,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "n3eBhhrSb"
+          },
+          {
+            "uid": "p46ep77mm"
+          },
+          {
+            "uid": "M8eW6OQHA"
+          }
+        ],
+        "uid": "HDo6qIKYX",
+        ":block/refs": [
+          {
+            ":block/uid": "n3eBhhrSb"
+          },
+          {
+            ":block/uid": "p46ep77mm"
+          },
+          {
+            ":block/uid": "M8eW6OQHA"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}} ((M8eW6OQHA))",
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "create-time": 1614877454572,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1614877460082,
+        "uid": "0e8vicqEk",
+        "edit-time": 1614877460082,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614877460082,
+        "uid": "J4BPaueWP",
+        "edit-time": 1614877460082,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      }
+    ],
+    "uid": "03-04-2021",
+    "edit-time": 1614818782570,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
