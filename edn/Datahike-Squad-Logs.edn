@@ -21534,8 +21534,8 @@
   [7279 :version/id "0.8.2" 536894329]
   [7279
    :version/nonce
-   "uuide3d29d4b-11c5-4590-8302-a5d674f8d331"
-   536905700]
+   "uuid59dde7e9-278d-4d12-85f5-cceae1613871"
+   536905703]
   [7280 :block/open true 536894330]
   [7280 :block/order 2 536894330]
   [7280 :block/page 8083 536899029]
@@ -38359,7 +38359,7 @@
   [9428 :block/children 9442 536905493]
   [9428 :block/children 9449 536905542]
   [9428 :block/children 9454 536905588]
-  [9428 :block/open true 536905424]
+  [9428 :block/open true 536905703]
   [9428 :block/order 0 536905424]
   [9428 :block/page 9426 536905432]
   [9428 :block/parents 9426 536905432]
@@ -38478,7 +38478,7 @@
   [9441 :edit/time 1614879803141 536905486]
   [9441 :edit/user 6125 536905486]
   [9442 :block/children 9446 536905530]
-  [9442 :block/open true 536905489]
+  [9442 :block/open false 536905701]
   [9442 :block/order 0 536905493]
   [9442 :block/page 9426 536905490]
   [9442 :block/parents 9426 536905490]
