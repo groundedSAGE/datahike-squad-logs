@@ -38499,23 +38499,23 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} datahike.test.core-test",
+                "string": "{{[[DONE]]}} datahike.test.core-test",
                 "create-time": 1613148419900,
                 ":block/refs": [
                   {
-                    ":block/uid": "9v12Vcgoh"
+                    ":block/uid": "Nn5xwMWzL"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "9v12Vcgoh"
+                    "uid": "Nn5xwMWzL"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
                 "uid": "p2mg8xD1-",
-                "edit-time": 1614877531684,
+                "edit-time": 1614890824835,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -38543,25 +38543,45 @@
                 }
               },
               {
-                "string": "datahike.test.lookup-refs-test",
+                "string": "{{[[TODO]]}} datahike.test.lookup-refs-test",
                 "create-time": 1613148510667,
-                "uid": "RjeY4pzA-",
-                "edit-time": 1614695276871,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9v12Vcgoh"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9v12Vcgoh"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
+                "uid": "RjeY4pzA-",
+                "edit-time": 1614890817473,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
               },
               {
-                "string": "datahike.test.query-test",
+                "string": "{{[[TODO]]}} datahike.test.query-test",
                 "create-time": 1613148584087,
-                "uid": "oHaKXtBuA",
-                "edit-time": 1614695276871,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9v12Vcgoh"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9v12Vcgoh"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
+                "uid": "oHaKXtBuA",
+                "edit-time": 1614890815335,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -39402,6 +39422,134 @@
                     ":edit/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     }
+                  },
+                  {
+                    "edit-time": 1614889494206,
+                    "children": [
+                      {
+                        "string": "This would make `count<` utility redundant [*](((WOtSPGFXO)))",
+                        "create-time": 1614889513752,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WOtSPGFXO"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "WOtSPGFXO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "uid": "7GUqMjZGP",
+                        "edit-time": 1614889548710,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9v12Vcgoh"
+                      },
+                      {
+                        "uid": "ix4l6Y1gA"
+                      }
+                    ],
+                    "uid": "IUkhNHZZk",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9v12Vcgoh"
+                      },
+                      {
+                        ":block/uid": "ix4l6Y1gA"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} [[story/Keep active count of database for when people call count]]",
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "create-time": 1614889439434,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "edit-time": 1614890051348,
+                    "children": [
+                      {
+                        "edit-time": 1614890120576,
+                        "children": [
+                          {
+                            "string": "Using [[library/hitchhiker-tree]] in memory has a performance overhead",
+                            "create-time": 1614890120554,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "btaOTE4vW"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "btaOTE4vW"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "uid": "XuyJesK8L",
+                            "edit-time": 1614890208433,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "9v12Vcgoh"
+                          },
+                          {
+                            "uid": "d5Vxn12Dm"
+                          }
+                        ],
+                        "uid": "QEmOWc3Iq",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9v12Vcgoh"
+                          },
+                          {
+                            ":block/uid": "d5Vxn12Dm"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} [[story/Support PresistentSortedSet]]",
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "create-time": 1614890051416,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "nt0DchOp_"
+                      }
+                    ],
+                    "uid": "_Culgaz_Q",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nt0DchOp_"
+                      }
+                    ],
+                    "string": "was looking at the [[NS/datahike.index]] during this work",
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "create-time": 1614889935362,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
                   }
                 ],
                 "refs": [
@@ -39516,6 +39664,28 @@
                 },
                 "uid": "LGVd0WOA7",
                 "edit-time": 1614877529353,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "string": "((oHaKXtBuA))",
+                "create-time": 1614891676900,
+                ":block/refs": [
+                  {
+                    ":block/uid": "oHaKXtBuA"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "oHaKXtBuA"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "ubzybJu_F",
+                "edit-time": 1614891678099,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -39663,18 +39833,6 @@
         ":edit/user": {
           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
         }
-      },
-      {
-        "string": "",
-        "create-time": 1614877460082,
-        "uid": "J4BPaueWP",
-        "edit-time": 1614877460082,
-        ":create/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        },
-        ":edit/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        }
       }
     ],
     "uid": "03-04-2021",
@@ -39759,6 +39917,42 @@
     },
     "uid": "nszGjfb1J",
     "edit-time": 1614889013643,
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614889494212,
+    "title": "story/Keep active count of database for when people call count",
+    "uid": "ix4l6Y1gA",
+    "edit-time": 1614889494213,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614889970908,
+    "title": "NS/datahike.index",
+    "uid": "nt0DchOp_",
+    "edit-time": 1614890045321,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614890120578,
+    "title": "story/Support PresistentSortedSet",
+    "uid": "d5Vxn12Dm",
+    "edit-time": 1614890120579,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
     ":edit/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }

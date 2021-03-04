@@ -11,9 +11,9 @@
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
-        - {{[[TODO]]}} datahike.test.core-test
+        - {{[[DONE]]}} datahike.test.core-test
         - {{[[DONE]]}} datahike.test.entity-test
-        - datahike.test.lookup-refs-test
-        - datahike.test.query-test
+        - {{[[TODO]]}} datahike.test.lookup-refs-test
+        - {{[[TODO]]}} datahike.test.query-test
         - {{[[TODO]]}} datahike.test.transact-test
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
