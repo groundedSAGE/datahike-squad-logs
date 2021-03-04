@@ -2817,7 +2817,7 @@
         }
       },
       {
-        "string": "To be ranked {{Find stories missing from the Backlog:42SmartBlock:Backlog Update:42RemoveButton=false}}                        ",
+        "string": "To be ranked {{Find stories missing from the Backlog:42SmartBlock:Backlog Update:42RemoveButton=false}}                          ",
         "create-time": 1613171970784,
         ":create/user": {
           ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
@@ -2952,10 +2952,44 @@
             ":edit/user": {
               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
             }
+          },
+          {
+            "string": "{{[[TODO]]}} [[story/Improve [[core.async]] Error Handling]]",
+            "create-time": 1614883514537,
+            ":block/refs": [
+              {
+                ":block/uid": "9v12Vcgoh"
+              },
+              {
+                ":block/uid": "EiN0xHoj0"
+              },
+              {
+                ":block/uid": "iR5mJxNco"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9v12Vcgoh"
+              },
+              {
+                "uid": "EiN0xHoj0"
+              },
+              {
+                "uid": "iR5mJxNco"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "O0Q551xII",
+            "edit-time": 1614883514537,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
           }
         ],
         "uid": "b_C9vi0um",
-        "edit-time": 1614643081053,
+        "edit-time": 1614883514919,
         ":edit/user": {
           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
         }
@@ -23643,12 +23677,12 @@
     "create-time": 1613656182817,
     "title": "core.async",
     "uid": "EiN0xHoj0",
-    "edit-time": 1613656182819,
+    "edit-time": 1614883477058,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
     ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
   },
   {
@@ -39210,29 +39244,123 @@
         "edit-time": 1614877454572,
         "children": [
           {
-            "string": "#Scratchpad #not-populated",
-            "create-time": 1614877460082,
-            ":block/refs": [
+            "edit-time": 1614883259689,
+            "children": [
               {
-                ":block/uid": "4BF7GT93b"
+                "edit-time": 1614883426923,
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} [[story/Improve [[core.async]] Error Handling]]",
+                    "create-time": 1614883435345,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9v12Vcgoh"
+                      },
+                      {
+                        ":block/uid": "EiN0xHoj0"
+                      },
+                      {
+                        ":block/uid": "iR5mJxNco"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9v12Vcgoh"
+                      },
+                      {
+                        "uid": "EiN0xHoj0"
+                      },
+                      {
+                        "uid": "iR5mJxNco"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "59P_2bRjF",
+                    "edit-time": 1614883477053,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "btaOTE4vW"
+                  },
+                  {
+                    "uid": "EiN0xHoj0"
+                  },
+                  {
+                    "uid": "dNw47ygbM"
+                  }
+                ],
+                "uid": "sPRE-eSZE",
+                ":block/refs": [
+                  {
+                    ":block/uid": "btaOTE4vW"
+                  },
+                  {
+                    ":block/uid": "EiN0xHoj0"
+                  },
+                  {
+                    ":block/uid": "dNw47ygbM"
+                  }
+                ],
+                "string": "monkey patched `throw-if-exception` of [[NS/hitchhiker.tree.utils.cljs.async]] to not nest the errors through the stack of [[core.async]] channels. This will need to be backported and further considered in [[library/hitchhiker-tree]].",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1614883259673,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
               },
               {
-                ":block/uid": "uybSer7dw"
+                "string": "updated [[NS/datahike.test.filter-test]] based on changes made to the lookups [*](((8fyQ--ie_)))",
+                "create-time": 1614884434112,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8fyQ--ie_"
+                  },
+                  {
+                    ":block/uid": "wQ5It3bGE"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8fyQ--ie_"
+                  },
+                  {
+                    "uid": "wQ5It3bGE"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "eYIpp2-uH",
+                "edit-time": 1614884511635,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
               }
             ],
             "refs": [
               {
                 "uid": "4BF7GT93b"
-              },
-              {
-                "uid": "uybSer7dw"
               }
             ],
+            "uid": "BlmC0GkPt",
+            ":block/refs": [
+              {
+                ":block/uid": "4BF7GT93b"
+              }
+            ],
+            "string": "#Scratchpad ",
             ":create/user": {
               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
             },
-            "uid": "BlmC0GkPt",
-            "edit-time": 1614879806514,
+            "create-time": 1614877460082,
             ":edit/user": {
               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
             }
@@ -39473,6 +39601,52 @@
     "edit-time": 1614818782570,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1614883308091,
+    "title": "NS/hitchhiker.tree.utils.cljs.async",
+    "uid": "dNw47ygbM",
+    "edit-time": 1614883308092,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614883477056,
+    ":block/refs": [
+      {
+        ":block/uid": "EiN0xHoj0"
+      }
+    ],
+    "title": "story/Improve [[core.async]] Error Handling",
+    "refs": [
+      {
+        "uid": "EiN0xHoj0"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    "uid": "iR5mJxNco",
+    "edit-time": 1614883477058,
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614884448076,
+    "title": "NS/datahike.test.filter-test",
+    "uid": "wQ5It3bGE",
+    "edit-time": 1614884448076,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
   }
 ]

@@ -15,10 +15,11 @@
 - ---
 - Story log
 - ---
-- To be ranked {{Find stories missing from the Backlog:42SmartBlock:Backlog Update:42RemoveButton=false}}                        
+- To be ranked {{Find stories missing from the Backlog:42SmartBlock:Backlog Update:42RemoveButton=false}}                          
     - {{[[TODO]]}} [[story/Provide a polyfill for databases API [[library/konserve]]]]    
     - {{[[TODO]]}} [[story/Update ClojureScript support in [[library/konserve]]]]
     - {{[[TODO]]}} [[story/ClojureScript tests passing on [[library/datahike]]]]
     - {{[[TODO]]}} [[story/test]]
+    - {{[[TODO]]}} [[story/Improve [[core.async]] Error Handling]]
 - ---
 - ### Canceled items

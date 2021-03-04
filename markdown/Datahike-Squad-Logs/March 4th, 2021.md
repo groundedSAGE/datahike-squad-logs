@@ -1,5 +1,8 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
-    - #Scratchpad #not-populated
+    - #Scratchpad 
+        - monkey patched `throw-if-exception` of [[NS/hitchhiker.tree.utils.cljs.async]] to not nest the errors through the stack of [[core.async]] channels. This will need to be backported and further considered in [[library/hitchhiker-tree]].
+            - {{[[TODO]]}} [[story/Improve [[core.async]] Error Handling]]
+        - updated [[NS/datahike.test.filter-test]] based on changes made to the lookups [*](((8fyQ--ie_)))
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - "{{[[TODO]]}} datahike.test.core-test"
