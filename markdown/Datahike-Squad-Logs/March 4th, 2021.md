@@ -3,6 +3,9 @@
         - monkey patched `throw-if-exception` of [[NS/hitchhiker.tree.utils.cljs.async]] to not nest the errors through the stack of [[core.async]] channels. This will need to be backported and further considered in [[library/hitchhiker-tree]].
             - {{[[TODO]]}} [[story/Improve [[core.async]] Error Handling]]
         - updated [[NS/datahike.test.filter-test]] based on changes made to the lookups [*](((8fyQ--ie_)))
+        - work on ""{{[[TODO]]}} datahike.test.core-test""
+            - provided convenience functions `count<` and `seq<` in [[NS/datahike.db]]
+            - {{[[TODO]]}} [[story/Implement Reverse Iterator in [[library/hitchhiker-tree]]]]
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - "{{[[TODO]]}} datahike.test.core-test"

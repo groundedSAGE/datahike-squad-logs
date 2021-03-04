@@ -18859,12 +18859,12 @@
     "create-time": 1613145864699,
     "title": "library/hitchhiker-tree",
     "uid": "btaOTE4vW",
-    "edit-time": 1613145864701,
+    "edit-time": 1614889013643,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
     ":edit/user": {
-      ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
   },
   {
@@ -39343,6 +39343,86 @@
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
+              },
+              {
+                "edit-time": 1614888985324,
+                "children": [
+                  {
+                    "string": "provided convenience functions `count<` and `seq<` in [[NS/datahike.db]]",
+                    "create-time": 1614888208776,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sLWR1IfO_"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "sLWR1IfO_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "WOtSPGFXO",
+                    "edit-time": 1614888990865,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "string": "{{[[TODO]]}} [[story/Implement Reverse Iterator in [[library/hitchhiker-tree]]]]",
+                    "create-time": 1614888991823,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9v12Vcgoh"
+                      },
+                      {
+                        ":block/uid": "btaOTE4vW"
+                      },
+                      {
+                        ":block/uid": "nszGjfb1J"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9v12Vcgoh"
+                      },
+                      {
+                        "uid": "btaOTE4vW"
+                      },
+                      {
+                        "uid": "nszGjfb1J"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "x8ATMi2iG",
+                    "edit-time": 1614889013637,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2hhOXyj1y"
+                  }
+                ],
+                "uid": "W4L--DgXN",
+                ":block/refs": [
+                  {
+                    ":block/uid": "2hhOXyj1y"
+                  }
+                ],
+                "string": "work on ((2hhOXyj1y))",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1614888977320,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
               }
             ],
             "refs": [
@@ -39645,6 +39725,40 @@
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614888241197,
+    "title": "NS/datahike.db",
+    "uid": "sLWR1IfO_",
+    "edit-time": 1614888241197,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614889013641,
+    ":block/refs": [
+      {
+        ":block/uid": "btaOTE4vW"
+      }
+    ],
+    "title": "story/Implement Reverse Iterator in [[library/hitchhiker-tree]]",
+    "refs": [
+      {
+        "uid": "btaOTE4vW"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    "uid": "nszGjfb1J",
+    "edit-time": 1614889013643,
     ":edit/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
