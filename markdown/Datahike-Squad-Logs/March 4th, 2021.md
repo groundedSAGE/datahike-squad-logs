@@ -10,12 +10,14 @@
                 - This would make `count<` utility redundant [*](((WOtSPGFXO)))
             - was looking at the [[NS/datahike.index]] during this work
                 - {{[[TODO]]}} [[story/Support PresistentSortedSet]]
-                    - Using [[library/hitchhiker-tree]] in memory has a performance overhead
+                    - This was commented out during initial porting work and will remain this way for now. The reason is that it does not compile in ClojureScript currently
+                    - Using [[library/hitchhiker-tree]] in memory has a performance overhead so supporting this will provide a similar experience for those used to [[Datascript]]
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - "{{[[DONE]]}} datahike.test.core-test"
         - "{{[[TODO]]}} datahike.test.transact-test"
         - "{{[[TODO]]}} datahike.test.query-test"
+        - {{[[TODO]]}} add recorded video of pairing session with [[Christian Weilbach]]
     - #Bookmarks
     - #Reflection #not-populated
     - #[[Change Log]] #not-populated

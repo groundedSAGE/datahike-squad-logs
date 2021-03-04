@@ -39482,23 +39482,41 @@
                         "edit-time": 1614890120576,
                         "children": [
                           {
-                            "string": "Using [[library/hitchhiker-tree]] in memory has a performance overhead",
+                            "string": "This was commented out during initial porting work and will remain this way for now. The reason is that it does not compile in ClojureScript currently",
+                            "create-time": 1614896634111,
+                            "uid": "BNEPgtGV9",
+                            "edit-time": 1614896674061,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "Using [[library/hitchhiker-tree]] in memory has a performance overhead so supporting this will provide a similar experience for those used to [[Datascript]]",
                             "create-time": 1614890120554,
                             ":block/refs": [
                               {
                                 ":block/uid": "btaOTE4vW"
+                              },
+                              {
+                                ":block/uid": "DpSh9Ly5P"
                               }
                             ],
                             "refs": [
                               {
                                 "uid": "btaOTE4vW"
+                              },
+                              {
+                                "uid": "DpSh9Ly5P"
                               }
                             ],
                             ":create/user": {
                               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                             },
                             "uid": "XuyJesK8L",
-                            "edit-time": 1614890208433,
+                            "edit-time": 1614896721424,
                             ":edit/user": {
                               ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                             }
@@ -39686,6 +39704,34 @@
                 },
                 "uid": "ubzybJu_F",
                 "edit-time": 1614891678099,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} add recorded video of pairing session with [[Christian Weilbach]]",
+                "create-time": 1614896772600,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9v12Vcgoh"
+                  },
+                  {
+                    ":block/uid": "FFAykxJB8"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9v12Vcgoh"
+                  },
+                  {
+                    "uid": "FFAykxJB8"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "9TCpEsbCt",
+                "edit-time": 1614896786497,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -39950,6 +39996,30 @@
     "title": "story/Support PresistentSortedSet",
     "uid": "d5Vxn12Dm",
     "edit-time": 1614890120579,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614896721426,
+    "title": "Datascript",
+    "uid": "DpSh9Ly5P",
+    "edit-time": 1614896721427,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1614898809845,
+    "title": "March 5th, 2021",
+    "uid": "03-05-2021",
+    "edit-time": 1614898809845,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },
