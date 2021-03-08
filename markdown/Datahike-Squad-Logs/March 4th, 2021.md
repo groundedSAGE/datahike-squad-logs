@@ -1,3 +1,16 @@
+- #[[Squad Logs]] [[Lead [[Wade Dominic]]]] {{word-count}} {{or:🏁 Finished | 🟢 In Session}}
+    - #[[Engineering & Building]]
+        - Attendees::
+            - [[Wade Dominic]]
+            - [[Christian Weilbach]]
+        - #Video
+            - {{[[video]]: https://youtu.be/vxyDw_Owgi4}}
+        - #Agenda
+            - work on [[Iteration/1 - ClojureScript Tests Passing]]
+        - #[[Daily Log]]
+        - #Scratchpad
+            - This was an impromptu session to work on the tests
+- 
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - monkey patched `throw-if-exception` of [[NS/hitchhiker.tree.utils.cljs.async]] to not nest the errors through the stack of [[core.async]] channels. This will need to be backported and further considered in [[library/hitchhiker-tree]].
@@ -17,7 +30,7 @@
         - "{{[[DONE]]}} datahike.test.core-test"
         - "{{[[TODO]]}} datahike.test.transact-test"
         - "{{[[TODO]]}} datahike.test.query-test"
-        - {{[[TODO]]}} add recorded video of pairing session with [[Christian Weilbach]]
+        - {{[[DONE]]}} add recorded video of pairing session with [[Christian Weilbach]]
     - #Bookmarks
     - #Reflection #not-populated
     - #[[Change Log]] #not-populated

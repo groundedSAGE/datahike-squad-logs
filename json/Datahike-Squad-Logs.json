@@ -37684,11 +37684,253 @@
   {
     "create-time": 1614628766839,
     "title": "March 8th, 2021",
-    "uid": "03-08-2021",
-    "edit-time": 1614628766840,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "edit-time": 1615221296471,
+        "children": [
+          {
+            "string": "#Scratchpad #not-populated",
+            "create-time": 1615221303785,
+            ":block/refs": [
+              {
+                ":block/uid": "4BF7GT93b"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4BF7GT93b"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "ktYtF853c",
+            "edit-time": 1615221325148,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Conversation #not-populated",
+            "create-time": 1615221303785,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "9BDkj-6os"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "9BDkj-6os"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "yIcB7fIuU",
+            "edit-time": 1615221303785,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "edit-time": 1615221303785,
+            "children": [
+              {
+                "string": "((9TCpEsbCt))",
+                "create-time": 1615221318441,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9TCpEsbCt"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9TCpEsbCt"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "8IWEhW7cV",
+                "edit-time": 1615221319727,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PtsT-s1sQ"
+              }
+            ],
+            "uid": "WcFuXDerZ",
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "string": "#[[GTD Zone]]",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1615221303785,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Bookmarks",
+            "create-time": 1615221303785,
+            ":block/refs": [
+              {
+                ":block/uid": "QMbyAwRkC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QMbyAwRkC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "NMO3sT_Gl",
+            "edit-time": 1615221303785,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Reflection #not-populated",
+            "create-time": 1615221303785,
+            ":block/refs": [
+              {
+                ":block/uid": "rQrwT2p4X"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rQrwT2p4X"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "_G20hiPTZ",
+            "edit-time": 1615221303785,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#[[Change Log]] #not-populated",
+            "create-time": 1615221303785,
+            ":block/refs": [
+              {
+                ":block/uid": "mbXuW2c5H"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mbXuW2c5H"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "aPd5cu4Vv",
+            "edit-time": 1615221303785,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "n3eBhhrSb"
+          },
+          {
+            "uid": "p46ep77mm"
+          },
+          {
+            "uid": "M8eW6OQHA"
+          }
+        ],
+        "uid": "qqJSYr_kF",
+        ":block/refs": [
+          {
+            ":block/uid": "n3eBhhrSb"
+          },
+          {
+            ":block/uid": "p46ep77mm"
+          },
+          {
+            ":block/uid": "M8eW6OQHA"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}} ((M8eW6OQHA))",
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "create-time": 1615221296471,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1615221303785,
+        "uid": "q6-PpOsJS",
+        "edit-time": 1615221303785,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615221303785,
+        "uid": "nDQz9X5tH",
+        "edit-time": 1615221303785,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      }
+    ],
+    "uid": "03-08-2021",
+    "edit-time": 1614628766840,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     }
@@ -39261,6 +39503,296 @@
     },
     "children": [
       {
+        "edit-time": 1615221282415,
+        "children": [
+          {
+            "edit-time": 1615221088308,
+            "children": [
+              {
+                "edit-time": 1615221088308,
+                "children": [
+                  {
+                    "string": "[[Wade Dominic]]",
+                    "create-time": 1615221088308,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "n3eBhhrSb"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "n3eBhhrSb"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "tpXJ-ETLc",
+                    "edit-time": 1615221095346,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "string": "[[Christian Weilbach]]",
+                    "create-time": 1615221088308,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FFAykxJB8"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "FFAykxJB8"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "uRsfs9bVU",
+                    "edit-time": 1615221099631,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "jVt6rzg6G"
+                  }
+                ],
+                "uid": "LUzLsdacm",
+                ":block/refs": [
+                  {
+                    ":block/uid": "jVt6rzg6G"
+                  }
+                ],
+                "string": "Attendees::",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1615221088308,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "edit-time": 1615221197902,
+                "children": [
+                  {
+                    "string": "{{[[video]]: https://youtu.be/vxyDw_Owgi4}}",
+                    "create-time": 1615221191742,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rU9FMWeYw"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "rU9FMWeYw"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "efYC46mJN",
+                    "edit-time": 1615221212280,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "a3WPLZGQz"
+                  }
+                ],
+                "uid": "abVoknJbY",
+                ":block/refs": [
+                  {
+                    ":block/uid": "a3WPLZGQz"
+                  }
+                ],
+                "string": "#Video",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1615221088308,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "edit-time": 1615221088308,
+                "children": [
+                  {
+                    "string": "work on [[Iteration/1 - ClojureScript Tests Passing]]",
+                    "create-time": 1615221088308,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nOMPZkfVe"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "nOMPZkfVe"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "jOqkA1tOL",
+                    "edit-time": 1615221123103,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "FRYJtEy2-"
+                  }
+                ],
+                "uid": "-sRZRu-rt",
+                ":block/refs": [
+                  {
+                    ":block/uid": "FRYJtEy2-"
+                  }
+                ],
+                "string": "#Agenda",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1615221088308,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "string": "#[[Daily Log]]",
+                "create-time": 1615221088308,
+                ":block/refs": [
+                  {
+                    ":block/uid": "0SxpqGeQa"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "0SxpqGeQa"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "Zw1tLuZHV",
+                "edit-time": 1615221088308,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "edit-time": 1615221238780,
+                "children": [
+                  {
+                    "string": "This was an impromptu session to work on the tests",
+                    "create-time": 1615221239924,
+                    "uid": "ly7miQCc5",
+                    "edit-time": 1615221254215,
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4BF7GT93b"
+                  }
+                ],
+                "uid": "67S324goh",
+                ":block/refs": [
+                  {
+                    ":block/uid": "4BF7GT93b"
+                  }
+                ],
+                "string": "#Scratchpad",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1615221235573,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "XLBSmLszn"
+              }
+            ],
+            "uid": "KEMGMU6aa",
+            ":block/refs": [
+              {
+                ":block/uid": "XLBSmLszn"
+              }
+            ],
+            "string": "#[[Engineering & Building]]",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1615221088308,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "n3eBhhrSb"
+          },
+          {
+            "uid": "CEszxaDl-"
+          },
+          {
+            "uid": "ZLr-nouUv"
+          }
+        ],
+        "uid": "T2fifiVJx",
+        ":block/refs": [
+          {
+            ":block/uid": "n3eBhhrSb"
+          },
+          {
+            ":block/uid": "CEszxaDl-"
+          },
+          {
+            ":block/uid": "ZLr-nouUv"
+          }
+        ],
+        "string": "#[[Squad Logs]] [[Lead [[Wade Dominic]]]] {{word-count}} {{or:🏁 Finished | 🟢 In Session}}",
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "create-time": 1615221066977,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615221066830,
+        "uid": "Ak9ph6YAc",
+        "edit-time": 1615221066830,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
         "edit-time": 1614877454572,
         "children": [
           {
@@ -39709,11 +40241,11 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} add recorded video of pairing session with [[Christian Weilbach]]",
+                "string": "{{[[DONE]]}} add recorded video of pairing session with [[Christian Weilbach]]",
                 "create-time": 1614896772600,
                 ":block/refs": [
                   {
-                    ":block/uid": "9v12Vcgoh"
+                    ":block/uid": "Nn5xwMWzL"
                   },
                   {
                     ":block/uid": "FFAykxJB8"
@@ -39721,7 +40253,7 @@
                 ],
                 "refs": [
                   {
-                    "uid": "9v12Vcgoh"
+                    "uid": "Nn5xwMWzL"
                   },
                   {
                     "uid": "FFAykxJB8"
@@ -39731,7 +40263,7 @@
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
                 "uid": "9TCpEsbCt",
-                "edit-time": 1614896786497,
+                "edit-time": 1615221320716,
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
@@ -40049,6 +40581,18 @@
     },
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1615221197913,
+    "title": "Video",
+    "uid": "a3WPLZGQz",
+    "edit-time": 1615221197914,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
   }
 ]
