@@ -1,0 +1,16 @@
+- You can join a session with the following link https://meet.jit.si/datahike-squad
+- ---
+- We are hosting open session for the work we do on [[Datahike]]. If you would like to learn and participate in it's development then this is the best opportunity to get involved.
+- 
+- Initially we are 
+- 17:00 UTC Friday
+- ---
+- Dates:
+    - [[March 12th, 2021]]
+    - [[March 19th, 2021]]
+    - [[March 26th, 2021]]
+    - [[April 2nd, 2021]]
+    - [[April 9th, 2021]]
+    - [[April 16th, 2021]]
+    - [[April 23rd, 2021]]
+    - [[April 30th, 2021]]

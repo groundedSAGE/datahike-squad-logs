@@ -37915,18 +37915,6 @@
         ":edit/user": {
           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
         }
-      },
-      {
-        "string": "",
-        "create-time": 1615221303785,
-        "uid": "nDQz9X5tH",
-        "edit-time": 1615221303785,
-        ":create/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        },
-        ":edit/user": {
-          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
-        }
       }
     ],
     "uid": "03-08-2021",
@@ -40588,6 +40576,400 @@
     "title": "Video",
     "uid": "a3WPLZGQz",
     "edit-time": 1615221197914,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615221961072,
+    "title": "Session Times",
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    "children": [
+      {
+        "string": "You can join a session with the following link https://meet.jit.si/datahike-squad",
+        "create-time": 1615221962699,
+        "uid": "-PFW28NjY",
+        "edit-time": 1615221975672,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1615222363651,
+        "uid": "J3S_1FA1S",
+        "edit-time": 1615222366252,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "We are hosting open session for the work we do on [[Datahike]]. If you would like to learn and participate in it's development then this is the best opportunity to get involved.",
+        "create-time": 1615222251933,
+        ":block/refs": [
+          {
+            ":block/uid": "gZPSsMfxe"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gZPSsMfxe"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "uid": "dAo_WJib7",
+        "edit-time": 1615222353410,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615222605571,
+        "uid": "eI56wVKQS",
+        "edit-time": 1615222605571,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "Initially we are ",
+        "create-time": 1615222417027,
+        "uid": "O0M4FaNVj",
+        "edit-time": 1615222611193,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "17:00 UTC Friday",
+        "create-time": 1615222377661,
+        "uid": "bD3J5prAY",
+        "edit-time": 1615222416135,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1615222123270,
+        "uid": "ga7GYlrqb",
+        "edit-time": 1615222125197,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "Dates:",
+        "create-time": 1615222242538,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "children": [
+          {
+            "string": "[[March 12th, 2021]]",
+            "create-time": 1615222125191,
+            ":block/refs": [
+              {
+                ":block/uid": "03-12-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-12-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "OFVDmKjsF",
+            "edit-time": 1615222165012,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[March 19th, 2021]]",
+            "create-time": 1615222167501,
+            ":block/refs": [
+              {
+                ":block/uid": "03-19-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-19-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "yUm-LV0gR",
+            "edit-time": 1615222192572,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[March 26th, 2021]]",
+            "create-time": 1615222193857,
+            ":block/refs": [
+              {
+                ":block/uid": "03-26-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-26-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "NjtaJR6LX",
+            "edit-time": 1615222197645,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[April 2nd, 2021]]",
+            "create-time": 1615222198893,
+            ":block/refs": [
+              {
+                ":block/uid": "04-02-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-02-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "372itD7CE",
+            "edit-time": 1615222201848,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[April 9th, 2021]]",
+            "create-time": 1615222203142,
+            ":block/refs": [
+              {
+                ":block/uid": "04-09-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-09-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "yaGYFOYnk",
+            "edit-time": 1615222208028,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[April 16th, 2021]]",
+            "create-time": 1615222209137,
+            ":block/refs": [
+              {
+                ":block/uid": "04-16-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-16-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "d1t5xwGdk",
+            "edit-time": 1615222223495,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[April 23rd, 2021]]",
+            "create-time": 1615222225003,
+            ":block/refs": [
+              {
+                ":block/uid": "04-23-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-23-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "FRx6N-uCy",
+            "edit-time": 1615222228480,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "[[April 30th, 2021]]",
+            "create-time": 1615222229532,
+            ":block/refs": [
+              {
+                ":block/uid": "04-30-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-30-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "4y_3AoGoa",
+            "edit-time": 1615222234285,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          }
+        ],
+        "uid": "GNM2Mh3rb",
+        "edit-time": 1615222245620,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      }
+    ],
+    "uid": "XPMq8vP83",
+    "edit-time": 1615221961072,
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222165012,
+    "title": "March 12th, 2021",
+    "uid": "03-12-2021",
+    "edit-time": 1615222165012,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222192572,
+    "title": "March 19th, 2021",
+    "uid": "03-19-2021",
+    "edit-time": 1615222192572,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222197645,
+    "title": "March 26th, 2021",
+    "uid": "03-26-2021",
+    "edit-time": 1615222197645,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222201848,
+    "title": "April 2nd, 2021",
+    "uid": "04-02-2021",
+    "edit-time": 1615222201848,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222208028,
+    "title": "April 9th, 2021",
+    "uid": "04-09-2021",
+    "edit-time": 1615222208028,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222223495,
+    "title": "April 16th, 2021",
+    "uid": "04-16-2021",
+    "edit-time": 1615222223495,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222228480,
+    "title": "April 23rd, 2021",
+    "uid": "04-23-2021",
+    "edit-time": 1615222228480,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1615222234284,
+    "title": "April 30th, 2021",
+    "uid": "04-30-2021",
+    "edit-time": 1615222234285,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },
