@@ -12318,13 +12318,13 @@
   [6124 :block/parents 6127 536896842]
   [6124
    :block/string
-   " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
-   536905409]
+   " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+   536905960]
   [6124 :block/uid "M8eW6OQHA" 536872539]
   [6124 :create/time 1613165008942 536872539]
   [6124 :create/user 4246 536872539]
   [6124 :edit/seen-by 6125 536899264]
-  [6124 :edit/time 1614710964038 536905409]
+  [6124 :edit/time 1615227410196 536905960]
   [6124 :edit/user 6125 536903591]
   [6125 :block/uid "lgZ05CzAN" 536872550]
   [6125
@@ -21534,8 +21534,8 @@
   [7279 :version/id "0.8.2" 536894329]
   [7279
    :version/nonce
-   "uuidaba05637-9571-403f-b310-51a4f77e42e1"
-   536905959]
+   "uuidc2c65c88-342e-4de7-b205-ad8c63efd0e4"
+   536905960]
   [7280 :block/open true 536894330]
   [7280 :block/order 2 536894330]
   [7280 :block/page 8083 536899029]

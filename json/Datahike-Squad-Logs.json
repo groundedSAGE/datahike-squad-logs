@@ -20455,10 +20455,10 @@
             }
           },
           {
-            "string": " {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}",
+            "string": " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1614710964038,
+            "edit-time": 1615227410196,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
