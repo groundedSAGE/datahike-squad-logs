@@ -39441,11 +39441,11 @@
   [9534 :block/order 5 536905946]
   [9534 :block/page 9508 536905938]
   [9534 :block/parents 9508 536905938]
-  [9534 :block/string "17:00 UTC Friday" 536905943]
+  [9534 :block/string "18:00 UTC Friday" 536905972]
   [9534 :block/uid "bD3J5prAY" 536905937]
   [9534 :create/time 1615222377661 536905937]
   [9534 :create/user 6125 536905937]
-  [9534 :edit/time 1615222416135 536905943]
+  [9534 :edit/time 1615568535544 536905972]
   [9534 :edit/user 6125 536905937]
   [9535 :block/open true 536905944]
   [9535 :block/order 4 536905946]
@@ -39488,5 +39488,5 @@
   [9548 :version/id "0.8.3" 536905965]
   [9548
    :version/nonce
-   "uuidf643b7de-af20-462d-b7c7-00b7f50228b0" 
-   536905965]]}
+   "uuid94fed015-ed17-47ac-be13-e66a23d9f5e8" 
+   536905972]]}

@@ -3,7 +3,7 @@
 - We are hosting open session for the work we do on [[Datahike]]. If you would like to learn and participate in it's development then this is the best opportunity to get involved.
 - 
 - Initially we are 
-- 17:00 UTC Friday
+- 18:00 UTC Friday
 - ---
 - Dates:
     - [[March 12th, 2021]]

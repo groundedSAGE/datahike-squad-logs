@@ -40661,10 +40661,10 @@
         }
       },
       {
-        "string": "17:00 UTC Friday",
+        "string": "18:00 UTC Friday",
         "create-time": 1615222377661,
         "uid": "bD3J5prAY",
-        "edit-time": 1615222416135,
+        "edit-time": 1615568535544,
         ":create/user": {
           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
         },
