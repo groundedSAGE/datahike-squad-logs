@@ -39489,8 +39489,8 @@
   [9548 :version/id "0.8.3" 536905965]
   [9548
    :version/nonce
-   "uuid5f2009ff-3f2c-48da-a529-e93a044d8cc4"
-   536905979]
+   "uuid7219c0cf-0553-41fa-a0b9-b42ad0cba2b7"
+   536905980]
   [9549 :block/uid "03-13-2021" 536905973]
   [9549 :create/time 1615596428397 536905973]
   [9549 :create/user 4246 536905973]
@@ -39532,4 +39532,11 @@
   [9554 :edit/time 1616201321096 536905979]
   [9554 :edit/user 4246 536905979]
   [9554 :log/id 1616201321096 536905979]
-  [9554 :node/title "March 20th, 2021" 536905979]]}
+  [9554 :node/title "March 20th, 2021" 536905979]
+  [9555 :block/uid "VUpOmAijE" 536905980]
+  [9555 :user/display-name "Martin Klepsch" 536905980]
+  [9555
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14Gh3llRWPjzu1VDcVodI6qUecZzo7SoOaJ5IFwoYUg=s96-c"
+   536905980]
+  [9555 :user/uid "sEfiWUBBVKbJptKAAzMTZ56JSFJ3" 536905980]]}
