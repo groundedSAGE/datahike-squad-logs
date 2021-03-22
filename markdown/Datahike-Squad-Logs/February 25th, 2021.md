@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
     - #[[Daily Log]]
         - 12:35
             - added horizontal rule and a new line under my personal template and also for [[Community Notes]]

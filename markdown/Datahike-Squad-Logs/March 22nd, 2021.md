@@ -1,0 +1,17 @@
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
+    - #Scratchpad
+        - It would be nice to have a library like [[Criterium]] but this is only for the JVM.
+            - There is some resources on how to get going with benchmarking for JS environments but it's tough.
+                - Resources:: 
+                    - [Good CLJS library for benchmarking?](https://clojureverse.org/t/good-cljs-library-for-benchmarking/1242) #Clojureverse
+                    - [ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]
+        - I could do some very simple benchmarks. But while I am on this track it's more meaningful to go the entire way and figure out how to set up benchmarking across JavaScript VM's.
+            - So I will follow the directions from "[ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]". This clearly has a cascade of tasks to follow and resources to read up on.
+    - #Conversation #not-populated
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} figure out how to set up benchmarking
+    - #Bookmarks
+    - #Reflection #not-populated
+    - #[[Change Log]] #not-populated
+- ---
+- 

@@ -20455,10 +20455,10 @@
             }
           },
           {
-            "string": " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}",
+            "string": " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1615227410196,
+            "edit-time": 1616415587701,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -41088,13 +41088,429 @@
   {
     "create-time": 1616374187098,
     "title": "March 22nd, 2021",
-    "uid": "03-22-2021",
-    "edit-time": 1616374187098,
     ":create/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
     },
+    "children": [
+      {
+        "edit-time": 1616415574329,
+        "children": [
+          {
+            "edit-time": 1616415606294,
+            "children": [
+              {
+                "edit-time": 1616415661800,
+                "children": [
+                  {
+                    "string": "There is some resources on how to get going with benchmarking for JS environments but it's tough.",
+                    "create-time": 1616415661795,
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1616415730057,
+                        "children": [
+                          {
+                            "string": "[Good CLJS library for benchmarking?](https://clojureverse.org/t/good-cljs-library-for-benchmarking/1242) #Clojureverse",
+                            "create-time": 1616415698596,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "WIXgBPLPv"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "WIXgBPLPv"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "uid": "yzu_tV-C4",
+                            "edit-time": 1616415750204,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "[ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]",
+                            "create-time": 1616415738641,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "7Z4RhcBW9"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "7Z4RhcBW9"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "uid": "N5aTrMQXo",
+                            "edit-time": 1616415819955,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "i1417DLqD"
+                          }
+                        ],
+                        "uid": "-HjsvtfMG",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "i1417DLqD"
+                          }
+                        ],
+                        "string": "Resources:: ",
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "create-time": 1616415730057,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "uid": "LGJUto5O_",
+                    "edit-time": 1616415698602,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "UlFfe7RfL"
+                  }
+                ],
+                "uid": "YQpYDg7PU",
+                ":block/refs": [
+                  {
+                    ":block/uid": "UlFfe7RfL"
+                  }
+                ],
+                "string": "It would be nice to have a library like [[Criterium]] but this is only for the JVM.",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1616415607245,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              },
+              {
+                "string": "I could do some very simple benchmarks. But while I am on this track it's more meaningful to go the entire way and figure out how to set up benchmarking across JavaScript VM's.",
+                "create-time": 1616415827082,
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "children": [
+                  {
+                    "string": "So I will follow the directions from ((N5aTrMQXo)). This clearly has a cascade of tasks to follow and resources to read up on.",
+                    "create-time": 1616415885309,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N5aTrMQXo"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "N5aTrMQXo"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "uid": "ZwyWooEcv",
+                    "edit-time": 1616415930077,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "uid": "e370q2gFf",
+                "edit-time": 1616415881763,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4BF7GT93b"
+              }
+            ],
+            "uid": "bELRGaoHQ",
+            ":block/refs": [
+              {
+                ":block/uid": "4BF7GT93b"
+              }
+            ],
+            "string": "#Scratchpad",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Conversation #not-populated",
+            "create-time": 1616415583234,
+            ":block/refs": [
+              {
+                ":block/uid": "uybSer7dw"
+              },
+              {
+                ":block/uid": "9BDkj-6os"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uybSer7dw"
+              },
+              {
+                "uid": "9BDkj-6os"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "53jroiRZL",
+            "edit-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "edit-time": 1616415583234,
+            "children": [
+              {
+                "string": "{{[[TODO]]}} figure out how to set up benchmarking",
+                "create-time": 1616415590210,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9v12Vcgoh"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9v12Vcgoh"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "uid": "esMFfBJA4",
+                "edit-time": 1616415599880,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PtsT-s1sQ"
+              }
+            ],
+            "uid": "0VWbgQURi",
+            ":block/refs": [
+              {
+                ":block/uid": "PtsT-s1sQ"
+              }
+            ],
+            "string": "#[[GTD Zone]]",
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "create-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Bookmarks",
+            "create-time": 1616415583234,
+            ":block/refs": [
+              {
+                ":block/uid": "QMbyAwRkC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "QMbyAwRkC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "FvR91D4Gz",
+            "edit-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#Reflection #not-populated",
+            "create-time": 1616415583234,
+            ":block/refs": [
+              {
+                ":block/uid": "rQrwT2p4X"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "rQrwT2p4X"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "WcjZzxGLh",
+            "edit-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          },
+          {
+            "string": "#[[Change Log]] #not-populated",
+            "create-time": 1616415583234,
+            ":block/refs": [
+              {
+                ":block/uid": "mbXuW2c5H"
+              },
+              {
+                ":block/uid": "uybSer7dw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mbXuW2c5H"
+              },
+              {
+                "uid": "uybSer7dw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            },
+            "uid": "5i9xqqVLK",
+            "edit-time": 1616415583234,
+            ":edit/user": {
+              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "n3eBhhrSb"
+          },
+          {
+            "uid": "p46ep77mm"
+          },
+          {
+            "uid": "M8eW6OQHA"
+          }
+        ],
+        "uid": "ZZtGnHfyO",
+        ":block/refs": [
+          {
+            ":block/uid": "n3eBhhrSb"
+          },
+          {
+            ":block/uid": "p46ep77mm"
+          },
+          {
+            ":block/uid": "M8eW6OQHA"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Wade Dominic]] {{word-count}} ((M8eW6OQHA))",
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        "create-time": 1616415573331,
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "---",
+        "create-time": 1616415583234,
+        "uid": "GrZY0BUNr",
+        "edit-time": 1616415583234,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1616415583234,
+        "uid": "-jiC06dv6",
+        "edit-time": 1616415583234,
+        ":create/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        },
+        ":edit/user": {
+          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+        }
+      }
+    ],
+    "uid": "03-22-2021",
+    "edit-time": 1616374187098,
     ":edit/user": {
       ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
+    }
+  },
+  {
+    "create-time": 1616415649930,
+    "title": "Criterium",
+    "uid": "UlFfe7RfL",
+    "edit-time": 1616415649931,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1616415750206,
+    "title": "Clojureverse",
+    "uid": "WIXgBPLPv",
+    "edit-time": 1616415750206,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1616415819958,
+    "title": "Mike Fikes",
+    "uid": "7Z4RhcBW9",
+    "edit-time": 1616415819960,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     }
   }
 ]

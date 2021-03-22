@@ -53,7 +53,7 @@
                     - [[Chris Smothers]] and [[Wade Dominic]]
                         - Both of us agree to change it from **Sprint** to **Iteration** in the naming
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
     - #[[Daily Log]]
         - 16:12
             - Added template for Daily Notes - individual Daily Checkin [*](((2WApOiPrA)))

@@ -14,7 +14,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
     - #Scratchpad
         - created a way to detect when a story is blocked. Still iterating on this idea. I messaged [[Brandon Toner]] to see how they do it in [[Roam-Collective]] and it's very similar thinking to what I thought [*](https://roamresearch.com/#/app/Roam-Collective/page/5Zx9LGHrL). It might be possible to automate some of this using [[roam/render]] and [[roam/datalog]] queries but for now it's best to do it as a manual process
         - Got the tests passing for [entity-test](((v0Vclr36k))). 
