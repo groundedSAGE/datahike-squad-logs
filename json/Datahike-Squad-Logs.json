@@ -41375,6 +41375,96 @@
                 ":edit/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 }
+              },
+              {
+                "edit-time": 1616434477377,
+                "children": [
+                  {
+                    "string": "[System Requirements](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md#system-requirements)",
+                    "create-time": 1616434477371,
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "children": [
+                      {
+                        "string": "A 64-bit Intel Mac running 10.15.4+. (Building on Arm Macs is [not yet supported](https://chromium.googlesource.com/chromium/src.git/+/master/docs/mac_arm64.md).)",
+                        "uid": "_mMJxxc1w",
+                        "edit-time": 1616434518445,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      },
+                      {
+                        "string": "[Xcode](https://developer.apple.com/xcode/) 12.2+. This version of Xcode comes with ...",
+                        "uid": "D_ZAkFYIC",
+                        "edit-time": 1616434518445,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      },
+                      {
+                        "string": "The macOS 11.0 SDK. Run",
+                        "uid": "HVrToWJZm",
+                        "edit-time": 1616434518445,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      },
+                      {
+                        "string": "$ ls `xcode-select -p`/Platforms/MacOSX.platform/Developer/SDKs",
+                        "uid": "oJthUjErb",
+                        "edit-time": 1616434518445,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      },
+                      {
+                        "string": "to check whether you have it. Building with a newer SDK usually works too (please fix it if it doesn't), but the releases [currently use Xcode 12.2](https://source.chromium.org/search?q=MAC_BINARIES_LABEL&ss=chromium) and the macOS 11.0 SDK.",
+                        "uid": "EG5P_Ra4h",
+                        "edit-time": 1616434518445,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "uid": "IX5BcwKYM",
+                    "edit-time": 1616434503511,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "string": "I have ",
+                    "create-time": 1616434561303,
+                    "uid": "5GZtf3aRk",
+                    "edit-time": 1616434564598,
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_fMWCERpu"
+                  }
+                ],
+                "uid": "mxF_p3Htk",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_fMWCERpu"
+                  }
+                ],
+                "string": "((_fMWCERpu))",
+                ":create/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                },
+                "create-time": 1616434455731,
+                ":edit/user": {
+                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                }
               }
             ],
             "refs": [

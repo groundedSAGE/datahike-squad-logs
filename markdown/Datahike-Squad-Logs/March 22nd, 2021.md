@@ -15,6 +15,16 @@
                     - The Chromium Projects
                         - [Get the Code: Checkout, Build, & Run Chromium](https://www.chromium.org/developers/how-tos/get-the-code)
                             - [Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)
+        - "[Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)"
+            - [System Requirements](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md#system-requirements)
+                - A 64-bit Intel Mac running 10.15.4+. (Building on Arm Macs is [not yet supported](https://chromium.googlesource.com/chromium/src.git/+/master/docs/mac_arm64.md).)
+                - [Xcode](https://developer.apple.com/xcode/) 12.2+. This version of Xcode comes with ...
+                - The macOS 11.0 SDK. Run
+                - $ ls `xcode-select -p`/Platforms/MacOSX.platform/Developer/SDKs
+                - to check whether you have it. Building with a newer SDK usually works too (please fix it if it doesn't), but the releases [currently use Xcode 12.2](https://source.chromium.org/search?q=MAC_BINARIES_LABEL&ss=chromium) and the macOS 11.0 SDK.
+            - My system is
+                - Mac mini (2018)
+                - Intel Core i7
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} figure out how to set up benchmarking
