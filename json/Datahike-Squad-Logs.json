@@ -41411,9 +41411,9 @@
                         }
                       },
                       {
-                        "string": "$ ls `xcode-select -p`/Platforms/MacOSX.platform/Developer/SDKs",
+                        "string": "```shell\n$ ls `xcode-select -p`Platforms/MacOSX.platform/Developer/SDKs```",
                         "uid": "oJthUjErb",
-                        "edit-time": 1616434518445,
+                        "edit-time": 1616434889397,
                         ":edit/user": {
                           ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                         }
@@ -41434,13 +41434,181 @@
                     }
                   },
                   {
-                    "string": "I have ",
+                    "string": "My system is:",
                     "create-time": 1616434561303,
-                    "uid": "5GZtf3aRk",
-                    "edit-time": 1616434564598,
                     ":create/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     },
+                    "children": [
+                      {
+                        "string": "Hardware",
+                        "create-time": 1616434749672,
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "children": [
+                          {
+                            "string": "Mac mini (2018)",
+                            "create-time": 1616434680975,
+                            "uid": "85UbuoGal",
+                            "edit-time": 1616434686548,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "Intel Core i7",
+                            "create-time": 1616434687908,
+                            "uid": "XMmPAVG0o",
+                            "edit-time": 1616434696528,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "uid": "gUeMlSJSj",
+                        "edit-time": 1616434752513,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      },
+                      {
+                        "string": "Software",
+                        "create-time": 1616434759007,
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "children": [
+                          {
+                            "string": "Current OS:",
+                            "create-time": 1616434700018,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "children": [
+                              {
+                                "string": "macOS Big Sur",
+                                "create-time": 1616434716279,
+                                "uid": "uWEABLeRP",
+                                "edit-time": 1616434722874,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              },
+                              {
+                                "string": "Version 11.2.1",
+                                "create-time": 1616434727329,
+                                "uid": "AcORKy31w",
+                                "edit-time": 1616434736340,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              }
+                            ],
+                            "uid": "rJM2Am0Tc",
+                            "edit-time": 1616434716286,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "Xcode",
+                            "create-time": 1616434778296,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "children": [
+                              {
+                                "string": "Version 12.5 beta 3",
+                                "create-time": 1616434781997,
+                                "uid": "WBKToShs9",
+                                "edit-time": 1616434790811,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              }
+                            ],
+                            "uid": "J621VXM3-",
+                            "edit-time": 1616434782006,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "uid": "0JmyIp6A-",
+                        "edit-time": 1616434764086,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "uid": "5GZtf3aRk",
+                    "edit-time": 1616434748412,
+                    ":edit/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    }
+                  },
+                  {
+                    "edit-time": 1616434922073,
+                    "children": [
+                      {
+                        "string": "However this does `xcode-select -p`",
+                        "create-time": 1616434991225,
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "children": [
+                          {
+                            "string": "Returns: `/Library/Developer/CommandLineTools`",
+                            "create-time": 1616435005951,
+                            "uid": "vBQJkuZ6S",
+                            "edit-time": 1616435016126,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "uid": "jk_jzAOJJ",
+                        "edit-time": 1616435001027,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "oJthUjErb"
+                      }
+                    ],
+                    "uid": "sEa7DEHdV",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "oJthUjErb"
+                      }
+                    ],
+                    "string": "This [command](((oJthUjErb))) to check for Xcode on the machine does not work for me ",
+                    ":create/user": {
+                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                    },
+                    "create-time": 1616434819464,
                     ":edit/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     }
