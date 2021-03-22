@@ -20455,10 +20455,10 @@
             }
           },
           {
-            "string": " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}",
+            "string": " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}",
             "create-time": 1613165008942,
             "uid": "M8eW6OQHA",
-            "edit-time": 1616415587701,
+            "edit-time": 1616455223866,
             ":create/user": {
               ":user/uid": "50lIIQ0OuIbOgKpZcgbpoMqdadb2"
             },
@@ -41912,6 +41912,18 @@
     "title": "Clojurescript",
     "uid": "iccLmRXC2",
     "edit-time": 1616428172169,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1616454008102,
+    "title": "March 23rd, 2021",
+    "uid": "03-23-2021",
+    "edit-time": 1616454008102,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },

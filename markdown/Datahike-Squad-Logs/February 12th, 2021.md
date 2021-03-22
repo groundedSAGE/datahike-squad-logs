@@ -1,4 +1,4 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
     - #[[GTD Zone]]
         - {{[[DONE]]}} Bootstrap the graph using the Roam Agile Template by [[Zsolt Viczián]]
         - {{[[DONE]]}} Cherry pick some conventions and styling for collaboration in Roam from [[Roam-Collective]]

@@ -1,4 +1,4 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
     - #Scratchpad
         - It would be nice to have a library like [[Criterium]] in [[Clojurescript]] but this is only for the JVM.
             - There is some resources on how to get going with benchmarking for JS environments but it's tough.
