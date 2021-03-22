@@ -41099,7 +41099,7 @@
             "edit-time": 1616415606294,
             "children": [
               {
-                "edit-time": 1616415661800,
+                "edit-time": 1616428306898,
                 "children": [
                   {
                     "string": "There is some resources on how to get going with benchmarking for JS environments but it's tough.",
@@ -41187,15 +41187,21 @@
                 "refs": [
                   {
                     "uid": "UlFfe7RfL"
+                  },
+                  {
+                    "uid": "iccLmRXC2"
                   }
                 ],
                 "uid": "YQpYDg7PU",
                 ":block/refs": [
                   {
                     ":block/uid": "UlFfe7RfL"
+                  },
+                  {
+                    ":block/uid": "iccLmRXC2"
                   }
                 ],
-                "string": "It would be nice to have a library like [[Criterium]] but this is only for the JVM.",
+                "string": "It would be nice to have a library like [[Criterium]] in [[Clojurescript]] but this is only for the JVM.",
                 ":create/user": {
                   ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                 },
@@ -41212,11 +41218,135 @@
                 },
                 "children": [
                   {
-                    "string": "So I will follow the directions from ((N5aTrMQXo)). This clearly has a cascade of tasks to follow and resources to read up on.",
-                    "create-time": 1616415885309,
-                    ":block/refs": [
+                    "edit-time": 1616415930077,
+                    "children": [
                       {
-                        ":block/uid": "N5aTrMQXo"
+                        "edit-time": 1616428150216,
+                        "children": [
+                          {
+                            "edit-time": 1616428172166,
+                            "children": [
+                              {
+                                "string": "[Building V8 from source](https://v8.dev/docs/build)",
+                                "create-time": 1616428172559,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                "children": [
+                                  {
+                                    "string": "[Checkout out the V8 source code](https://v8.dev/docs/source-code)",
+                                    "create-time": 1616428228494,
+                                    ":create/user": {
+                                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "[depot_tools](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up)",
+                                        "create-time": 1616428263531,
+                                        "uid": "kzOwaNok0",
+                                        "edit-time": 1616428280962,
+                                        ":create/user": {
+                                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "rO9eLXyge",
+                                    "edit-time": 1616428238091,
+                                    ":edit/user": {
+                                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                    }
+                                  }
+                                ],
+                                "uid": "GFIvDyLlI",
+                                "edit-time": 1616428198415,
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "iccLmRXC2"
+                              }
+                            ],
+                            "uid": "DlAHFzzpf",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "iccLmRXC2"
+                              }
+                            ],
+                            "string": "[Running the Tests](https://clojurescript.org/community/running-tests) #Clojurescript",
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "create-time": 1616428150536,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          },
+                          {
+                            "string": "The Chromium Projects",
+                            "create-time": 1616428416530,
+                            ":create/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            },
+                            "children": [
+                              {
+                                "string": "[Get the Code: Checkout, Build, & Run Chromium](https://www.chromium.org/developers/how-tos/get-the-code)",
+                                "create-time": 1616428435757,
+                                ":create/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                },
+                                "children": [
+                                  {
+                                    "string": "[Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)",
+                                    "create-time": 1616428634213,
+                                    "uid": "_fMWCERpu",
+                                    "edit-time": 1616428662980,
+                                    ":create/user": {
+                                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                    }
+                                  }
+                                ],
+                                "uid": "O5p2xW3h3",
+                                "edit-time": 1616428451898,
+                                ":edit/user": {
+                                  ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                                }
+                              }
+                            ],
+                            "uid": "HiiKIXipN",
+                            "edit-time": 1616428435765,
+                            ":edit/user": {
+                              ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "i1417DLqD"
+                          }
+                        ],
+                        "uid": "njtUCPf0c",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "i1417DLqD"
+                          }
+                        ],
+                        "string": "Resources::",
+                        ":create/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        },
+                        "create-time": 1616428133369,
+                        ":edit/user": {
+                          ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+                        }
                       }
                     ],
                     "refs": [
@@ -41224,11 +41354,17 @@
                         "uid": "N5aTrMQXo"
                       }
                     ],
+                    "uid": "ZwyWooEcv",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N5aTrMQXo"
+                      }
+                    ],
+                    "string": "So I will follow the directions from ((N5aTrMQXo)). This clearly has a cascade of tasks to follow and resources to read up on.",
                     ":create/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     },
-                    "uid": "ZwyWooEcv",
-                    "edit-time": 1616415930077,
+                    "create-time": 1616415885309,
                     ":edit/user": {
                       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
                     }
@@ -41506,6 +41642,18 @@
     "title": "Mike Fikes",
     "uid": "7Z4RhcBW9",
     "edit-time": 1616415819960,
+    ":create/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    },
+    ":edit/user": {
+      ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
+    }
+  },
+  {
+    "create-time": 1616428172169,
+    "title": "Clojurescript",
+    "uid": "iccLmRXC2",
+    "edit-time": 1616428172169,
     ":create/user": {
       ":user/uid": "qn4qilHBwEb2vvDadhljgooKo2l1"
     },

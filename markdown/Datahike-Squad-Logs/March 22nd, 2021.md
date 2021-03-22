@@ -1,12 +1,20 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:🟢Online | ⚫️Offline | 🟡On & Off | 🟠Away}}"
     - #Scratchpad
-        - It would be nice to have a library like [[Criterium]] but this is only for the JVM.
+        - It would be nice to have a library like [[Criterium]] in [[Clojurescript]] but this is only for the JVM.
             - There is some resources on how to get going with benchmarking for JS environments but it's tough.
                 - Resources:: 
                     - [Good CLJS library for benchmarking?](https://clojureverse.org/t/good-cljs-library-for-benchmarking/1242) #Clojureverse
                     - [ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]
         - I could do some very simple benchmarks. But while I am on this track it's more meaningful to go the entire way and figure out how to set up benchmarking across JavaScript VM's.
             - So I will follow the directions from "[ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]". This clearly has a cascade of tasks to follow and resources to read up on.
+                - Resources::
+                    - [Running the Tests](https://clojurescript.org/community/running-tests) #Clojurescript
+                        - [Building V8 from source](https://v8.dev/docs/build)
+                            - [Checkout out the V8 source code](https://v8.dev/docs/source-code)
+                                - [depot_tools](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up)
+                    - The Chromium Projects
+                        - [Get the Code: Checkout, Build, & Run Chromium](https://www.chromium.org/developers/how-tos/get-the-code)
+                            - [Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)
     - #Conversation #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} figure out how to set up benchmarking

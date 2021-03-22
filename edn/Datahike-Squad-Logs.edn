@@ -39489,8 +39489,8 @@
   [9548 :version/id "0.8.3" 536905965]
   [9548
    :version/nonce
-   "uuid8c918358-ec66-417d-81fe-79a4aade078c"
-   536906101]
+   "uuid82ad9333-9016-4138-84c1-3012769ed528"
+   536906192]
   [9549 :block/uid "03-13-2021" 536905973]
   [9549 :create/time 1615596428397 536905973]
   [9549 :create/user 4246 536905973]
@@ -39702,14 +39702,15 @@
   [9568 :block/parents 9558 536906014]
   [9568 :block/parents 9559 536906016]
   [9568 :block/refs 9569 536906019]
+  [9568 :block/refs 9581 536906155]
   [9568
    :block/string
-   "It would be nice to have a library like [[Criterium]] but this is only for the JVM."
-   536906022]
+   "It would be nice to have a library like [[Criterium]] in [[Clojurescript]] but this is only for the JVM."
+   536906156]
   [9568 :block/uid "YQpYDg7PU" 536906013]
   [9568 :create/time 1616415607245 536906013]
   [9568 :create/user 6125 536906013]
-  [9568 :edit/time 1616415661800 536906022]
+  [9568 :edit/time 1616428306898 536906156]
   [9568 :edit/user 6125 536906013]
   [9569 :block/uid "UlFfe7RfL" 536906019]
   [9569 :create/time 1616415649930 536906019]
@@ -39837,6 +39838,12 @@
   [9576 :create/user 6125 536906069]
   [9576 :edit/time 1616415881763 536906087]
   [9576 :edit/user 6125 536906069]
+  [9577 :attrs/lookup 8263 536906121]
+  [9577 :attrs/lookup 9577 536906121]
+  [9577 :attrs/lookup 9578 536906121]
+  [9577 :attrs/lookup 9580 536906121]
+  [9577 :attrs/lookup 9585 536906161]
+  [9577 :block/children 9578 536906113]
   [9577 :block/open true 536906088]
   [9577 :block/order 0 536906090]
   [9577 :block/page 9557 536906089]
@@ -39853,4 +39860,184 @@
   [9577 :create/time 1616415885309 536906088]
   [9577 :create/user 6125 536906088]
   [9577 :edit/time 1616415930077 536906101]
-  [9577 :edit/user 6125 536906088]]}
+  [9577 :edit/user 6125 536906088]
+  [9577
+   :entity/attrs
+   #{[{:source [:block/uid "ZwyWooEcv"],
+       :value [:block/uid "ZwyWooEcv"]}
+      {:source [:block/uid "njtUCPf0c"],
+       :value [:block/uid "i1417DLqD"]}
+      {:source [:block/uid "HiiKIXipN"],
+       :value [:block/uid "HiiKIXipN"]}]
+     [{:source [:block/uid "ZwyWooEcv"],
+       :value [:block/uid "ZwyWooEcv"]}
+      {:source [:block/uid "njtUCPf0c"],
+       :value [:block/uid "i1417DLqD"]}
+      {:source [:block/uid "DlAHFzzpf"],
+       :value [:block/uid "DlAHFzzpf"]}]}
+   536906172]
+  [9578 :block/children 9580 536906120]
+  [9578 :block/children 9585 536906160]
+  [9578 :block/open true 536906102]
+  [9578 :block/order 0 536906113]
+  [9578 :block/page 9557 536906103]
+  [9578 :block/parents 9557 536906103]
+  [9578 :block/parents 9558 536906103]
+  [9578 :block/parents 9559 536906103]
+  [9578 :block/parents 9576 536906111]
+  [9578 :block/parents 9577 536906115]
+  [9578 :block/refs 8263 536906117]
+  [9578 :block/string "Resources::" 536906116]
+  [9578 :block/uid "njtUCPf0c" 536906102]
+  [9578 :create/time 1616428133369 536906102]
+  [9578 :create/user 6125 536906102]
+  [9578 :edit/time 1616428150216 536906116]
+  [9578 :edit/user 6125 536906102]
+  [9580 :block/children 9582 536906130]
+  [9580 :block/open true 536906118]
+  [9580 :block/order 0 536906120]
+  [9580 :block/page 9557 536906119]
+  [9580 :block/parents 9557 536906119]
+  [9580 :block/parents 9558 536906119]
+  [9580 :block/parents 9559 536906119]
+  [9580 :block/parents 9576 536906119]
+  [9580 :block/parents 9577 536906119]
+  [9580 :block/parents 9578 536906122]
+  [9580 :block/refs 9581 536906126]
+  [9580
+   :block/string
+   "[Running the Tests](https://clojurescript.org/community/running-tests) #Clojurescript"
+   536906125]
+  [9580 :block/uid "DlAHFzzpf" 536906118]
+  [9580 :create/time 1616428150536 536906118]
+  [9580 :create/user 6125 536906118]
+  [9580 :edit/time 1616428172166 536906125]
+  [9580 :edit/user 6125 536906118]
+  [9581 :block/uid "iccLmRXC2" 536906126]
+  [9581 :create/time 1616428172169 536906126]
+  [9581 :create/user 6125 536906126]
+  [9581 :edit/time 1616428172169 536906126]
+  [9581 :edit/user 6125 536906126]
+  [9581 :node/title "Clojurescript" 536906126]
+  [9582 :block/children 9583 536906141]
+  [9582 :block/open false 536906157]
+  [9582 :block/order 0 536906130]
+  [9582 :block/page 9557 536906129]
+  [9582 :block/parents 9557 536906129]
+  [9582 :block/parents 9558 536906129]
+  [9582 :block/parents 9559 536906129]
+  [9582 :block/parents 9576 536906129]
+  [9582 :block/parents 9577 536906129]
+  [9582 :block/parents 9578 536906129]
+  [9582 :block/parents 9580 536906132]
+  [9582
+   :block/string
+   "[Building V8 from source](https://v8.dev/docs/build)"
+   536906138]
+  [9582 :block/uid "GFIvDyLlI" 536906127]
+  [9582 :create/time 1616428172559 536906127]
+  [9582 :create/user 6125 536906127]
+  [9582 :edit/time 1616428198415 536906138]
+  [9582 :edit/user 6125 536906127]
+  [9583 :block/children 9584 536906148]
+  [9583 :block/open true 536906139]
+  [9583 :block/order 0 536906141]
+  [9583 :block/page 9557 536906140]
+  [9583 :block/parents 9557 536906140]
+  [9583 :block/parents 9558 536906140]
+  [9583 :block/parents 9559 536906140]
+  [9583 :block/parents 9576 536906140]
+  [9583 :block/parents 9577 536906140]
+  [9583 :block/parents 9578 536906140]
+  [9583 :block/parents 9580 536906140]
+  [9583 :block/parents 9582 536906142]
+  [9583
+   :block/string
+   "[Checkout out the V8 source code](https://v8.dev/docs/source-code)"
+   536906145]
+  [9583 :block/uid "rO9eLXyge" 536906139]
+  [9583 :create/time 1616428228494 536906139]
+  [9583 :create/user 6125 536906139]
+  [9583 :edit/time 1616428238091 536906145]
+  [9583 :edit/user 6125 536906139]
+  [9584 :block/open true 536906146]
+  [9584 :block/order 0 536906148]
+  [9584 :block/page 9557 536906147]
+  [9584 :block/parents 9557 536906147]
+  [9584 :block/parents 9558 536906147]
+  [9584 :block/parents 9559 536906147]
+  [9584 :block/parents 9576 536906147]
+  [9584 :block/parents 9577 536906147]
+  [9584 :block/parents 9578 536906147]
+  [9584 :block/parents 9580 536906147]
+  [9584 :block/parents 9582 536906147]
+  [9584 :block/parents 9583 536906149]
+  [9584
+   :block/string
+   "[depot_tools](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up)"
+   536906153]
+  [9584 :block/uid "kzOwaNok0" 536906146]
+  [9584 :create/time 1616428263531 536906146]
+  [9584 :create/user 6125 536906146]
+  [9584 :edit/time 1616428280962 536906153]
+  [9584 :edit/user 6125 536906146]
+  [9585 :block/children 9586 536906171]
+  [9585 :block/open true 536906158]
+  [9585 :block/order 1 536906158]
+  [9585 :block/page 9557 536906159]
+  [9585 :block/parents 9557 536906159]
+  [9585 :block/parents 9558 536906159]
+  [9585 :block/parents 9559 536906159]
+  [9585 :block/parents 9576 536906159]
+  [9585 :block/parents 9577 536906159]
+  [9585 :block/parents 9578 536906159]
+  [9585 :block/string "The Chromium Projects" 536906170]
+  [9585 :block/uid "HiiKIXipN" 536906158]
+  [9585 :create/time 1616428416530 536906158]
+  [9585 :create/user 6125 536906158]
+  [9585 :edit/time 1616428435765 536906170]
+  [9585 :edit/user 6125 536906158]
+  [9586 :block/children 9588 536906185]
+  [9586 :block/open true 536906167]
+  [9586 :block/order 0 536906182]
+  [9586 :block/page 9557 536906169]
+  [9586 :block/parents 9557 536906169]
+  [9586 :block/parents 9558 536906169]
+  [9586 :block/parents 9559 536906169]
+  [9586 :block/parents 9576 536906169]
+  [9586 :block/parents 9577 536906169]
+  [9586 :block/parents 9578 536906169]
+  [9586 :block/parents 9585 536906173]
+  [9586
+   :block/string
+   "[Get the Code: Checkout, Build, & Run Chromium](https://www.chromium.org/developers/how-tos/get-the-code)"
+   536906182]
+  [9586 :block/uid "O5p2xW3h3" 536906167]
+  [9586 :create/time 1616428435757 536906167]
+  [9586 :create/user 6125 536906167]
+  [9586 :edit/time 1616428451898 536906182]
+  [9586 :edit/user 6125 536906167]
+  [9588 :block/open true 536906183]
+  [9588 :block/order 0 536906185]
+  [9588 :block/page 9557 536906184]
+  [9588 :block/parents 9557 536906184]
+  [9588 :block/parents 9558 536906184]
+  [9588 :block/parents 9559 536906184]
+  [9588 :block/parents 9576 536906184]
+  [9588 :block/parents 9577 536906184]
+  [9588 :block/parents 9578 536906184]
+  [9588 :block/parents 9585 536906184]
+  [9588 :block/parents 9586 536906186]
+  [9588
+   :block/string
+   "[Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)"
+   536906189]
+  [9588 :block/uid "_fMWCERpu" 536906183]
+  [9588 :create/time 1616428634213 536906183]
+  [9588 :create/user 6125 536906183]
+  [9588 :edit/time 1616428662980 536906189]
+  [9588 :edit/user 6125 536906183]
+  [9589 :block/string "" 536906192]
+  [9589 :block/uid "slO6CsNlp" 536906192]
+  [9589 :edit/time 1616428665606 536906192]
+  [9589 :edit/user 6125 536906192]]}
