@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}   {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #[[Daily Log]]
         - 12:35
             - added horizontal rule and a new line under my personal template and also for [[Community Notes]]
@@ -30,7 +30,7 @@
         - 13:36
             - had issues with ticking off that I completed the backups. Turns out it was because I was on a different user to the one that created the TODO. Since I have myself twice in here for testing purposes and running them in different browsers.
         - 15:08
-            - Writing in "#Scratchpad" thinking about how we structure the project management here.
+            - Writing in #Scratchpad thinking about how we structure the project management here.
             - Also made some changes to the Epics template.  
         - 21:20 - 23:20
             - call with [[Christian Weilbach]] - **messy notes**

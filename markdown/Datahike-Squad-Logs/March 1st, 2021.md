@@ -13,12 +13,12 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #Scratchpad
     - #[[GTD Zone]]
     - #Reflection
     - #[[Change Log]]
-        - added css for "#Bookmarks" and "#[[The Main Feed]]"
+        - added css for #Bookmarks and #[[The Main Feed]]
         - Added [[Iterations]] page
         - Made changes to templates for iterations and epics in smartblocks 
 - ---

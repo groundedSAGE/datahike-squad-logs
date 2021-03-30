@@ -10,5 +10,5 @@
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[Iteration/1 - Set up the graph]] [[TODO]]}}}
-        - "{{[[TODO]]}} Update [[Roadmap]] #[[Iteration/1 - Set up the graph]]"
+        - {{[[TODO]]}} Update [[Roadmap]] #[[Iteration/1 - Set up the graph]]
     - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))

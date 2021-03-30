@@ -1240,7 +1240,7 @@ span.rm-page-ref[data-tag="Questions"] {
 span.rm-page-ref[data-tag="Questions"]:before {
     content: '❓'
 }```
-                    - "#[[Daily Log]]"
+                    - #[[Daily Log]]
                     - #[[Help Wanted]]
                         - ```css
 span.rm-page-ref[data-tag="Help Wanted"] {
@@ -1923,7 +1923,7 @@ transition:  box-shadow 0.5s;
 background-color: var(--cl-black);
 }```
                 - Left Sidebar — Highlight important pages #Status/Enabled
-                    - "[[Welcome 😃]]"
+                    - [[Welcome 😃]]
                     - ```css
 
 .starred-pages a[href*="VP5hU0EoH"]>.page,

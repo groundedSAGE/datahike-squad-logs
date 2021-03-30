@@ -1,8 +1,8 @@
 - # Set up your Agile Team here
     - {{[[embed]]: [[roamAgile/team]]}}
-        - "The names listed on this page are used for generating Daily Standup `jjStandup` prompts, and for selecting owners on [[Customer Feedback]]."
-        - "List team members in separate blocks, using page links (else owners on [[Customer Feedback]] won't be links)"
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FGi5Qq219EW.png?alt=media&token=cd2ef588-f5e4-4d56-9410-1dfa61b84611)"
+        - The names listed on this page are used for generating Daily Standup `jjStandup` prompts, and for selecting owners on [[Customer Feedback]].
+        - List team members in separate blocks, using page links (else owners on [[Customer Feedback]] won't be links)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FGi5Qq219EW.png?alt=media&token=cd2ef588-f5e4-4d56-9410-1dfa61b84611)
 - # Algorithms of Thought
     - {{[[embed]]: [[roamAgile/AoT]]}}
 - # Templates

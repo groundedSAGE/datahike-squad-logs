@@ -29,7 +29,7 @@
                 - Resolving Design and Feature Dilemmas
     - ### Product Design
         - Articulate the [[Vision]] on a dedicated page pinned to the sidebar
-        - "Develop your [[Personas]]"
+        - Develop your [[Personas]]
             - You may try De Bono's [[AoT/OPV: Other People's Views]] to identify stakholders. `jjOPV`
             - Create a page for each [[Persona]] under the **persona/** namespace and using the `;;persona` template
         - Develop #[[User Journey]]s 
@@ -38,7 +38,7 @@
             - Use [Algorithms of Thoughs]([[roamAgile/AoT]]) built into [[(i) RoamAgile]]
             - Link to other stories, to [[Customer Feedback]], etc. Go wild with Roam's power in networked thought
         - Plan the [[Roadmap]]
-        - "Capture [[Customer Feedback]]"
+        - Capture [[Customer Feedback]]
             - Use {{Add Customer Feedback}} on [[Customer Feedback]] to add feedback to your database.
                 - The SmartButton will ask for the feedback, past it from the clipboard.
                 - It will then run Sentiment Analysis, ask for feedback type and offer the opportunity to assign an owner. Owners are offered from the [[roamAgile/team]] page.
@@ -50,31 +50,31 @@
     - ### Tracking Development Work
         - Use the Product [[Backlog]] to rank and organize user stories
             - {{Find stories missing from the Backlog}} To find stories in the graph that are not referenced on the backlog. This caters for the use-case that while writing other user stories, working on personas, processing [[Customer Feedback]], etc. you can simply create new user stories in context by creating a page link to a page in the **story/** namespace. The sync button helps you tie these loose ends, by pulling all these story embryos into your backlog.
-                - "📝**Note:** the button in the how-to is a dummy button"
-        - "Use `;;User Story` to populate the story page with a template"
-        - "Use `;;sprint` to populate the sprint page with a template"
+                - 📝**Note:** the button in the how-to is a dummy button
+        - Use `;;User Story` to populate the story page with a template
+        - Use `;;sprint` to populate the sprint page with a template
         - Burn down chart on [[Sprint]] page helps you track team velocity.
         - Kanban board to track progress with stories committed for the [[Sprint]]
     - ### Scrum Ceremonies
-        - "Daily standup (aka. Daily Scrum) meeting"
-            - "📝**Note:** The kanban board on the Daily Standup page is not automatically synchronized with the active sprint. The kanban board for each person on the Daily Notes page is only intended as a snapshot in time to reflect status of development work."
+        - Daily standup (aka. Daily Scrum) meeting
+            - 📝**Note:** The kanban board on the Daily Standup page is not automatically synchronized with the active sprint. The kanban board for each person on the Daily Notes page is only intended as a snapshot in time to reflect status of development work.
         - Sprint Planning
-            - "Use `;;sprint` to populate the sprint page with a template"
-            - "Use {{Sync with Backlog}} to synchronize stories between the [[Backlog]] and the Sprint Plan. This will synchronize stories nested under the sprint on the [[Backlog]]."
+            - Use `;;sprint` to populate the sprint page with a template
+            - Use {{Sync with Backlog}} to synchronize stories between the [[Backlog]] and the Sprint Plan. This will synchronize stories nested under the sprint on the [[Backlog]].
             - Other automation on the Sprint template:
-                - "Use {{Count Story Points}} to check volume of work planned for sprint. "
-                - "Use {{Start Sprint}} to change sprint status to active, and insert first data point on the Burn Down chart."
-        - "Backlog Grooming"
-            - "Rank stories on the [[Backlog]] using standard Roam features"
-            - "{{Find stories missing from the Backlog}} to pull in pages in the **story/** namespace, but not yet present on the [[Backlog]]. Imagine the scenario when you think of another story while reviewing customer feedback, working on a user story, etc. This button helps to tie these loose ends. "
-                - ""📝**Note:** the button in the how-to is a dummy button""
-                - "When you cancel a story, either delete the **story/** page from the database or if for some reason you want to keep it, move the canceled story under __Canceled Items__ at the bottom of the Backlog. This is required, else if you didn't delete the page but deleted the story from the backlog, the next time you press "Find stories..." the story would be added to the list again. By storing these stories hidden away under Canceled Items, the "Find stories..." program will see the story is referenced on the [[Backlog]] and won't add it again."
-            - """Use `;;User Story` to populate the story page with a template"""
-        - "Sprint Demo & Sprint Retrospective"
-            - "Use Sprint Demo on the Sprint Page to outline your Sprint Demo presentation. Include video, screenshots, etc."
-            - "Use Retrospective on the Sprint Page to track team feedback about [[(i) Team Ways of Working]]"
-            - "{{Close Sprint}} to set sprint status to closed, to set completed stories to closed, and to tick off stories and the sprint on the [[Backlog]]"
-                - ""📝**Note:** the button in the how-to is a dummy button""
+                - Use {{Count Story Points}} to check volume of work planned for sprint. 
+                - Use {{Start Sprint}} to change sprint status to active, and insert first data point on the Burn Down chart.
+        - Backlog Grooming
+            - Rank stories on the [[Backlog]] using standard Roam features
+            - {{Find stories missing from the Backlog}} to pull in pages in the **story/** namespace, but not yet present on the [[Backlog]]. Imagine the scenario when you think of another story while reviewing customer feedback, working on a user story, etc. This button helps to tie these loose ends. 
+                - 📝**Note:** the button in the how-to is a dummy button
+                - When you cancel a story, either delete the **story/** page from the database or if for some reason you want to keep it, move the canceled story under __Canceled Items__ at the bottom of the Backlog. This is required, else if you didn't delete the page but deleted the story from the backlog, the next time you press "Find stories..." the story would be added to the list again. By storing these stories hidden away under Canceled Items, the "Find stories..." program will see the story is referenced on the [[Backlog]] and won't add it again.
+            - Use `;;User Story` to populate the story page with a template
+        - Sprint Demo & Sprint Retrospective
+            - Use Sprint Demo on the Sprint Page to outline your Sprint Demo presentation. Include video, screenshots, etc.
+            - Use Retrospective on the Sprint Page to track team feedback about [[(i) Team Ways of Working]]
+            - {{Close Sprint}} to set sprint status to closed, to set completed stories to closed, and to tick off stories and the sprint on the [[Backlog]]
+                - 📝**Note:** the button in the how-to is a dummy button
 - ## ^^Getting started with using the template^^
     - **Video:** Getting sstarted with the Roam Agile Template
         - {{[[video]]: https://youtu.be/L8RYtTzAAYU}}
@@ -87,8 +87,8 @@
     - Edit the [[(i) Team Ways of Working]] page with agreed modus operandi for the team.
     - Create your [[Vision]]
     - Develop your [[Personas]]
-        - "You may try De Bono's [[AoT/OPV: Other People's Views]] to identify stakholders. `jjOPV`"
-        - "Create a page for each [[Persona]] under the **persona/** namespace and using the `;;persona` template"
+        - You may try De Bono's [[AoT/OPV: Other People's Views]] to identify stakholders. `jjOPV`
+        - Create a page for each [[Persona]] under the **persona/** namespace and using the `;;persona` template
     - Add stories to the [[Backlog]]
         - Stories should be in the **story/** namespace.
         - Rank stories and tentatively organize stories into sprints by nesting stories under links to sprints. Sprints should be in the **sprint/** namespace.
@@ -124,9 +124,9 @@
             - You'll be ablt to better manage this process by having the Sprint Plan and the Backlog open side by side
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FUwJ0CGEcH6.png?alt=media&token=daa1dca6-6e32-42e0-8973-e71da72e9c74)
         - Use {{Count Story Points}} to check volume of work planned for sprint. 
-            - "📝**Note:** the button in the how-to is a dummy button"
+            - 📝**Note:** the button in the how-to is a dummy button
         - Use {{Start Sprint}} to change sprint status to active, and insert first data point on the Burn Down chart.
-            - "📝**Note:** the button in the how-to is a dummy button"
+            - 📝**Note:** the button in the how-to is a dummy button
     - Detailed action plan for developing the story, and also test scenarios and test results in the `;;User Story` template.
     - Daily standup (aka. Daily Scrum) meeting
         - Use `jjStandup` on the Daily Notes Page to populate the page with the Daily Standup questions. 
@@ -137,9 +137,9 @@
     - Backlog Grooming
         - Rank stories on the [[Backlog]] using standard Roam features
         - {{Find stories missing from the Backlog}} to pull in pages in the **story/** namespace, but not yet present on the [[Backlog]]. Imagine the scenario when you think of another story while reviewing customer feedback, working on a user story, etc. This button helps to tie these loose ends. 
-            - "📝**Note:** the button in the how-to is a dummy button"
+            - 📝**Note:** the button in the how-to is a dummy button
             - When you cancel a story, either delete the **story/** page from the database or if for some reason you want to keep it, move the canceled story under __Canceled Items__ at the bottom of the Backlog. This is required, else if you didn't delete the page but deleted the story from the backlog, the next time you press "Find stories..." the story would be added to the list again. By storing these stories hidden away under Canceled Items, the "Find stories..." program will see the story is referenced on the [[Backlog]] and won't add it again.
-        - ""Use `;;User Story` to populate the story page with a template""
+        - Use `;;User Story` to populate the story page with a template
     - Sprint Demo & Sprint Retrospective
         - Use Sprint Demo on the Sprint Page to outline your Sprint Demo presentation. Include video, screenshots, etc.
         - During the sprint demo, open the Sprint Plan in the main pane, and the User Story being presented in the sidebar. Having the user story open, will remind the team of the acceptance criteria for each story.
@@ -147,16 +147,16 @@
         - Use Retrospective on the Sprint Page to track team feedback about [[(i) Team Ways of Working]]
             - If the team wants to keep some of the comments at the retrospective meeting private, they may use the `{{[[encrypt]]}}` block functionality in Roam
         - {{Close Sprint}} to set sprint status to closed, to set completed stories to closed, and to tick off stories and the sprint on the [[Backlog]]
-            - "📝**Note:** the button in the how-to is a dummy button"
+            - 📝**Note:** the button in the how-to is a dummy button
     - Capture [[Customer Feedback]]
-        - "Use {{Add Customer Feedback}} on [[Customer Feedback]] to add feedback to your database."
-            - "The SmartButton will ask for the feedback, past it from the clipboard."
-            - "It will then run Sentiment Analysis, ask for feedback type and offer the opportunity to assign an owner. Owners are offered from the [[roamAgile/team]] page."
-            - "Feedback will be created as a `{{[[TODO]]}}` item. This enables you to filter feedbacks on the page, that have been fully processed."
-                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FT3pHxJ2vxd.png?alt=media&token=1f20a355-08a7-42c4-84de-490d53944549)"
-                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FV4YiDLUE4e.png?alt=media&token=1925220c-a116-4438-b355-b7b66f6f0ca4)"
-            - "Nest actions, or new user stories in the **story/** namespace under the feedback to track your actions in context."
-                - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2Fml91BxoFVA.png?alt=media&token=a24a04ac-833c-4a40-9c2d-cc38f8e88c69)"
+        - Use {{Add Customer Feedback}} on [[Customer Feedback]] to add feedback to your database.
+            - The SmartButton will ask for the feedback, past it from the clipboard.
+            - It will then run Sentiment Analysis, ask for feedback type and offer the opportunity to assign an owner. Owners are offered from the [[roamAgile/team]] page.
+            - Feedback will be created as a `{{[[TODO]]}}` item. This enables you to filter feedbacks on the page, that have been fully processed.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FT3pHxJ2vxd.png?alt=media&token=1f20a355-08a7-42c4-84de-490d53944549)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2FV4YiDLUE4e.png?alt=media&token=1925220c-a116-4438-b355-b7b66f6f0ca4)
+            - Nest actions, or new user stories in the **story/** namespace under the feedback to track your actions in context.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamAgile%2Fml91BxoFVA.png?alt=media&token=a24a04ac-833c-4a40-9c2d-cc38f8e88c69)
 - ## Extension guide
     - **Video:** What's Under the Hood?
         - {{[[video]]: https://youtu.be/FLqeknEOczw}}

@@ -1,8 +1,8 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #Scratchpad #not-populated
     - #Conversation #not-populated
     - #[[GTD Zone]]
-        - "{{[[DONE]]}} add recorded video of pairing session with [[Christian Weilbach]]"
+        - {{[[DONE]]}} add recorded video of pairing session with [[Christian Weilbach]]
     - #Bookmarks
     - #Reflection #not-populated
     - #[[Change Log]] #not-populated

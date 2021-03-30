@@ -34,7 +34,7 @@ Comment on the contents of the graph by block referencing and nesting comments u
     - **Adding new collections** (When starting, I'd rather you suggest them first)
 When you add a new "collection", please add it to the change log with a description.
         - Example::
-            - {{embed: ((AIFJdQp5Z))}}
+            - Added #[[Chat]]
 - ## Tips:
     - Added by [[Wade Dominic]] - [copied from](https://roamresearch.com/#/app/Roam-Collective/page/KzdkcgPM2)
         - **Learn through observation.** Watch how others document their information to learn together. I'll take the lead on most conventions so that we can establish some homogeneity in style — but if you have ideas for some new conventions, tag them as `# [[[[Feedback]]: [[Suggestions]]]]` and  (I'll review these periodically)

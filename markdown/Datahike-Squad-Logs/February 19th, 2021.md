@@ -14,18 +14,18 @@
                     - from his experience you want to cut down on the number of tools for collaboration
                     - Would be good to auto-generate the roadmap and have it posted into Slack, Discord etc [*](((2WklXsn2F)))
                     - Answering Questions from [[Wade Dominic]] 
-                        - "#Q Do we put a start date for the sprints?" 
+                        - #Q Do we put a start date for the sprints? 
                             - #Ans Should have a start and end date
-                        - "#Q What do we do when stories aren't finished in a spring?"
+                        - #Q What do we do when stories aren't finished in a spring?
                             - #Ans  Each sprint is a fresh start. If a story is not finished you bring it along to the next sprint if it is decided to keep it. Perhaps you decide to remove it.
-                        - "#Q I wonder what the value is in the Burn Chart?"
+                        - #Q I wonder what the value is in the Burn Chart?
                             - #Ans Not really a Burn Down chart fan
                                 - It's more how do I improve my learning?
                                 - Instead of trying to track and quantify productivity 
                                     - You want to try and track your ability to estimate work
-                        - "#Q Should we consider using [[Hill Charts]]? [*](((Hvif-nMU0)))"
+                        - #Q Should we consider using [[Hill Charts]]? [*](((Hvif-nMU0)))
                             - #Ans  Hill Charts are more meaningful but better at the Epic level rather than a story level because they are only meant to be a day worth of work
-                        - "#Q Do we keep Retrospectives in the Sprints?"
+                        - #Q Do we keep Retrospectives in the Sprints?
                             - #Ans Basecamp does 6 week sprints. So for them they could do a retro.
                             - #Ans  How [[Chris Smothers]] likes to do Retrospectives and general thoughts on them
                                 - Best to do retrospectives once a month
@@ -45,7 +45,7 @@
                         - Owners - Tech leads etc
                     - #Obs 
                         - Perhaps we consider using [[Hill Charts]] instead
-                            - "You want to try and track your ability to estimate work" 
+                            - You want to try and track your ability to estimate work 
                 - Work through Epics
                     - Merge ClojureScript related Epics
                     - {{[[TODO]]}} Need to have descriptions for Epics
@@ -53,7 +53,7 @@
                     - [[Chris Smothers]] and [[Wade Dominic]]
                         - Both of us agree to change it from **Sprint** to **Iteration** in the naming
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #[[Daily Log]]
         - 16:12
             - Added template for Daily Notes - individual Daily Checkin [*](((2WApOiPrA)))
@@ -63,13 +63,13 @@
                     - [[Epics/Set up a Unified Public Place for all Datahike Development]]
         - 16:31 - 17:05
             - Adding conventions from [[Roam Collective]]
-                - "Block-level Tags"
-                - "Top-Section Tags"
-                - "Notifications & Mentions"
-                - "Page-type Tags"
-                - "User Interface"
+                - Block-level Tags
+                - Top-Section Tags
+                - Notifications & Mentions
+                - Page-type Tags
+                - User Interface
             - New conventions for this graph
-                - "Squad Modules"
+                - Squad Modules
             - Re-arranging the order of blocks in [[roam/css]] to align more with ordering in [[Roam Collective]] so it is easier to do a visual diff between this graph and that one.
         - 17:23
             - Squad Log #roam/templates
@@ -77,16 +77,16 @@
                     - #[[Meetings & Discussions]]
         - 18:35
             - Created templates for squad sessions [*](((e4cppezXE)))
-                - "Squad Log - Meeting"
-                - "Squad Log - Engineering" 
+                - Squad Log - Meeting
+                - Squad Log - Engineering 
         - 19:10
-            - Writing "#Reflection" and catching other tasks identified from the [session](((pDz7IiJv6))) in "#[[GTD Zone]]". I won't do these ones today.[*](((50xIwLftL))) [*](((LzXAu_RH1))) [*](((tum_eQ3Im)))
+            - Writing #Reflection and catching other tasks identified from the [session](((pDz7IiJv6))) in #[[GTD Zone]]. I won't do these ones today.[*](((50xIwLftL))) [*](((LzXAu_RH1))) [*](((tum_eQ3Im)))
         - 19:25
             - finished for the day
     - #[[GTD Zone]]
         - {{[[DONE]]}} Add a template for individual Daily Checkin
         - {{[[DONE]]}} Add a template for squads sessions and meetings
-        - "{{[[TODO]]}} Need to have descriptions for Epics" plus other things [*](((zs5_uXspn))) 
+        - {{[[TODO]]}} Need to have descriptions for Epics plus other things [*](((zs5_uXspn))) 
         - {{[[TODO]]}} Update [[Roadmap]] #[[Iteration/1 - Set up the graph]]
         - {{[[DONE]]}} Review how I captured the notes in the [session](((pDz7IiJv6))) [[February 19th, 2021]]
     - #Reflection

@@ -1,4 +1,4 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #[[Daily Log]]
         - Added some stories to the [[Backlog]] for [[sprint/1 - Setting up the graph]] [*](((iqLZys3Ut)))
         - Added some Epics to the [[Roadmap]] for [[sprint/1 - Setting up the graph]] [*](((KB-_ekqDy)))
@@ -7,7 +7,7 @@
         - {{[[DONE]]}} Work on populating the graph with meta-information [*](((2RcnpMHDa)))[*](((YPmS0iClL)))
         - {{[[DONE]]}} Add items to the stories and epics to [[Backlog]] and [[Roadmap]] [*](((L91ApTJvl)))[*](((DLxaviT7X)))
     - #Reflection
-        - I missed adding timestamps to the "#[[Daily Log]]" today. As a lot of what is populated here has been done after the fact since I am still figuring out the best way to integrate this workflow. 
+        - I missed adding timestamps to the #[[Daily Log]] today. As a lot of what is populated here has been done after the fact since I am still figuring out the best way to integrate this workflow. 
     - #[[Change Log]]
         - Made some changes to [[Welcome 😃]] based on changes made by [[Brandon Toner]] on [[Roam-Collective]]
         - Added information to [[Vision]]

@@ -1,4 +1,4 @@
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
     - #Scratchpad
         - It would be nice to have a library like [[Criterium]] in [[Clojurescript]] but this is only for the JVM.
             - There is some resources on how to get going with benchmarking for JS environments but it's tough.
@@ -6,7 +6,7 @@
                     - [Good CLJS library for benchmarking?](https://clojureverse.org/t/good-cljs-library-for-benchmarking/1242) #Clojureverse
                     - [ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]
         - I could do some very simple benchmarks. But while I am on this track it's more meaningful to go the entire way and figure out how to set up benchmarking across JavaScript VM's.
-            - So I will follow the directions from "[ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]". This clearly has a cascade of tasks to follow and resources to read up on.
+            - So I will follow the directions from [ClojureScript Performance Measurement](https://blog.fikesfarm.com/posts/2017-11-18-clojurescript-performance-measurement.html) #[[Mike Fikes]]. This clearly has a cascade of tasks to follow and resources to read up on.
                 - Resources::
                     - [Running the Tests](https://clojurescript.org/community/running-tests) #Clojurescript
                         - [Building V8 from source](https://v8.dev/docs/build)
@@ -15,7 +15,7 @@
                     - The Chromium Projects
                         - [Get the Code: Checkout, Build, & Run Chromium](https://www.chromium.org/developers/how-tos/get-the-code)
                             - [Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)
-        - "[Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)"
+        - [Checkout out and building Chromium for Mac](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md)
             - [System Requirements](https://chromium.googlesource.com/chromium/src/+/master/docs/mac_build_instructions.md#system-requirements)
                 - A 64-bit Intel Mac running 10.15.4+. (Building on Arm Macs is [not yet supported](https://chromium.googlesource.com/chromium/src.git/+/master/docs/mac_arm64.md).)
                 - [Xcode](https://developer.apple.com/xcode/) 12.2+. This version of Xcode comes with ...

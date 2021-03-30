@@ -13,7 +13,7 @@
     - Worldly Database
 - ## Personal Templates
     - WDominic - Daily Checkin #roam/templates
-        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} " {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}"
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}  {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away}}
             - #Scratchpad #not-populated
             - #Conversation #not-populated
             - #[[GTD Zone]]
