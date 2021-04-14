@@ -1,6 +1,7 @@
 #datascript/DB {:schema
  {:create/user
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :plugin/id {:db/unique :db.unique/identity},
   :node/subpages
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :vc/blocks
@@ -38503,7 +38504,7 @@
   [9441 :edit/time 1614879803141 536905486]
   [9441 :edit/user 6125 536905486]
   [9442 :block/children 9446 536905530]
-  [9442 :block/open false 536905701]
+  [9442 :block/open false 536906431]
   [9442 :block/order 0 536905493]
   [9442 :block/page 9426 536905490]
   [9442 :block/parents 9426 536905490]
@@ -38627,7 +38628,7 @@
   [9454 :block/children 9455 536905596]
   [9454 :block/children 9457 536905602]
   [9454 :block/children 9466 536905643]
-  [9454 :block/open false 536905728]
+  [9454 :block/open true 536906432]
   [9454 :block/order 2 536905588]
   [9454 :block/page 9426 536905589]
   [9454 :block/parents 9426 536905589]
@@ -40400,8 +40401,8 @@
   [9624 :version/id "0.8.4" 536906407]
   [9624
    :version/nonce
-   "uuid5f386727-1831-4f30-9669-0bdf2d4099af"
-   536906428]
+   "uuidcad07cae-4956-424d-a05a-38d44f87e3fe"
+   536906437]
   [9629 :block/uid "03-24-2021" 536906421]
   [9629 :create/time 1616546983953 536906421]
   [9629 :create/user 4246 536906421]
@@ -40452,4 +40453,43 @@
   [9636 :edit/time 1617152285762 536906428]
   [9636 :edit/user 4246 536906428]
   [9636 :log/id 1617152285761 536906428]
-  [9636 :node/title "March 31st, 2021" 536906428]]}
+  [9636 :node/title "March 31st, 2021" 536906428]
+  [9637 :block/uid "04-01-2021" 536906429]
+  [9637 :create/time 1617285312932 536906429]
+  [9637 :create/user 6125 536906429]
+  [9637 :edit/time 1617285312932 536906429]
+  [9637 :edit/user 6125 536906429]
+  [9637 :log/id 1617285312931 536906429]
+  [9637 :node/title "April 1st, 2021" 536906429]
+  [9638 :block/children 9639 536906434]
+  [9638 :block/uid "04-06-2021" 536906433]
+  [9638 :create/time 1617704346352 536906433]
+  [9638 :create/user 6197 536906433]
+  [9638 :edit/time 1617704346352 536906433]
+  [9638 :edit/user 6197 536906433]
+  [9638 :log/id 1617704346351 536906433]
+  [9638 :node/title "April 6th, 2021" 536906433]
+  [9639 :block/open true 536906434]
+  [9639 :block/order 0 536906434]
+  [9639 :block/page 9638 536906435]
+  [9639 :block/parents 9638 536906435]
+  [9639 :block/string "" 536906434]
+  [9639 :block/uid "oOZaclin8" 536906434]
+  [9639 :create/time 1617704349324 536906434]
+  [9639 :create/user 6197 536906434]
+  [9639 :edit/time 1617704349324 536906434]
+  [9639 :edit/user 6197 536906434]
+  [9640 :block/uid "04-08-2021" 536906436]
+  [9640 :create/time 1617872117561 536906436]
+  [9640 :create/user 6197 536906436]
+  [9640 :edit/time 1617872117562 536906436]
+  [9640 :edit/user 6197 536906436]
+  [9640 :log/id 1617872117559 536906436]
+  [9640 :node/title "April 8th, 2021" 536906436]
+  [9641 :block/uid "04-14-2021" 536906437]
+  [9641 :create/time 1618384961945 536906437]
+  [9641 :create/user 4246 536906437]
+  [9641 :edit/time 1618384961945 536906437]
+  [9641 :edit/user 4246 536906437]
+  [9641 :log/id 1618384961944 536906437]
+  [9641 :node/title "April 14th, 2021" 536906437]]}
