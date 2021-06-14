@@ -53,6 +53,7 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :graph/name {:db/unique :db.unique/identity},
   :block/page
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :version/id {:db/unique :db.unique/identity}},
@@ -67,13 +68,8 @@
   [1
    :user/settings
    {:namespace-options [:none :partial :full],
-    :right-sidebar-pinned {},
-    :roam/js
-    {:active-blocks
-     #{"6dTlMu2lj" "_jaD0d6Ko" "L4y5xRzk_" "EjJOa8Dc0" "uMY9aa1G3"
-       "nXzlooypv"}},
-    :allow-custom-components? true}
-   536888767]
+    :right-sidebar-pinned {}}
+   536906451]
   [1 :user/uid "o762oTBn5kVpe738hudA1VzwEFd2" 536870914]
   [3 :version/id "0.0.0" 536870916]
   [3
@@ -3150,8 +3146,8 @@
    536905407]
   [1650
    :version/upgraded-nonce
-   "uuid22f673c9-498e-4b13-94c1-605bab915e90"
-   536885236]
+   "uuide379b0dc-cc02-4824-9f5d-65504df5553d"
+   536906452]
   [1652 :block/uid "MOhLaZkD2" 536879115]
   [1652 :user/display-name "Kamil Rudnicki" 536878641]
   [1652 :user/email "kamil.rudnicki@gmail.com" 536879115]
@@ -3463,9 +3459,8 @@
   [1793
    :user/settings
    {:namespace-options [:none :partial :full],
-    :roam/js {:active-blocks #{"EjJOa8Dc0" "_jaD0d6Ko" "uMY9aa1G3"}},
     :right-sidebar-pinned {}}
-   536884318]
+   536906451]
   [1793 :user/uid "n4kvJ4NxBBgJkeNy3dTKca7lctj2" 536879570]
   [1794 :block/uid "E0iKcHJQo" 536879571]
   [1794 :user/uid "GH08joXwNPW2q5cNKVH6t0JuzpD2" 536879571]
@@ -9873,11 +9868,7 @@
   [4243 :node/title "February 7th, 2021" 536891025]
   [4246 :block/uid "KPfDJ9iLv" 536871358]
   [4246 :user/display-name "Wade Dominic" 536896890]
-  [4246
-   :user/settings
-   {:right-sidebar-pinned {},
-    :roam/js {:active-blocks #{"nXzlooypv" "_jaD0d6Ko" "EjJOa8Dc0"}}}
-   536901504]
+  [4246 :user/settings {:right-sidebar-pinned {}} 536906451]
   [4246 :user/uid "50lIIQ0OuIbOgKpZcgbpoMqdadb2" 536871234]
   [4248 :attrs/lookup 17 536892601]
   [4248 :attrs/lookup 269 536871253]
@@ -12331,12 +12322,8 @@
   [6125
    :user/settings
    {:namespace-options [:none :partial :full],
-    :right-sidebar-pinned {},
-    :roam/js
-    {:active-blocks
-     #{"nXzlooypv" "_jaD0d6Ko" "uMY9aa1G3" "EjJOa8Dc0" "L4y5xRzk_"}},
-    :allow-custom-components? true}
-   536904292]
+    :right-sidebar-pinned {}}
+   536906451]
   [6125 :user/uid "qn4qilHBwEb2vvDadhljgooKo2l1" 536872550]
   [6126 :block/string "" 536872557]
   [6126 :block/uid "1ZBeDvgif" 536872557]
@@ -12860,6 +12847,10 @@
    "story/Provide a polyfill for databases API [[library/konserve]]"
    536891211]
   [6197 :block/uid "lt49b93yI" 536891082]
+  [6197
+   :user/settings
+   {:namespace-options [:partial :full :none], :link-brackets? true}
+   536906455]
   [6197 :user/uid "gbwhZyXN9UdAUmANSYWF2BWrMRy2" 536891082]
   [6198 :block/uid "0xIDF4gbS" 536891083]
   [6198
@@ -21537,6 +21528,10 @@
    :version/nonce
    "uuida7ecee0f-fa36-467f-912f-2fca3868ee74"
    536905966]
+  [7279
+   :version/upgraded-nonce
+   "uuida7ecee0f-fa36-467f-912f-2fca3868ee74"
+   536906452]
   [7280 :block/open true 536894330]
   [7280 :block/order 2 536894330]
   [7280 :block/page 8083 536899029]
@@ -39492,6 +39487,10 @@
    :version/nonce
    "uuid1a7958f0-7655-42fa-ab86-34f2fa495a9b"
    536906404]
+  [9548
+   :version/upgraded-nonce
+   "uuid1a7958f0-7655-42fa-ab86-34f2fa495a9b"
+   536906452]
   [9549 :block/uid "03-13-2021" 536905973]
   [9549 :create/time 1615596428397 536905973]
   [9549 :create/user 4246 536905973]
@@ -40403,6 +40402,10 @@
    :version/nonce
    "uuida3d72834-a539-4058-a913-8cc0ab2b50c2"
    536906450]
+  [9624
+   :version/upgraded-nonce
+   "uuida3d72834-a539-4058-a913-8cc0ab2b50c2"
+   536906452]
   [9629 :block/uid "03-24-2021" 536906421]
   [9629 :create/time 1616546983953 536906421]
   [9629 :create/user 4246 536906421]
@@ -40583,4 +40586,16 @@
   [9654 :edit/time 1619658161980 536906450]
   [9654 :edit/user 4246 536906450]
   [9654 :log/id 1619658161979 536906450]
-  [9654 :node/title "April 29th, 2021" 536906450]]}
+  [9654 :node/title "April 29th, 2021" 536906450]
+  [9655 :version/id "0.8.5" 536906451]
+  [9655
+   :version/nonce
+   "uuidd80d96d3-55b2-4f06-bd7b-f4c349b17e2b"
+   536906455]
+  [9656 :block/uid "05-11-2021" 536906453]
+  [9656 :create/time 1620755973409 536906453]
+  [9656 :create/user 6197 536906453]
+  [9656 :edit/time 1620755973409 536906453]
+  [9656 :edit/user 6197 536906453]
+  [9656 :log/id 1620755973409 536906453]
+  [9656 :node/title "May 11th, 2021" 536906453]]}
